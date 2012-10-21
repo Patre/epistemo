@@ -26,27 +26,23 @@
 \pagestyle{headings}
 \thispagestyle{empty}
 \geometry{a4paper,twoside,left=2.5cm,right=2.5cm,marginparwidth=1.2cm,marginparsep=3mm,top=2.5cm,bottom=2.5cm}
+\lstset{language=C, showstringspaces=false, numbers=left, numberstyle=\tiny, tabsize=4}
+\tikzstyle{vertex}=[circle,fill=black!25,minimum size=20pt,inner sep=0pt]
+\tikzstyle{edge} = [draw,thick,-]
+\tikzstyle{tree edge} = [draw, thick,->,red!75]
+\tikzstyle{queue edge} = [draw,thick,->,blue!50]
+\tikzstyle{cross} = [path picture={ \draw[black](path picture bounding box.south east) -- (path picture bounding box.north west) (path picture bounding box.south west) -- (path picture bounding box.north east);}]
+\pgfdeclarelayer{background}
+\pgfsetlayers{background,main}
 
 
 \begin{document}
 
 \large
 \setlength{\parskip}{5mm plus2mm minus2mm}
-\lstset{language=C, showstringspaces=false, numbers=left, numberstyle=\tiny, tabsize=4}
 
 
-
-\tikzstyle{vertex}=[circle,fill=black!25,minimum size=20pt,inner sep=0pt]
-\tikzstyle{edge} = [draw,thick,-]
-\tikzstyle{tree edge} = [draw, thick,->,red!75]
-\tikzstyle{queue edge} = [draw,thick,->,blue!50]
-\tikzstyle{cross} = [path picture={ \draw[black](path picture bounding box.south east) -- (path picture bounding box.north west) (path picture bounding box.south west) -- (path picture bounding box.north east);}]
-
-
-\pgfdeclarelayer{background}
-\pgfsetlayers{background,main}
-
- 
+\begin{titlepage} 
 {\setlength{\parindent}{0cm}
 Chloé DESDOUITS \hfill M2 Informatique 2012\\
 William DYCE \\
@@ -54,9 +50,10 @@ Thibaut MARMIN \\
 Clément SIPIETER 
 }
 \vfill
-{\centering \Huge \bfseries L'évolution informatique conduit-elle à une régression intellectuelle ?\par}
+{\centering \Huge \bfseries L'intégration des technologies de l'information dans l'éducation\par}
 \vfill
 Université Montpellier 2 \hfill  Épistémologie de l'informatique
+\end{titlepage} 
 
 \tableofcontents
 \thispagestyle{empty}
