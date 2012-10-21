@@ -1,28 +1,38 @@
 \begin{thebibliography}{10}
 
-\bibitem{chom_jeunes}
-
-
-\bibitem{b2i_c2i}
-
-
-\bibitem{b2i}
-
-
-\bibitem{isn}
-
-
-\bibitem{portables35}
-
+\bibitem{portables40}
+Dix ans, et apr{\`e}s ? op{\'e}ration « un coll{\'e}gien, un ordinateur
+  portable ».
+\newblock
+  http://www.cndp.fr/ecolenumerique/tous-les-numeros/collecticites/article/article/dix-ans-et-apres-operation-un-collegien-un-ordinateur-portable.html.
 
 \bibitem{portables60}
+Les usages, r{\'e}alit{\'e}s et disparit{\'e}s.
+\newblock
+  http://www.cndp.fr/ecolenumerique/tous-les-numeros/collecticites/article/article/les-usages-realites-et-disparites.html.
 
+\bibitem{b2i_c2i}
+B2i{\textregistered}, c2i{\textregistered} ... et autres attestations
+  informatique et internet.
+\newblock http://eduscol.education.fr/numerique/dossier/competences/b2ic2i, 05
+  2012.
 
-\bibitem{portables40}
+\bibitem{isn}
+Informatique et sciences du num{\'e}rique, un nouvel enseignement de
+  sp{\'e}cialit{\'e} en classe terminale de la s{\'e}rie s.
+\newblock eduscol.education.fr/pid26461-cid59678/presentation.html, 06 2012.
 
+\bibitem{chom}
+Le ch{\^o}mage frappe durement l'union europ{\'e}enne.
+\newblock
+  www.touteleurope.eu/fr/actions/social/emploi-protection-sociale/presentation/comparatif-le-taux-de-chomage-dans-l-ue.html,
+  10 2012.
 
-\bibitem{tics}
-
+\bibitem{chom_jeunes}
+Les jeunes, premi{\`e}res victimes de la crise en europe.
+\newblock
+  www.touteleurope.eu/fr/actions/social/emploi-protection-sociale/presentation/comparatif-le-taux-de-chomage-des-jeunes-dans-l-ue.html,
+  10 2012.
 
 \bibitem{educ_forum}
 Organisation des Nations~unies.
@@ -30,6 +40,11 @@ Organisation des Nations~unies.
   gouvernementales {\`a} l'{\'e}ducation pour tous.
 \newblock Technical report, Forum mondial sur l'{\'e}ducation Dakar,
   S{\'e}n{\'e}gal, 2000.
+
+\bibitem{tics}
+IICD.
+\newblock Les tic au service de l'{\'e}ducation.
+\newblock Technical report, IICD, 11 2007.
 
 \bibitem{peixoto2006regard}
 J.~Peixoto.
@@ -42,5 +57,11 @@ J.~Peixoto.
 W.J. Pelgrum and A.T. Schipper.
 \newblock Indicators of computer integration in education.
 \newblock {\em Computers \& Education}, 21(1):141--149, 1993.
+
+\bibitem{portables35}
+Serge Pouts-Lajus.
+\newblock Bilan des op{\'e}rations « portables » ordi 35 : Un ordinateur pour
+  la maison mais aussi pour le college.
+\newblock http://www2.cndp.fr/archivage/valid/93857/93857-15523-19511.pdf.
 
 \end{thebibliography}
