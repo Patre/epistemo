@@ -15,6 +15,7 @@
 \usepackage{listings}
 \usepackage{lscape}
 \usepackage{amsmath}
+\usepackage[xindy,toc]{glossaries}
 
 \usepackage{tikz}
 \usetikzlibrary{trees}
@@ -35,6 +36,8 @@
 \pgfdeclarelayer{background}
 \pgfsetlayers{background,main}
 
+\input{glossary.tex}
+\makeglossaries
 
 \begin{document}
 
@@ -66,6 +69,7 @@ Université Montpellier 2 \hfill  Épistémologie de l'informatique
 \input{comment.tex}
 \input{conclu.tex}
 
+\printglossaries
 \bibliographystyle{plain}
 \bibliography{Bib}
 
