@@ -1,2 +1,14 @@
 *~
 .DS_STORE
+*.pdf
+*.toc
+*.aux
+*.log
+*.mtc*
+*.out
+*.maf
+*.gl*
+*.ist
+*.lof
+
+!./figures/*.pdf
