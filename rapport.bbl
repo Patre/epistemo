@@ -1,8 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{dreyer00}
-Ankh, Revue d'égyptologie et des civilisations africaines, Paris, Khepera, n8/9, 1999-2000 ; Günter Dreyer,"Recent Discoveries at Abydos Cemetery U", in The Nile Delta in Transition: 4th-3rd millenium B.C., Tel Aviv, E.C. M. Van Den Brink Editor, 1992, pp. 293-299 ; V. David and R. Friedman, Egypt, Londres, British Museum Press, 1998, pp. 35-38.
-
 \bibitem{portables40}
 Dix ans, et apr{\`e}s ? op{\'e}ration « un coll{\'e}gien, un ordinateur
   portable ».
@@ -66,5 +63,10 @@ Serge Pouts-Lajus.
 \newblock Bilan des op{\'e}rations « portables » ordi 35 : Un ordinateur pour
   la maison mais aussi pour le college.
 \newblock http://www2.cndp.fr/archivage/valid/93857/93857-15523-19511.pdf.
+
+\bibitem{robinson2010paradigms}
+Sir~Ken Robinson.
+\newblock Changing education paradigms.
+\newblock In {\em Ted Talk, RSA Animate}, 2010.
 
 \end{thebibliography}

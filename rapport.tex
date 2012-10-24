@@ -15,7 +15,7 @@
 \usepackage{listings}
 \usepackage{lscape}
 \usepackage{amsmath}
-\usepackage[xindy,toc]{glossaries}
+\usepackage[xindy,toc,acronym]{glossaries}
 
 \usepackage{tikz}
 \usetikzlibrary{trees}
@@ -35,6 +35,13 @@
 \tikzstyle{cross} = [path picture={ \draw[black](path picture bounding box.south east) -- (path picture bounding box.north west) (path picture bounding box.south west) -- (path picture bounding box.north east);}]
 \pgfdeclarelayer{background}
 \pgfsetlayers{background,main}
+
+% Romain
+\newcommand{\cRM}[1]{\MakeUppercase{\romannumeral #1}}  % Capital
+\newcommand{\cRm}[1]{\textsc{\romannumeral #1}} % Petit majuscule
+\newcommand{\crm}[1]{\romannumeral #1}
+% Siècle %
+\newcommand{\siecle}[1]{\cRM{#1}\textsuperscript{e}~siècle}
 
 \input{glossary.tex}
 \makeglossaries
@@ -77,3 +84,5 @@ Université Montpellier 2 \hfill  Épistémologie de l'informatique
 {\raggedleft Réalisé avec \LaTeX{} \par}
 
 \end{document}
+
+%TODO the empire's new mind & shadows of the mind & Sir Rogers Penrose
