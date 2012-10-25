@@ -4,40 +4,56 @@
 Comment les drh {\'e}valuent le cursus des jeunes dipl{\^o}m{\'e}s (enqu{\^e}te
   eslsca-ipsos).
 \newblock
-  www.studyrama.com/vie-etudiante/agenda/archives/comment-les-drh-evaluent-le-cursus-des-jeunes-diplomes-enquete-eslscaipsos-42446.html.
+  \href{www.studyrama.com/vie-etudiante/agenda/archives/comment-les-drh-evaluent-le-cursus-des-jeunes-diplomes-enquete-eslscaipsos-42446.html}{www.studyrama.com}.
 
 \bibitem{portables40}
 Dix ans, et apr{\`e}s ? op{\'e}ration « un coll{\'e}gien, un ordinateur
   portable ».
 \newblock
-  www.cndp.fr/ecolenumerique/tous-les-numeros/collecticites/article/article/dix-ans-et-apres-operation-un-collegien-un-ordinateur-portable.html.
+  \href{www.cndp.fr/ecolenumerique/tous-les-numeros/collecticites/article/article/dix-ans-et-apres-operation-un-collegien-un-ordinateur-portable.html}{www.cndp.fr}.
 
 \bibitem{portables60}
 Les usages, r{\'e}alit{\'e}s et disparit{\'e}s.
 \newblock
-  www.cndp.fr/ecolenumerique/tous-les-numeros/collecticites/article/article/les-usages-realites-et-disparites.html.
+  \href{www.cndp.fr/ecolenumerique/tous-les-numeros/collecticites/article/article/les-usages-realites-et-disparites.html}{www.cndp.fr}.
+
+\bibitem{formation_recrutement}
+Il faut adapter la formation professionnelle aux crit{\`e}res de recrutement.
+\newblock
+  \href{lecercle.lesechos.fr/economie-societe/social/221135598/faut-adapter-formation-professionnelle-aux-criteres-recrutement}{lecercle.lesechos.fr},
+  juin 2011.
 
 \bibitem{b2i_c2i}
 B2i{\textregistered}, c2i{\textregistered} ... et autres attestations
   informatique et internet.
-\newblock eduscol.education.fr/numerique/dossier/competences/b2ic2i, 05 2012.
+\newblock
+  \href{eduscol.education.fr/numerique/dossier/competences/b2ic2i}{eduscol.education.fr},
+  mai 2012.
 
 \bibitem{isn}
 Informatique et sciences du num{\'e}rique, un nouvel enseignement de
   sp{\'e}cialit{\'e} en classe terminale de la s{\'e}rie s.
-\newblock eduscol.education.fr/pid26461-cid59678/presentation.html, 06 2012.
+\newblock
+  \href{eduscol.education.fr/pid26461-cid59678/presentation.html}{eduscol.education.fr},
+  juin 2012.
 
 \bibitem{chom}
 Le ch{\^o}mage frappe durement l'union europ{\'e}enne.
 \newblock
-  www.touteleurope.eu/fr/actions/social/emploi-protection-sociale/presentation/comparatif-le-taux-de-chomage-dans-l-ue.html,
-  10 2012.
+  \href{www.touteleurope.eu/fr/actions/social/emploi-protection-sociale/presentation/comparatif-le-taux-de-chomage-dans-l-ue.html}{www.touteleurope.eu},
+  octobre 2012.
+
+\bibitem{diff_emploi}
+Les entreprises ont de plus en plus de mal {\`a} recruter.
+\newblock
+  \href{www.lefigaro.fr/emploi/2012/05/10/09005-20120510ARTFIG00663-les-entreprises-ont-de-plus-en-plus-de-mal-a-recruter.php}{www.lefigaro.fr},
+  mai 2012.
 
 \bibitem{chom_jeunes}
 Les jeunes, premi{\`e}res victimes de la crise en europe.
 \newblock
-  www.touteleurope.eu/fr/actions/social/emploi-protection-sociale/presentation/comparatif-le-taux-de-chomage-des-jeunes-dans-l-ue.html,
-  10 2012.
+  \href{www.touteleurope.eu/fr/actions/social/emploi-protection-sociale/presentation/comparatif-le-taux-de-chomage-des-jeunes-dans-l-ue.html}{www.touteleurope.eu},
+  octobre 2012.
 
 \bibitem{educ_forum}
 Organisation des Nations~unies.
