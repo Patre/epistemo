@@ -11,5 +11,7 @@
 *.ist
 *.lof
 *.sty
+*.acn
+*.xdy
 
 !./figures/*.pdf
