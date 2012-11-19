@@ -10,5 +10,6 @@
 *.gl*
 *.ist
 *.lof
+*.sty
 
 !./figures/*.pdf
