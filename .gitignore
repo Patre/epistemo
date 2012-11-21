@@ -13,5 +13,7 @@
 *.sty
 *.acn
 *.xdy
+*.nav
+*.snm
 
 !./figures/*.pdf
