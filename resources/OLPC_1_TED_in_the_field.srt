@@ -1,0 +1,536 @@
+﻿1
+00:00:15,812 --> 00:00:17,812
+C'est incroyable, quand vous rencontrez un chef d'Etat et que vous lui demandez,
+
+2
+00:00:17,812 --> 00:00:21,812
+"Quelle est votre ressource naturelle la plus précieuse ?" --
+
+3
+00:00:21,812 --> 00:00:23,812
+Ils ne répondront pas "Les enfants" en premier.
+
+4
+00:00:23,812 --> 00:00:25,812
+Et quand vous dites les enfants,
+
+5
+00:00:25,812 --> 00:00:27,812
+ils vont très vite tomber d'accord avec vous.
+
+6
+00:00:34,812 --> 00:00:36,812
+(Video) : Nous voyageons aujourd'hui avec
+
+7
+00:00:36,812 --> 00:00:39,812
+le ministre de la Défense de Colombie,
+
+8
+00:00:39,812 --> 00:00:41,812
+chef de l'armée et chef de la police,
+
+9
+00:00:41,812 --> 00:00:44,812
+et nous déposons 650 ordinateurs portables
+
+10
+00:00:44,812 --> 00:00:46,812
+aujourd'hui pour des enfants
+
+11
+00:00:46,812 --> 00:00:48,812
+qui n'ont ni télévision, ni téléphone
+
+12
+00:00:48,812 --> 00:00:50,812
+et ont vécu dans une communauté
+
+13
+00:00:50,812 --> 00:00:52,812
+coupée du reste du monde
+
+14
+00:00:52,812 --> 00:00:55,812
+pendant les 40 dernières années.
+
+15
+00:00:55,812 --> 00:00:58,812
+Ce qui est important dans le fait de fournir des ordinateurs portables dans cette région
+
+16
+00:00:58,812 --> 00:01:01,812
+est que cela connnecte des enfants qui ont été par ailleurs déconnectés
+
+17
+00:01:01,812 --> 00:01:03,812
+à cause des FARC,
+
+18
+00:01:03,812 --> 00:01:06,812
+la guérilla, qui a débuté il y a 40 ans
+
+19
+00:01:06,812 --> 00:01:10,812
+comme un mouvement politique et ensuite est devenu un mouvement de traffic de drogues.
+
+20
+00:01:11,812 --> 00:01:13,812
+Il y a un milliard d'enfants dans le monde,
+
+21
+00:01:13,812 --> 00:01:15,812
+et 50 pour cent d'entre eux n'ont pas l'électricité
+
+22
+00:01:15,812 --> 00:01:18,812
+à la maison ou à l'école.
+
+23
+00:01:18,812 --> 00:01:20,812
+Et dans certains pays - permettez-moi de prendre l'Afghanistan comme exemple --
+
+24
+00:01:20,812 --> 00:01:23,812
+75 pour cent des filles ne vont pas à l'école.
+
+25
+00:01:23,812 --> 00:01:25,812
+Et je ne veux pas dire qu'elles abandonnent l'école
+
+26
+00:01:25,812 --> 00:01:27,812
+en cours élémentaire ou en cours moyen - elles n'y vont pas.
+
+27
+00:01:27,812 --> 00:01:29,812
+Donc, dans les trois années qui se sont écoulées
+
+28
+00:01:29,812 --> 00:01:32,812
+depuis que j'ai parlé à TED et montré un prototype,
+
+29
+00:01:32,812 --> 00:01:34,812
+il est passé de simple idée
+
+30
+00:01:34,812 --> 00:01:37,812
+à un véritable ordinateur portable.
+
+31
+00:01:37,812 --> 00:01:39,812
+Nous avons un demi-million d'ordinateurs portables aujourd'hui
+
+32
+00:01:39,812 --> 00:01:42,812
+dans les mains d'enfants.
+
+33
+00:01:42,812 --> 00:01:44,812
+Nous en avons environ un quart de million en transit
+
+34
+00:01:44,812 --> 00:01:46,812
+en direction de ces enfants et d'autres enfants,
+
+35
+00:01:47,812 --> 00:01:50,812
+et puis il y a un quart de million de plus
+
+36
+00:01:51,812 --> 00:01:53,812
+qui sont en cours de commande en ce moment.
+
+37
+00:01:53,812 --> 00:01:55,812
+Ainsi, en gros, il y a un million d'ordinateurs portables.
+
+38
+00:01:55,812 --> 00:01:57,812
+C'est moins que ce que j'avais prédit --
+
+39
+00:01:57,812 --> 00:01:59,812
+J'avais prévu de trois à 10 millions --
+
+40
+00:01:59,812 --> 00:02:01,812
+mais c'est quand même un très grand nombre.
+
+41
+00:02:01,812 --> 00:02:05,812
+En Colombie, nous avons environ 3000 ordinateurs portables.
+
+42
+00:02:05,812 --> 00:02:08,812
+Voici le ministre de la Défense, avec qui nous travaillons,
+
+43
+00:02:08,812 --> 00:02:11,812
+pas le ministre de l'Education, car cette opération est considérée comme
+
+44
+00:02:11,812 --> 00:02:13,812
+une question de défense stratégique
+
+45
+00:02:13,812 --> 00:02:18,812
+dans le sens où il s'agit de libérer ces zones
+
+46
+00:02:18,812 --> 00:02:20,812
+qui avait été complètement isolées,
+
+47
+00:02:20,812 --> 00:02:24,812
+dans lesquelles  vivaient les gens qui avaient été à l'origine, si vous voulez,
+
+48
+00:02:24,812 --> 00:02:28,812
+de 40 ans d'attentats, d'enlèvements
+
+49
+00:02:28,812 --> 00:02:30,812
+et d'assassinats.
+
+50
+00:02:30,812 --> 00:02:32,812
+Et soudain,
+
+51
+00:02:32,812 --> 00:02:34,812
+les enfants ont des ordinateurs portables connectés.
+
+52
+00:02:34,812 --> 00:02:36,812
+Ils ont fait un bond de géant.
+
+53
+00:02:36,812 --> 00:02:40,812
+Le changement est absolument monumental,
+
+54
+00:02:40,812 --> 00:02:42,812
+car il ne s'agit pas seulement de l'ouvrir,
+
+55
+00:02:42,812 --> 00:02:45,812
+mais de l'ouvrir sur le reste du monde.
+
+56
+00:02:45,812 --> 00:02:47,812
+Alors, oui, ils construisent des routes, oui, ils installent le téléphone,
+
+57
+00:02:47,812 --> 00:02:49,812
+oui, il y aura la télévision.
+
+58
+00:02:49,812 --> 00:02:51,812
+Mais les enfants de six à 12 ans
+
+59
+00:02:51,812 --> 00:02:55,812
+surfent sur Internet en espagnol et dans les langues locales,
+
+60
+00:02:55,812 --> 00:02:57,812
+donc les enfants grandissent
+
+61
+00:02:57,812 --> 00:02:59,812
+avec l'accès à l'information,
+
+62
+00:02:59,812 --> 00:03:02,812
+avec une fenêtre sur le reste du monde.
+
+63
+00:03:02,812 --> 00:03:04,812
+Avant, ils étaient isolés.
+
+64
+00:03:04,812 --> 00:03:06,812
+Chose intéressante, dans d'autres pays,
+
+65
+00:03:06,812 --> 00:03:08,812
+ce sera le ministre des Finances, qui voit
+
+66
+00:03:08,812 --> 00:03:12,812
+cela comme un moteur de la croissance économique.
+
+67
+00:03:12,812 --> 00:03:16,812
+Et ce moteur verra ses résultats dans 20 ans.
+
+68
+00:03:16,812 --> 00:03:19,812
+Cela ne va pas se faire, vous le savez, en un an,
+
+69
+00:03:19,812 --> 00:03:22,812
+mais c'est un changement important, profondément économique
+
+70
+00:03:22,812 --> 00:03:24,812
+et culturel
+
+71
+00:03:24,812 --> 00:03:26,812
+qui se passe au travers des enfants.
+
+72
+00:03:27,812 --> 00:03:29,812
+31 pays au total sont impliqués,
+
+73
+00:03:29,812 --> 00:03:32,812
+et dans le cas de l'Uruguay,
+
+74
+00:03:32,812 --> 00:03:34,812
+la moitié des enfants les ont déjà,
+
+75
+00:03:34,812 --> 00:03:37,812
+et d'ici le milieu de 2009,
+
+76
+00:03:37,812 --> 00:03:40,812
+tous les enfants en Uruguay auront un ordinateur portable --
+
+77
+00:03:40,812 --> 00:03:42,812
+un petit portable vert.
+
+78
+00:03:42,812 --> 00:03:44,812
+Maintenant, quels sont les premiers résultats ?
+
+79
+00:03:44,812 --> 00:03:46,812
+Parmi les résultats
+
+80
+00:03:46,812 --> 00:03:49,812
+qu'on retrouve dans chaque pays,
+
+81
+00:03:49,812 --> 00:03:51,812
+les enseignants disent
+
+82
+00:03:51,812 --> 00:03:54,812
+qu'ils n'ont jamais autant aimé enseigner,
+
+83
+00:03:54,812 --> 00:03:56,812
+et la compréhension écrite
+
+84
+00:03:56,812 --> 00:04:00,812
+mesurée par des tiers - et pas par nous - a progressé de façon fulgurante.
+
+85
+00:04:00,812 --> 00:04:03,812
+Ce que nous voyons probablement de plus important,
+
+86
+00:04:03,812 --> 00:04:06,812
+ce sont les enfants qui enseignent aux parents.
+
+87
+00:04:06,812 --> 00:04:09,812
+Ils possèdent les ordinateurs portables. Ils les emmènent à la maison.
+
+88
+00:04:09,812 --> 00:04:12,812
+Et alors quand j'ai rencontré trois enfants de ces écoles,
+
+89
+00:04:12,812 --> 00:04:16,812
+qui avaient voyagé toute la journée pour venir à Bogota,
+
+90
+00:04:16,812 --> 00:04:19,812
+l'un des trois enfants était venu avec sa mère.
+
+91
+00:04:19,812 --> 00:04:21,812
+Et la raison pour laquelle elle était venue avec sa mère
+
+92
+00:04:21,812 --> 00:04:24,812
+est que cette enfant de 6 ans
+
+93
+00:04:24,812 --> 00:04:26,812
+avait enseigné à sa mère
+
+94
+00:04:26,812 --> 00:04:28,812
+à lire et à écrire.
+
+95
+00:04:28,812 --> 00:04:31,812
+Sa mère n'était pas allée à l'école primaire.
+
+96
+00:04:31,812 --> 00:04:33,812
+Et c'est un tel renversement des rôles,
+
+97
+00:04:33,812 --> 00:04:36,812
+et un exemple si merveilleux
+
+98
+00:04:36,812 --> 00:04:39,812
+d'enfants qui sont des agents du changement.
+
+99
+00:04:40,812 --> 00:04:42,812
+Donc maintenant, pour terminer, les gens disent,
+
+100
+00:04:42,812 --> 00:04:44,812
+et pourquoi des ordinateurs portables ?
+
+101
+00:04:44,812 --> 00:04:47,812
+Les portables c'est du luxe ; c'est comme de leur donner des iPods. Non.
+
+102
+00:04:47,812 --> 00:04:49,812
+La raison pour laquelle il faut des ordinateurs portables
+
+103
+00:04:49,812 --> 00:04:53,812
+c'est que le mot-clé est éducation, pas ordinateur.
+
+104
+00:04:53,812 --> 00:04:56,812
+C'est un projet éducatif, pas un projet informatique.
+
+105
+00:04:56,812 --> 00:04:58,812
+Ils ont besoin d'apprendre à apprendre. Et puis, réfléchissez --
+
+106
+00:04:58,812 --> 00:05:00,812
+ils peuvent avoir, disons, 100 livres.
+
+107
+00:05:00,812 --> 00:05:03,812
+Dans un village, vous avez 100 ordinateurs portables,
+
+108
+00:05:03,812 --> 00:05:06,812
+chacun avec avec une collection différente de 100 livres,
+
+109
+00:05:06,812 --> 00:05:09,812
+et donc ce village a soudain 10 000 livres.
+
+110
+00:05:09,812 --> 00:05:13,812
+Vous et moi nous n'avions pas 10 000 livres quand nous étions à l'école primaire.
+
+111
+00:05:13,812 --> 00:05:15,812
+Parfois l'école est sous un arbre,
+
+112
+00:05:15,812 --> 00:05:19,812
+ou dans de nombreux cas, l'enseignant n'a étudié qu'au primaire,
+
+113
+00:05:19,812 --> 00:05:22,812
+donc il faut un modèle collaboratif d'apprentissage,
+
+114
+00:05:22,812 --> 00:05:24,812
+pas seulement construire plus d'écoles et former plus d'enseignants,
+
+115
+00:05:24,812 --> 00:05:26,812
+ce qu'il faut faire de toute façon.
+
+116
+00:05:26,812 --> 00:05:29,812
+Donc nous recommençons l'opération "un portable acheté, un offert"
+
+117
+00:05:29,812 --> 00:05:31,812
+L'an dernier, nous avons lancé un programme "un portable acheté, un offert",
+
+118
+00:05:31,812 --> 00:05:35,812
+et nous avons obtenu ainsi 100 000 ordinateurs portables.
+
+119
+00:05:35,812 --> 00:05:38,812
+que nous avons alors pu donner gratuitement.
+
+120
+00:05:38,812 --> 00:05:40,812
+Puisque c'était un ordinateur portable qui coûte zéro dollar,
+
+121
+00:05:40,812 --> 00:05:43,812
+nous pouvons nous rendre dans des pays qui ne peuvent pas du tout se le permettre.
+
+122
+00:05:43,812 --> 00:05:46,812
+C'est ce que nous avons fait. Nous sommes allés à Haïti,
+
+123
+00:05:46,812 --> 00:05:48,812
+nous sommes allés au Rwanda, en Afghanistan,
+
+124
+00:05:48,812 --> 00:05:51,812
+en Ethiopie et en Mongolie.
+
+125
+00:05:51,812 --> 00:05:53,812
+Des endroits qui ne sont pas des marchés,
+
+126
+00:05:53,812 --> 00:05:56,812
+en y semant les principes de
+
+127
+00:05:56,812 --> 00:05:59,812
+saturation, de connectivité, de jeune âge, etc.
+
+128
+00:05:59,812 --> 00:06:03,812
+Et ensuite nous pouvons vraiment déployer de grands nombres.
+
+129
+00:06:03,812 --> 00:06:05,812
+Alors voyez l'opération comme ceci :
+
+130
+00:06:05,812 --> 00:06:08,812
+voyez-la comme une vaccination des enfants
+
+131
+00:06:08,812 --> 00:06:11,812
+contre l'ignorance.
+
+132
+00:06:11,812 --> 00:06:13,812
+Et voyez l'ordinateur portable comme un vaccin.
+
+133
+00:06:13,812 --> 00:06:15,812
+Vous ne vaccinez pas quelques enfants.
+
+134
+00:06:15,812 --> 00:06:18,812
+Vous vaccinez tous les enfants dans une zone.
+

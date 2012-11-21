@@ -1,0 +1,1103 @@
+1
+00:00:00,000 --> 00:00:04,000
+Peu de gens savent que quand j’étais au lycée dans ce pays,
+
+2
+00:00:04,000 --> 00:00:08,000
+je me suis inscrit à l’université à un moment où j'étais convaincu
+
+3
+00:00:08,000 --> 00:00:10,000
+que je deviendrai un artiste ou un sculpteur.
+
+4
+00:00:10,000 --> 00:00:13,000
+Je venais d’un milieu très privilégié. J’avais beaucoup de chance.
+
+5
+00:00:13,000 --> 00:00:18,000
+Ma famille était riche, et mon père croyait en une chose,
+
+6
+00:00:18,000 --> 00:00:21,000
+qui était de nous donner toute l’éducation que l’on voulait.
+
+7
+00:00:21,000 --> 00:00:23,000
+Je lui ai donc annoncé que je voulais devenir sculpteur à Paris.
+
+8
+00:00:23,000 --> 00:00:25,000
+C’était un homme intelligent. Il m’a dit,
+
+9
+00:00:25,000 --> 00:00:29,000
+«C'est d'accord, mais tu as très bien réussi dans tes examens de maths.»
+
+10
+00:00:29,000 --> 00:00:34,000
+J’avais eu 800 et il pensait que c'était une bonne note – moi aussi.
+
+11
+00:00:34,000 --> 00:00:36,000
+Mais les arts, c’était ma passion.
+
+12
+00:00:37,000 --> 00:00:40,000
+Il m’a dit «Si tu vas au MIT», où j’étais admis,
+
+13
+00:00:40,000 --> 00:00:44,000
+«Je paierai pour chaque année que tu passeras au MIT,
+
+14
+00:00:44,000 --> 00:00:46,000
+diplômé ou non diplômé – tout ce que tu veux --
+
+15
+00:00:46,000 --> 00:00:49,000
+je te donnerai de quoi vivre à Paris pendant le même nombre d'années.»
+
+16
+00:00:49,000 --> 00:00:53,000
+J’ai pensé que c’était une super affaire, j’ai donc accepté immédiatement.
+
+17
+00:00:53,000 --> 00:00:56,000
+J’ai décidé que puisque j’étais bon en art et bon en maths,
+
+18
+00:00:56,000 --> 00:00:59,000
+j’étudierai architecture, qui est un mélange des deux.
+
+19
+00:00:59,000 --> 00:01:02,000
+J’en ai donc parlé au proviseur en Prep School.
+
+20
+00:01:02,000 --> 00:01:07,000
+Je lui ai expliqué ce que je voulais faire, que je voulais étudier l'architecture
+
+21
+00:01:07,000 --> 00:01:11,000
+parce que c’était de l’art et des maths en même temps.
+
+22
+00:01:11,000 --> 00:01:15,000
+Il m’a dit quelque chose que je n'ai pas tout du coup compris.
+
+23
+00:01:15,000 --> 00:01:20,000
+Il m’a dit, « Tu sais, j’aime bien les costumes gris, et j’aime bien les costumes rayés
+
+24
+00:01:20,000 --> 00:01:23,000
+mais je n’aime pas les costumes gris rayés.»
+
+25
+00:01:24,000 --> 00:01:28,000
+J’ai pensé : «Ce type est un bon à rien» et je suis allé au MIT.
+
+26
+00:01:28,000 --> 00:01:31,000
+J’ai fait des études d’architecture, puis un second degré en architecture,
+
+27
+00:01:31,000 --> 00:01:36,000
+et très vite je me suis rendu compte que ce n’était pas de l’architecture.
+
+28
+00:01:37,000 --> 00:01:41,000
+En fait, le réel mélange entre art et science c’était les ordinateurs.
+
+29
+00:01:42,000 --> 00:01:46,000
+C’était réellement le domaine pour les mettre ensemble. Et j'ai eu la chance de mener ma carrière en le faisant.
+
+30
+00:01:46,000 --> 00:01:52,000
+Probablement, si je devais me situer sur l’échelle de Jim Citrin,
+
+31
+00:01:52,000 --> 00:01:56,000
+je mettrai 100% du coté de l’équation
+
+32
+00:01:56,000 --> 00:02:00,000
+où l’on passe son temps à donner la possibilité aux autres d’être créatifs.
+
+33
+00:02:01,000 --> 00:02:06,000
+Après avoir fait ça pendant très longtemps, et avoir transmis le témoin au Media Lab,
+
+34
+00:02:06,000 --> 00:02:08,000
+j’ai pensé, «Il est temps que je mène un projet,
+
+35
+00:02:08,000 --> 00:02:12,000
+quelque chose d’important, mais également quelque chose
+
+36
+00:02:12,000 --> 00:02:16,000
+qui profiterait de tous les privilèges que je possède.»
+
+37
+00:02:16,000 --> 00:02:19,000
+Dans le cas du Media Lab, c’était de connaître beaucoup de personnes.
+
+38
+00:02:19,000 --> 00:02:24,000
+De connaître des personnes qui étaient soit influentes soit riches,
+
+39
+00:02:24,000 --> 00:02:29,000
+et également, dans mon cas, ne plus avoir à m’inquiéter pour ma carrière.
+
+40
+00:02:29,000 --> 00:02:31,000
+Ma carrière était déjà faite.
+
+41
+00:02:31,000 --> 00:02:33,000
+Je n’avais pas à me préoccuper de gagner de l’argent,
+
+42
+00:02:33,000 --> 00:02:36,000
+ni à me préoccuper de ce que les gens pensaient de moi.
+
+43
+00:02:36,000 --> 00:02:42,000
+J’ai dit «Faisons quelque chose qui utilise tous ces privilèges,»
+
+44
+00:02:42,000 --> 00:02:46,000
+et j’ai pensé que si on pouvait s'occuper d'éducation en agissant sur les enfants,
+
+45
+00:02:46,000 --> 00:02:50,000
+et en apportant au monde entier l’accès aux ordinateurs,
+
+46
+00:02:50,000 --> 00:02:53,000
+voilà quelque chose que l’on devait vraiment faire.
+
+47
+00:02:54,000 --> 00:02:57,000
+Je n’ai jamais montré cette photo, et on va probablement me poursuivre pour l’avoir fait
+
+48
+00:02:57,000 --> 00:02:59,000
+Elle a été prise à trois heures du matin sans l'accord de la société.
+
+49
+00:02:59,000 --> 00:03:03,000
+Ça date d’il y a deux semaines. Les voilà, les gars.
+
+50
+00:03:03,000 --> 00:03:04,000
+(Applaudissements)
+
+51
+00:03:04,000 --> 00:03:08,000
+Si vous regardez la photo, vous pouvez voir qu’ils sont empilés.
+
+52
+00:03:08,000 --> 00:03:11,000
+Vous voyez les tapis roulants qui bougent.
+
+53
+00:03:11,000 --> 00:03:14,000
+Voilà un des tapis roulants avec les ordinateurs dessus,
+
+54
+00:03:14,000 --> 00:03:17,000
+Mais regardez ceux qui sont au-dessus.
+
+55
+00:03:17,000 --> 00:03:22,000
+Ils installent le logiciel dans la mémoire flash,
+
+56
+00:03:22,000 --> 00:03:25,000
+et ils les testent pendant quelques heures.
+
+57
+00:03:25,000 --> 00:03:29,000
+Mais il faut que ça avance sur la ligne d’assemblage parce que c’est constant.
+
+58
+00:03:29,000 --> 00:03:33,000
+Ils tournent donc sur cette boucle, c'est la raison pour laquelle vous les voyez là-haut.
+
+59
+00:03:33,000 --> 00:03:37,000
+C’était magnifique parce que c’était vraiment un tournant. Mais ça remonte à loin.
+
+60
+00:03:37,000 --> 00:03:42,000
+Cette photo a été prise en 1982, juste avant que le PC IBM soit annoncé.
+
+61
+00:03:42,000 --> 00:03:45,000
+Seymour Papert et moi on apportait des ordinateurs aux écoles.
+
+62
+00:03:45,000 --> 00:03:48,000
+dans les pays en voie de développement avant même que n’importe qui n’y pense.
+
+63
+00:03:48,000 --> 00:03:54,000
+Mais une chose qu’on a apprise est que ces enfants peuvent s’y mettre
+
+64
+00:03:54,000 --> 00:03:57,000
+de la même manière que nos enfants ici.
+
+65
+00:03:57,000 --> 00:04:00,000
+Et quand les gens me disent, «Qui est-ce qui va apprendre aux professeurs comment apprendre aux enfants?»
+
+66
+00:04:00,000 --> 00:04:03,000
+Je me dis : «De quelle planète viens-tu?»
+
+67
+00:04:03,000 --> 00:04:06,000
+D’accord, il n’y a personne dans cette salle, technologique ou non,
+
+68
+00:04:06,000 --> 00:04:11,000
+qui ne donnerait pas son propre ordinateur ou son portable a un enfant
+
+69
+00:04:11,000 --> 00:04:13,000
+pour l’aider à résoudre un problème dessus. Pas vrai?
+
+70
+00:04:13,000 --> 00:04:18,000
+On a tous besoin d’aide, même ceux d'entre nous qui sont chevronnés.
+
+71
+00:04:18,000 --> 00:04:23,000
+Cette photo de Seymour, il y a 25 ans. Seymour a fait une observation
+
+72
+00:04:23,000 --> 00:04:28,000
+très simple en 1968, et l’a présentée en 1978 --
+
+73
+00:04:28,000 --> 00:04:31,000
+le 11 Avril pour être précis – qui s’appelle «Apprendre aux enfants à penser.»
+
+74
+00:04:31,000 --> 00:04:35,000
+Il a observé que les enfants qui écrivent des programmes d’ordinateurs
+
+75
+00:04:35,000 --> 00:04:39,000
+comprennent les choses différemment, et quand ils corrigent les programmes,
+
+76
+00:04:39,000 --> 00:04:42,000
+ils arrivent presque à apprendre sur l’apprentissage.
+
+77
+00:04:42,000 --> 00:04:46,000
+C’était très important, et d’une certaine manière on a perdu tout ça.
+
+78
+00:04:46,000 --> 00:04:48,000
+Les enfants ne programment pas assez et,
+
+79
+00:04:48,000 --> 00:04:52,000
+s’il y a quelque chose que j'espère de ce projet, c’est que les enfants programment.
+
+80
+00:04:52,000 --> 00:04:56,000
+C’est vraiment important. Utiliser les applications est une bonne chose,
+
+81
+00:04:56,000 --> 00:04:59,000
+mais programmer est absolument fondamental.
+
+82
+00:04:59,000 --> 00:05:03,000
+Cet ordinateur sera lancé avec trois langages de programmation : Squeak, Logo et
+
+83
+00:05:03,000 --> 00:05:05,000
+un troisième que je ne connais pas.
+
+84
+00:05:05,000 --> 00:05:08,000
+Le but étant que ce soit très, très intensif du point de vue de la programmation.
+
+85
+00:05:08,000 --> 00:05:12,000
+Cette photo est très importante parce c’est beaucoup plus tard.
+
+86
+00:05:12,000 --> 00:05:17,000
+Au début des années 2000. Mon fils, Dimitri – qui est là,
+
+87
+00:05:17,000 --> 00:05:21,000
+beaucoup ici connaissent Dimitri – est allé au Cambodge, a monté cette école
+
+88
+00:05:21,000 --> 00:05:24,000
+que nous avons construite, et l’a connectée à Internet.
+
+89
+00:05:24,000 --> 00:05:30,000
+Ces enfants avaient leurs ordinateurs. C’est vraiment ce qui nous a inspirés,
+
+90
+00:05:30,000 --> 00:05:34,000
+en dehors de l’influence de Joe et d’autres personnes, à lancer OLPC.
+
+91
+00:05:34,000 --> 00:05:39,000
+Voici le même village en Cambodge, il y a deux mois.
+
+92
+00:05:39,000 --> 00:05:43,000
+Ces enfants sont des vrais pros. Il y avait 7000 machines là-bas
+
+93
+00:05:43,000 --> 00:05:49,000
+testées par les enfants. Ne pas avoir de but lucratif est absolument fondamental.
+
+94
+00:05:49,000 --> 00:05:53,000
+Tous le monde m’avait encouragé à avoir un but lucratif, mais ils se trompaient.
+
+95
+00:05:53,000 --> 00:05:57,000
+Les raisons pour lesquelles il est important ne pas en avoir sont doubles.
+
+96
+00:05:57,000 --> 00:06:00,000
+Il y a plusieurs raisons, mais les deux qui méritent d’être citées sont :
+
+97
+00:06:00,000 --> 00:06:05,000
+1°, la clarté de l'objectif. Le but moral est clair.
+
+98
+00:06:05,000 --> 00:06:09,000
+Je peux voir tous les chefs d’État et les dirigeants que je veux, n’importe quand parce que
+
+99
+00:06:09,000 --> 00:06:13,000
+je ne vends pas d’ordinateurs. Il n’y a pas d’actionnaires.
+
+100
+00:06:13,000 --> 00:06:16,000
+Que nous vendions ou non, ça n’a pas d’importance --
+
+101
+00:06:16,000 --> 00:06:22,000
+la clarté du but est critique. Et la 2e raison, elle n’est pas intuitive,
+
+102
+00:06:22,000 --> 00:06:25,000
+vous recrutez les meilleures personnes au monde.
+
+103
+00:06:25,000 --> 00:06:29,000
+Si vous regardez nos services professionnels, que ce soit la recherche,
+
+104
+00:06:29,000 --> 00:06:33,000
+la communication, les services légaux, les banques,
+
+105
+00:06:33,000 --> 00:06:37,000
+elles sont toutes bénévoles. Ce n'est pas pour économiser.
+
+106
+00:06:37,000 --> 00:06:40,000
+On a de l’argent à la banque. C’est parce qu’on prend les meilleures personnes.
+
+107
+00:06:40,000 --> 00:06:43,000
+On prend les personnes qui le font parce qu’ils croient en ce qu’elles font
+
+108
+00:06:43,000 --> 00:06:45,000
+et ce sont les meilleures.
+
+109
+00:06:45,000 --> 00:06:50,000
+On ne pouvait pas se permettre d’avoir un directeur financier. On a mis une annonce pour un directeur financier sans salaire,
+
+110
+00:06:50,000 --> 00:06:53,000
+et les gens ont fait la queue pour postuler.
+
+111
+00:06:53,000 --> 00:06:56,000
+Ça vous permet de monter une équipe. Les Nations Unies ne seraient pas
+
+112
+00:06:56,000 --> 00:06:59,000
+notre partenaire si on avait un but lucratif. Annoncer le projet avec Kofi Annan
+
+113
+00:06:59,000 --> 00:07:02,000
+était très important et les Nations Unies nous ont permis
+
+114
+00:07:02,000 --> 00:07:08,000
+de toucher tous les pays. Celle-ci est la machine que nous montrions
+
+115
+00:07:08,000 --> 00:07:10,000
+avant de rencontrer Yves Behar.
+
+116
+00:07:10,000 --> 00:07:14,000
+Malgré le fait que cette machine est, dans un certain sens, absurde,
+
+117
+00:07:14,000 --> 00:07:16,000
+rétrospectivement, elle a servi pour un but très important.
+
+118
+00:07:16,000 --> 00:07:21,000
+Cette manivelle couleur "BIC jaune", tout le monde s’en souvient.
+
+119
+00:07:21,000 --> 00:07:24,000
+Tout le monde se souvient de la manivelle jaune. C’est différent.
+
+120
+00:07:24,000 --> 00:07:27,000
+Elle puisait sa puissance de manière différente. C’est un peu enfantin.
+
+121
+00:07:27,000 --> 00:07:31,000
+Même si ne n’est pas la direction qu’on a pris parce que la manivelle --
+
+122
+00:07:31,000 --> 00:07:33,000
+d'ailleurs, c’est vraiment idiot d’en avoir une.
+
+123
+00:07:33,000 --> 00:07:36,000
+La presse ne l’a pas compris, mais malgré cela,
+
+124
+00:07:36,000 --> 00:07:40,000
+on ne l’a pas enlevée parce qu’on ne voulait pas le faire --
+
+125
+00:07:40,000 --> 00:07:43,000
+en avoir une sur un portable ce n’est pas vraiment ce qu’on veut.
+
+126
+00:07:43,000 --> 00:07:46,000
+Vous voulez quelque chose qui soit séparé, comme une prise.
+
+127
+00:07:46,000 --> 00:07:50,000
+Je n’en ai pas une sur moi, mais ça marchait vraiment mieux.
+
+128
+00:07:50,000 --> 00:07:55,000
+Je pourrais vous en dire beaucoup sur ce portable, mais je vais juste mentionner quatre points.
+
+129
+00:07:55,000 --> 00:07:59,000
+Souvenez-vous – parce qu’il y a des gens, dont Bill Gates,
+
+130
+00:07:59,000 --> 00:08:02,000
+qui ont dit : «Mon Dieu, c'est un vrai ordinateur.»
+
+131
+00:08:02,000 --> 00:08:05,000
+Cet  ordinateur est différent de tous les ordinateurs précédents, et il fait des choses --
+
+132
+00:08:05,000 --> 00:08:07,000
+quatre en l'occurrence --
+
+133
+00:08:07,000 --> 00:08:10,000
+incroyables. Il est très important qu’il soit à basse consommation,
+
+134
+00:08:10,000 --> 00:08:13,000
+et j’espère que cela sera retenu par l’industrie.
+
+135
+00:08:13,000 --> 00:08:16,000
+La raison pour laquelle on veut rester sous les 2 W est
+
+136
+00:08:16,000 --> 00:08:19,000
+que c’est à peu près ce qu’on peut générer avec le haut du corps.
+
+137
+00:08:19,000 --> 00:08:21,000
+Double affichage – cet affichage est fantastique sous la lumière du soleil.
+
+138
+00:08:21,000 --> 00:08:24,000
+On l’a utilisé aujourd’hui au déjeuner à la lumière du soleil, et plus il y a de lumière, mieux il marche.
+
+139
+00:08:24,000 --> 00:08:28,000
+C’était vraiment critique. Le réseau maillé deviendra commun.
+
+140
+00:08:28,000 --> 00:08:31,000
+Et bien sûr, qu'il soit durci va de soi.
+
+141
+00:08:31,000 --> 00:08:34,000
+La raison pour laquelle je crois que le design est important n’est pas que je voulais faire des études d’arts.
+
+142
+00:08:34,000 --> 00:08:37,000
+D'ailleurs, quand j'ai eu mon diplôme du MIT,
+
+143
+00:08:37,000 --> 00:08:39,000
+je pensais que le pire et le plus stupide aurait été d’aller à Paris pendant six ans.
+
+144
+00:08:40,000 --> 00:08:44,000
+Je ne l’ai donc pas fait. Mais le design compte pour plusieurs raisons.
+
+145
+00:08:44,000 --> 00:08:48,000
+La plus importante est que c’est la meilleure façon de faire un produit peu coûteux.
+
+146
+00:08:48,000 --> 00:08:52,000
+Beaucoup de gens font des produits peu coûteux en faisant du design pas cher,
+
+147
+00:08:52,000 --> 00:08:56,000
+avec une main d’œuvre pas chère, des composants pas chers et donc un ordinateur de mauvaise qualité.
+
+148
+00:08:56,000 --> 00:08:59,000
+En Anglais, le mot «cheap» a
+
+149
+00:08:59,000 --> 00:09:02,000
+un double sens, ce qui le rend très approprié au contexte.
+
+150
+00:09:02,000 --> 00:09:06,000
+Parce qu'il signifie «mauvaise qualité» et «pas cher» en même temps.
+
+151
+00:09:06,000 --> 00:09:10,000
+Mais avec une approche différente, en pensant à une intégration sur une large échelle,
+
+152
+00:09:10,000 --> 00:09:13,000
+des matériaux très avancés, une fabrication très avancée,
+
+153
+00:09:13,000 --> 00:09:15,000
+vous versez des produits chimiques d’un coté, des iPods sortent de l'autre,
+
+154
+00:09:15,000 --> 00:09:19,000
+et un design vraiment cool, voilà ce qu’on voulait.
+
+155
+00:09:19,000 --> 00:09:21,000
+Je peux passer rapidement tout ça et gagner du temps parce que
+
+156
+00:09:21,000 --> 00:09:24,000
+Yves et moi, on n’a visiblement pas comparé nos notes.
+
+157
+00:09:24,000 --> 00:09:28,000
+Ce sont ses diapositives, je ne vais donc pas en parler.
+
+158
+00:09:28,000 --> 00:09:34,000
+Mais c’était vraiment important pour nous, comme stratégie.
+
+159
+00:09:34,000 --> 00:09:38,000
+Il ne s’agissait pas seulement de faire quelque chose de joli,
+
+160
+00:09:38,000 --> 00:09:40,000
+le beau design est très important.
+
+161
+00:09:40,000 --> 00:09:45,000
+Yves nous a montré un des appareils générateurs d’énergie.
+
+162
+00:09:45,000 --> 00:09:50,000
+Le réseau maillé, je ne vais pas rentrer dans les détails,
+
+163
+00:09:50,000 --> 00:09:53,000
+mais même quand on livre les ordinateurs aux enfants dans les régions les plus isolées et les plus pauvres du monde,
+
+164
+00:09:53,000 --> 00:09:56,000
+ils sont connectés. Ce ne sont pas seulement des ordinateurs portables.
+
+165
+00:09:56,000 --> 00:09:59,000
+On a dû mettre des antennes paraboliques. On a mis des générateurs.
+
+166
+00:09:59,000 --> 00:10:02,000
+C’est beaucoup de matériel qui va avec. Ces ordinateurs se parlent.
+
+167
+00:10:02,000 --> 00:10:06,000
+Si vous êtes dans un désert, ils peuvent se parler jusqu’à deux kilomètres.
+
+168
+00:10:06,000 --> 00:10:10,000
+Si vous êtes dans la jungle ça tombe à 500 mètres. Si un enfant rentre chez lui à vélo,
+
+169
+00:10:10,000 --> 00:10:13,000
+ou marche quelques kilomètres, il sera déconnecté, pour ainsi dire.
+
+170
+00:10:13,000 --> 00:10:16,000
+Ils ne seront plus à coté d’un autre ordinateur,
+
+171
+00:10:16,000 --> 00:10:19,000
+il faudrait donc, je ne sais pas, le clouer à un arbre.
+
+172
+00:10:19,000 --> 00:10:23,000
+Vous n'appelez pas France Telecom ou SFR. Vous construisez votre propre réseau.
+
+173
+00:10:23,000 --> 00:10:26,000
+Voilà quelque chose de très important, l’interface.
+
+174
+00:10:26,000 --> 00:10:30,000
+On est en train de le lancer avec 18 claviers différents. L’Anglais pour une faible minorité.
+
+175
+00:10:30,000 --> 00:10:33,000
+Le Latin est rare aussi. Vous voyez quelques-unes des langues.
+
+176
+00:10:33,000 --> 00:10:37,000
+Je suis prêt a parier que vous n’avez jamais entendu parler de certaines d’entre elles.
+
+177
+00:10:37,000 --> 00:10:42,000
+Y a-t-il quelqu’un dans la salle, une seule personne, qui ne travaille pas avec OLPC,
+
+178
+00:10:42,000 --> 00:10:45,000
+qui peut me dire en quelle langue
+
+179
+00:10:45,000 --> 00:10:51,000
+est le clavier que vous voyez sur l’écran? Il y a une seule main. Vous voyez.
+
+180
+00:10:51,000 --> 00:10:55,000
+Vous avez raison. C’est de l’Amharique,
+
+181
+00:10:55,000 --> 00:10:58,000
+c’est Éthiopien. En Éthiopie il n’y a jamais eu de clavier éthiopien.
+
+182
+00:10:58,000 --> 00:11:01,000
+Il n’y a pas de clavier standard parce qu’il n’y a pas de marché.
+
+183
+00:11:01,000 --> 00:11:04,000
+Et voilà la grosse différence.
+
+184
+00:11:04,000 --> 00:11:07,000
+Encore une fois, quand vous n’avez pas de but lucratif, vous regardez les enfants comme une mission, pas comme un marché.
+
+185
+00:11:07,000 --> 00:11:11,000
+On est allé en Éthiopie et on les a aidés à faire un clavier.
+
+186
+00:11:11,000 --> 00:11:14,000
+Ceci va devenir le clavier éthiopien standard.
+
+187
+00:11:14,000 --> 00:11:17,000
+Je veux terminer avec ce qu’on est en train de faire pour le lancer.
+
+188
+00:11:17,000 --> 00:11:20,000
+On a complètement changé de stratégie. J’avais décidé au début --
+
+189
+00:11:20,000 --> 00:11:23,000
+c’était une bonne idée de décider cela au début,
+
+190
+00:11:23,000 --> 00:11:26,000
+ce n’est pas ce qu’on fait maintenant – d’aller dans six pays.
+
+191
+00:11:26,000 --> 00:11:29,000
+Grands pays, l’un d’eux n’est pas si grand, mais riche.
+
+192
+00:11:29,000 --> 00:11:32,000
+Voilà les six pays. On est allé dans les six,
+
+193
+00:11:32,000 --> 00:11:35,000
+Et à chaque fois le chef d’État nous a dit qu’il le ferait, il en ferait un million.
+
+194
+00:11:35,000 --> 00:11:39,000
+Dans le cas de Kadhafi, il en ferait 1,2 millions, et il le lancerait.
+
+195
+00:11:39,000 --> 00:11:43,000
+On a pensé que c’était la bonne stratégie,
+
+196
+00:11:43,000 --> 00:11:45,000
+et ensuite les petits pays auraient pu s’appuyer sur ces grands pays.
+
+197
+00:11:45,000 --> 00:11:48,000
+Je suis donc allé dans chacun de ces pays
+
+198
+00:11:48,000 --> 00:11:51,000
+au moins six fois, rencontrer le chef d’État probablement deux à trois fois.
+
+199
+00:11:51,000 --> 00:11:54,000
+A chaque fois, j’ai vu les ministres, j’ai fait toute la procédure.
+
+200
+00:11:54,000 --> 00:11:57,000
+C’est une période de ma vie où je voyageais 330 jours par an.
+
+201
+00:11:57,000 --> 00:12:00,000
+Pas de quoi m’envier.
+
+202
+00:12:00,000 --> 00:12:05,000
+Dans le cas de la Libye, c’était vraiment marrant de rencontrer Kadhafi dans sa tente.
+
+203
+00:12:05,000 --> 00:12:08,000
+Les chameaux puent vraiment beaucoup.
+
+204
+00:12:08,000 --> 00:12:12,000
+Et il faisait 45°C. Ce n’est pas
+
+205
+00:12:12,000 --> 00:12:16,000
+ce qu’on pourrait appeler une expérience «rafraîchissante». Et les anciens pays --
+
+206
+00:12:16,000 --> 00:12:18,000
+je dis les anciens parce qu’à ce jour, aucun n'a vraiment lancé le projet.
+
+207
+00:12:18,000 --> 00:12:22,000
+Il y avait une grosse différence entre avoir un chef d’État
+
+208
+00:12:22,000 --> 00:12:24,000
+avoir l’opportunité de faire une photo, un communiqué de presse,
+
+209
+00:12:24,000 --> 00:12:27,000
+on est donc passé aux plus petits pays. Uruguay, Dieu les bénisse.
+
+210
+00:12:27,000 --> 00:12:30,000
+Petit pays, pas très riche. Le Président nous a dit qu’il voulait le faire et vous savez quoi?
+
+211
+00:12:30,000 --> 00:12:34,000
+Il l‘a fait. L'appel d'offres n’avait rien à voir avec nous,
+
+212
+00:12:34,000 --> 00:12:37,000
+rien d'écrit sur la lisibilité sous la lumière du soleil, sur le réseau maillé, sur la basse consommation,
+
+213
+00:12:37,000 --> 00:12:40,000
+juste la proposition d’un portable couleur vanille.
+
+214
+00:12:40,000 --> 00:12:42,000
+Et vous savez quoi? On a gagné.
+
+215
+00:12:42,000 --> 00:12:46,000
+Il a été annoncé que l’Uruguay allait équiper tous les enfants,
+
+216
+00:12:46,000 --> 00:12:48,000
+les premiers 100.000, d’un coup, avec des OLPC.
+
+217
+00:12:48,000 --> 00:12:51,000
+Le jour suivant – pas même 24 heures après, au Pérou,
+
+218
+00:12:51,000 --> 00:12:54,000
+le Président nous a dit «On va en faire 250». Et voilà l’effet domino lancé.
+
+219
+00:12:54,000 --> 00:12:57,000
+Le président du Rwanda aussi est venu dire qu'il le ferait.
+
+220
+00:12:57,000 --> 00:13:00,000
+Et ensuite le Président de l’Éthiopie.
+
+221
+00:13:00,000 --> 00:13:02,000
+Et boom, boom, boom. Le président de la Mongolie.
+
+222
+00:13:02,000 --> 00:13:05,000
+Ce qui arrive c’est que tout a commencé avec ces pays.
+
+223
+00:13:05,000 --> 00:13:07,000
+Ce n’est pas encore assez.
+
+224
+00:13:07,000 --> 00:13:12,000
+Ajoutez tous ces pays, ce n’est pas encore assez, on a donc pensé,
+
+225
+00:13:12,000 --> 00:13:17,000
+«Commençons un programme aux États-Unis». Fin août, début septembre,
+
+226
+00:13:17,000 --> 00:13:20,000
+on l’a décidé. On l’a annoncé à la mi-septembre ...
+
+227
+00:13:20,000 --> 00:13:23,000
+juste au moment de l’initiative de Clinton.
+
+228
+00:13:23,000 --> 00:13:25,000
+On a pensé que c’était le bon moment pour l’annoncer.
+
+229
+00:13:25,000 --> 00:13:28,000
+On l'a lancé le 12 Novembre.
+
+230
+00:13:28,000 --> 00:13:33,000
+Washington a dit que ce serait juste pour une courte période jusqu’au 26. On l’a prolongé jusqu’au 31.
+
+231
+00:13:33,000 --> 00:13:37,000
+Le programme «Un acheté, un donné» est très important parce que
+
+232
+00:13:37,000 --> 00:13:42,000
+ça intéresse beaucoup de gens.
+
+233
+00:13:42,000 --> 00:13:47,000
+Le premier jour, c’était la folie. Ensuite on a dit,
+
+234
+00:13:47,000 --> 00:13:51,000
+«Encourageons les gens à en donner plusieurs. Pas seulement un pour un acheté,
+
+235
+00:13:51,000 --> 00:13:55,000
+mais plutôt 100 ou 1000». Et c'est là où vous entrez en scène.
+
+236
+00:13:55,000 --> 00:13:58,000
+Je pense que c’est vraiment important. Je ne veux pas que vous alliez
+
+237
+00:13:58,000 --> 00:14:04,000
+vous acheter un portable à 400 $. Faites-le si vous voulez, mais ça ne servira pas à grand-chose. D’accord ?
+
+238
+00:14:04,000 --> 00:14:07,000
+Si chacun de vous sort ce soir et paye un de ces ordinateurs 400 $,
+
+239
+00:14:07,000 --> 00:14:11,000
+300 personnes qui font ça, c’est super.
+
+240
+00:14:11,000 --> 00:14:14,000
+Mais je veux que vous fassiez autre chose.
+
+241
+00:14:14,000 --> 00:14:17,000
+Pas d’en acheter 100 ou 1000, toutefois,
+
+242
+00:14:17,000 --> 00:14:20,000
+je vous invite à faire ceci, et 10,000 serait encore mieux.
+
+243
+00:14:20,000 --> 00:14:24,000
+Parlez de ce programme! Ça deviendra viral, d’accord?
+
+244
+00:14:24,000 --> 00:14:29,000
+Utilisez vos listes de distribution. Des gens dans cette salle ont des listes de distributions fantastiques.
+
+245
+00:14:29,000 --> 00:14:32,000
+Faites que vos amis en achète un et en donne un.
+
+246
+00:14:32,000 --> 00:14:36,000
+Si chacun de vous le transmet à 3 ou 400 personnes, ce serait fantastique.
+
+247
+00:14:36,000 --> 00:14:39,000
+Je ne vais pas m’attarder sur le prix.
+
+248
+00:14:39,000 --> 00:14:42,000
+Juste pour vous dire que si vous faites le «Un acheté, un donné»
+
+249
+00:14:42,000 --> 00:14:47,000
+la presse dit, «Ils n’ont pas réussi, c’est à 188$, ce n’est pas 100$»
+
+250
+00:14:47,000 --> 00:14:50,000
+Ce sera 100 dans deux ans. Ça descendra en dessous de 100.
+
+251
+00:14:51,000 --> 00:14:55,000
+On a promis de ne pas ajouter d’accessoire, pour pouvoir faire descendre le prix.
+
+252
+00:14:55,000 --> 00:14:58,000
+Mais c’était les pays qui voulaient en avoir, et
+
+253
+00:14:58,000 --> 00:15:01,000
+on les a laissé faire pour plusieurs raisons. Ce que vous pouvez faire --
+
+254
+00:15:01,000 --> 00:15:04,000
+Je viens de le dire. Ne faites pas uniquement "Un acheté, un donné."
+
+255
+00:15:04,000 --> 00:15:06,000
+Je veux donc terminer avec une toute dernière chose. Ceci n’a même pas
+
+256
+00:15:06,000 --> 00:15:09,000
+24 heures.
+
+257
+00:15:09,000 --> 00:15:13,000
+Les premiers enfants ont eu leur portable. Ils l’ont reçu par bateau,
+
+258
+00:15:13,000 --> 00:15:16,000
+et je parle de 7 à 8000 portables en même temps cette semaine.
+
+259
+00:15:16,000 --> 00:15:21,000
+Ils sont allés en Uruguay, au Pérou, au Mexique.
+
+260
+00:15:21,000 --> 00:15:25,000
+Ça avance lentement, on n’en fait que 5,000 par semaine,
+
+261
+00:15:25,000 --> 00:15:30,000
+mais on espère l’année prochaine,
+
+262
+00:15:30,000 --> 00:15:32,000
+au milieu de l’année,
+
+263
+00:15:32,000 --> 00:15:36,000
+en faire un million par mois. Maintenant, mettez ce chiffre,
+
+264
+00:15:36,000 --> 00:15:38,000
+et un million ce n’est pas beaucoup.
+
+265
+00:15:38,000 --> 00:15:41,000
+On vend un milliard de téléphones portables dans le monde en une année.
+
+266
+00:15:41,000 --> 00:15:44,000
+Mais un million par mois au pays des ordinateurs portables c’est un bon chiffre.
+
+267
+00:15:44,000 --> 00:15:48,000
+Et la production aujourd’hui, toutes sortes d’ordinateurs portables inclus,
+
+268
+00:15:48,000 --> 00:15:52,000
+est de 5 million par mois. Je suis donc ici devant vous à vous dire que l’année prochaine,
+
+269
+00:15:52,000 --> 00:15:55,000
+on représentera 20% de la production mondiale.
+
+270
+00:15:55,000 --> 00:15:59,000
+Et si on y arrive, il y aura plein d’enfants chanceux.
+
+271
+00:15:59,000 --> 00:16:03,000
+Et j’espère que s'il y a une réunion TED dans deux ans,
+
+272
+00:16:03,000 --> 00:16:05,000
+ou à la prochaine,
+
+273
+00:16:05,000 --> 00:16:09,000
+je n’aurai pas mauvaise haleine, on m’invitera à nouveau,
+
+274
+00:16:09,000 --> 00:16:12,000
+et on aura peut-être d’ici-là, 100 millions d'enfants avec un portable.
+
+275
+00:16:12,000 --> 00:16:13,000
+Merci.
+
+276
+00:16:13,000 --> 00:16:16,000
+(Applaudissements)
