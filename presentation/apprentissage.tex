@@ -1,28 +1,30 @@
 
 \PassOptionsToPackage{table}{xcolor}
-
-\documentclass[utf8]{beamer}
-
+\documentclass[utf8,hyperref={pagebackref}]{beamer}
+%bookmarks,bookmarksnumbered,colorlinks=false,linktocpage
 \usepackage[T1]{fontenc}
-\usepackage[francais]{babel}
+\usepackage[french]{babel}
 \usepackage{listings}
-\usepackage{multicol}
+\usepackage{fancybox}
 \usepackage{tikz}
-\usepackage{bibentry}
-\usepackage{multimedia} 
+%\usepackage{bibentry}
+\usepackage{algorithm,algorithmic}
 
+
+\usetheme{Amsterdam}
+\setbeamertemplate{itemize subitem}[triangle]
 \setbeamertemplate{bibliography item}[text]
 \setbeamertemplate{navigation symbols}{}
-\usetheme{Amsterdam}
 
 \usetikzlibrary{calc}
-\tikzstyle{item}=[rectangle,rounded corners=3pt,thick, dashed, color=beamer@blendedgreen, fill=gray!20]
+\tikzstyle{item}=[rectangle,rounded corners=3pt,thick, dashed, color=beamer@blendedred, fill=gray!20]
 % Romain
 \newcommand{\cRM}[1]{\MakeUppercase{\romannumeral #1}}  % Capital
 \newcommand{\cRm}[1]{\textsc{\romannumeral #1}} % Petit majuscule
 \newcommand{\crm}[1]{\romannumeral #1}
 % Siècle %
 \newcommand{\siecle}[1]{\cRM{#1}\textsuperscript{e}~siècle}
+
 
 \definecolor{keywords}{RGB}{255,0,0}
 \lstset{language=[LaTeX]TeX,
@@ -36,6 +38,7 @@ escapeinside=||,
 morekeywords={*,subsection,make title,tableofcontents,include graphics}
 }
 
+%\insertframenumber/\inserttotalframenumber\hskip2ex
 
 \definecolor{lightgrey}{rgb}{0.9,0.9,0.9}
 \definecolor{darkgreen}{rgb}{0,0.6,0} 
@@ -44,27 +47,52 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \title{L'intégration des technologies de l'information dans l'éducation}
 \author{Chloé DESDOUITS, William DYCE, Thibaut MARMIN, Clément SIPIETER}
 \date{\today}
+\setbeamercolor{title}{fg=beamer@blendedgreen}
+\setbeamercolor{author}{fg=beamer@blendedgreen}
+\setbeamercolor{date}{fg=beamer@blendedgreen}
 
-\AtBeginSection[]{
-  \begin{frame}[plain]
-  	\frametitle{Sommaire}
-  	\tableofcontents[currentsection]
-  \end{frame} 
+
+\AtBeginSubsection[]
+{
+	{
+	\setbeamertemplate{headline}{\vbox{\usebeamertemplate*{headlinesom}}}
+	\begin{frame}
+		\frametitle{Sommaire}
+		\tableofcontents[currentsubsection]
+	\end{frame} 
+	}
 }
 
 \begin{document}
 
-\frame[plain]{\titlepage}
+{
+	\usebackgroundtemplate{
+		\pgfsetfillopacity{0.3}\includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=\paperwidth]{../resources/illustrations/kidxmascard}\pgfsetfillopacity{1}
+	}
+	\frame[plain]
+	{
+		\titlepage
+	}
+}
 
-\begin{frame}[plain]
+{
+\setbeamertemplate{headline}{\vbox{\usebeamertemplate*{headlinesom}}}
+\begin{frame}
 	\frametitle{Sommaire}
 	\tableofcontents
 \end{frame} 
+}
 
 \include{includes/1-quoi}
 \include{includes/2-pourquoi}
 \include{includes/3-comment}
 \include{includes/4-ccl.tex}
+
+\bibliographystyle{plain}
+\begin{frame}[allowframebreaks]
+\frametitle{Bibliographie}
+\bibliography{../Bib.bib}
+\end{frame}
 
 \end{document}
 

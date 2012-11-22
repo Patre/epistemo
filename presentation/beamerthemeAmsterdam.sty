@@ -1,3 +1,4 @@
+
 \DeclareOptionBeamer{compress}{\beamer@compresstrue}
 \ProcessOptionsBeamer
 
@@ -23,7 +24,7 @@
 
 \defbeamertemplate*{footline extra}{default}
 {
-	\begin{beamercolorbox}[wd=.34\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fill,rightskip=.3cm]{author in head/foot}%
+	\begin{beamercolorbox}[wd=.41\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fill,rightskip=.3cm]{author in head/foot}%
 	\insertfootlineextra
 	\end{beamercolorbox}
 }
@@ -31,7 +32,7 @@
 \setbeamertemplate{footline}
 {
 	\leavevmode
-	\begin{beamercolorbox}[wd=.65\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+	\begin{beamercolorbox}[wd=.59\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
 		\usebeamerfont{title in head/foot}\insertframenumber/\inserttotalframenumber~ \inserttitle
 	\end{beamercolorbox}
 	\setbox\footlineextrabox=\vbox{\usebeamertemplate*{footline extra}}
@@ -56,6 +57,15 @@
     \usebeamerfont{subsection in head/foot}
     \insertsubsectionnavigationhorizontal{\paperwidth}{}{\hskip0pt plus1filll%
     }%
+  \end{beamercolorbox}%
+}
+
+\defbeamertemplate*{headlinesom}{}
+{
+  \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex]{section in head/foot}%
+  \end{beamercolorbox}%
+
+  \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex]{subsection in head/foot}
   \end{beamercolorbox}%
 }
 
