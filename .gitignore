@@ -15,5 +15,10 @@
 *.xdy
 *.nav
 *.snm
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.bak
 
 !./figures/*.pdf
