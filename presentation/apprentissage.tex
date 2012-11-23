@@ -16,7 +16,7 @@
 \setbeamertemplate{bibliography item}[text]
 \setbeamertemplate{navigation symbols}{}
 
-\renewenvironment{quote}{\og}{\fg}
+\renewenvironment{quote}{\vspace{0.2cm}\itshape\og}{\fg\vspace{0.2cm}}
 
 \usetikzlibrary{calc}
 \tikzstyle{item}=[rectangle,rounded corners=3pt,thick, dashed, color=beamer@blendedred, fill=gray!20]
@@ -69,7 +69,9 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 
 {
 	\usebackgroundtemplate{
-		\pgfsetfillopacity{0.3}\includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=\paperwidth]{../resources/illustrations/kidxmascard}\pgfsetfillopacity{1}
+		\pgfsetfillopacity{0.3}%
+		    \includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=\paperwidth]%
+		      {../resources/illustrations/kidxmascard}\pgfsetfillopacity{1}
 	}
 	\frame[plain]
 	{
