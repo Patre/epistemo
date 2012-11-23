@@ -1,0 +1,1316 @@
+﻿1
+00:00:15,812 --> 00:00:18,812
+J'ai un travail difficile à accomplir.
+
+2
+00:00:18,812 --> 00:00:24,812
+Vous savez, quand j'ai regardé le profil de l'assistance ici,
+
+3
+00:00:24,812 --> 00:00:31,812
+avec leurs connotations et leurs designs, sous toutes leurs formes,
+
+4
+00:00:31,812 --> 00:00:33,812
+et avec tant de gens qui travaillent
+
+5
+00:00:33,812 --> 00:00:38,812
+sur la collaboration et les réseaux, et ainsi de suite, je voulais vous dire ça,
+
+6
+00:00:38,812 --> 00:00:43,812
+je voulais élaborer un argument en faveur de l'enseignement primaire
+
+7
+00:00:43,812 --> 00:00:45,812
+dans un contexte très spécifique.
+
+8
+00:00:45,812 --> 00:00:49,812
+Pour faire cela en 20 minutes, je dois faire ressortir quatre idées -
+
+9
+00:00:49,812 --> 00:00:52,812
+C'est comme quatre morceaux d'un puzzle.
+
+10
+00:00:52,812 --> 00:00:55,812
+Et si je réussis à faire cela,
+
+11
+00:00:55,812 --> 00:00:58,812
+peut-être vous repartirez d'ici avec l'idée
+
+12
+00:00:58,812 --> 00:01:01,812
+que vous pourriez mettre à profit et peut-être m'aider à faire mon travail.
+
+13
+00:01:05,812 --> 00:01:08,812
+La première pièce du puzzle est l'éloignement
+
+14
+00:01:08,812 --> 00:01:10,812
+et la qualité de l'enseignement.
+
+15
+00:01:10,812 --> 00:01:15,812
+Maintenant, par l'éloignement je veux dire deux ou trois choses différentes.
+
+16
+00:01:15,812 --> 00:01:18,812
+Bien sûr, l'éloignement dans son sens normal, ce qui signifie
+
+17
+00:01:18,812 --> 00:01:21,812
+que lorsque vous aller de plus en plus loin
+
+18
+00:01:21,812 --> 00:01:26,812
+d'un centre urbain, vous arrivez dans des zones plus éloignées.
+
+19
+00:01:26,812 --> 00:01:29,812
+Qu'advient-il de l'éducation?
+
+20
+00:01:29,812 --> 00:01:31,812
+Le deuxième ou un autre type d'éloignement
+
+21
+00:01:31,812 --> 00:01:36,812
+est que, dans les grandes régions métropolitaines du monde entier,
+
+22
+00:01:36,812 --> 00:01:41,812
+vous avez des poches, comme des taudis ou des bidonvilles, ou des régions plus pauvres,
+
+23
+00:01:41,812 --> 00:01:45,812
+qui sont socialement et économiquement éloignées
+
+24
+00:01:45,812 --> 00:01:48,812
+du reste de la ville, alors c'est nous et eux.
+
+25
+00:01:48,812 --> 00:01:50,812
+Qu'advient-il de l'éducation dans ce contexte?
+
+26
+00:01:50,812 --> 00:01:58,812
+Alors gardez en tête ces deux idées de l'éloignement.
+
+27
+00:01:58,812 --> 00:02:01,812
+Nous avons fait une hypothèse. L'hypothèse était que les écoles dans les régions éloignées
+
+28
+00:02:01,812 --> 00:02:04,812
+n'ont pas suffisamment de bons enseignants.
+
+29
+00:02:04,812 --> 00:02:06,812
+Si elles en ont suffisamment, elles ne peuvent pas les retenir;
+
+30
+00:02:06,812 --> 00:02:09,812
+elles n'ont pas une infrastructure suffisante.
+
+31
+00:02:09,812 --> 00:02:11,812
+Et si elles avaient une certaine infrastructure,
+
+32
+00:02:11,812 --> 00:02:13,812
+elles ont de la difficulté pour la maintenir.
+
+33
+00:02:13,812 --> 00:02:18,812
+Mais je voulais vérifier si cela est vrai. Donc, l'an dernier
+
+34
+00:02:18,812 --> 00:02:23,812
+nous avons loué une voiture, cherché sur Google,
+
+35
+00:02:23,812 --> 00:02:28,812
+trouvé une route vers le nord de l'Inde partant de New Delhi
+
+36
+00:02:28,812 --> 00:02:33,812
+qui, vous voyez, qui ne traversait aucune grande ville
+
+37
+00:02:33,812 --> 00:02:39,812
+ni aucun grand centre métropolitain. Nous avons roulé environ 300 km,
+
+38
+00:02:39,812 --> 00:02:44,812
+et partout où nous avons trouvé une école, nous avons fait une série de tests standard,
+
+39
+00:02:44,812 --> 00:02:50,812
+et ensuite nous avons pris les résultats des tests et les avons mis sur un graphique.
+
+40
+00:02:50,812 --> 00:02:54,812
+Le graphique était intéressant, même si il faut l'examiner attentivement.
+
+41
+00:02:54,812 --> 00:02:58,812
+Je veux dire, c'est un très petit échantillon, il ne faut pas généraliser à partir de là.
+
+42
+00:02:58,812 --> 00:03:00,812
+Mais il est bien évident, très clair,
+
+43
+00:03:00,812 --> 00:03:04,812
+que, pour cette route particulière que j'avais prise,
+
+44
+00:03:04,812 --> 00:03:09,812
+plus l'école était éloignée, pires ses résultats semblaient être.
+
+45
+00:03:09,812 --> 00:03:11,812
+Cela semblait un peu accablant,
+
+46
+00:03:11,812 --> 00:03:16,812
+et j'ai essayé de corréler cela avec des choses comme l'infrastructure,
+
+47
+00:03:16,812 --> 00:03:19,812
+ou avec la disponibilité de l'électricité et des choses comme ça.
+
+48
+00:03:19,812 --> 00:03:22,812
+À ma grande surprise, ce n'était pas en corrélation.
+
+49
+00:03:22,812 --> 00:03:25,812
+Ce n'était pas corrélé avec la taille des salles de classe.
+
+50
+00:03:25,812 --> 00:03:30,812
+Ce n'était pas corrélé avec la qualité de l'infrastructure.
+
+51
+00:03:30,812 --> 00:03:34,812
+Ce n'était pas corrélé avec les niveaux de pauvreté. Ce n'était pas en corrélation.
+
+52
+00:03:34,812 --> 00:03:38,812
+Mais ce qui s'est passé, quand un questionnaire a été adressé
+
+53
+00:03:38,812 --> 00:03:42,812
+à chacune de ces écoles, avec une seule question pour les enseignants, qui était,
+
+54
+00:03:42,812 --> 00:03:47,812
+Souhaitez-vous passer à un milieu urbain, en région métropolitaine?
+
+55
+00:03:47,812 --> 00:03:52,812
+69 pour cent d'entre eux ont dit oui, et comme vous pouvez le voir,
+
+56
+00:03:52,812 --> 00:03:58,812
+ils disent oui, un peu en dehors de Delhi,
+
+57
+00:03:58,812 --> 00:04:01,812
+et ils disent non pour la banlieue riche de Delhi -
+
+58
+00:04:01,812 --> 00:04:04,812
+parce que, vous savez, ceux-ci sont relativement mieux lotis.
+
+59
+00:04:04,812 --> 00:04:08,812
+Et puis, à partir de 200 kilomètres en dehors de Delhi, la réponse est toujours oui.
+
+60
+00:04:08,812 --> 00:04:11,812
+Je suppose que l'enseignant qui vient en classe
+
+61
+00:04:11,812 --> 00:04:15,812
+tous les jours en se disant qu'il aimerait être dans une autre école,
+
+62
+00:04:15,812 --> 00:04:19,812
+a probablement un impact profond sur ce qui arrive aux résultats.
+
+63
+00:04:19,812 --> 00:04:24,812
+Donc, il semblait que la motivation des enseignants et la migration des enseignants
+
+64
+00:04:24,812 --> 00:04:29,812
+étaient en forte corrélation avec ce qui se passait dans les écoles primaires,
+
+65
+00:04:29,812 --> 00:04:32,812
+plutôt que de savoir si les enfants avaient suffisamment à manger,
+
+66
+00:04:32,812 --> 00:04:34,812
+et s'ils sont trop nombreux dans les classes
+
+67
+00:04:34,812 --> 00:04:38,812
+et ce genre de chose. Cela semble être le cas.
+
+68
+00:04:38,812 --> 00:04:43,812
+Lorsque l'on considère l'enseignement et la technologie, on y trouve,
+
+69
+00:04:43,812 --> 00:04:46,812
+des choses comme des sites Web, les milieus collaboratifs --
+
+70
+00:04:46,812 --> 00:04:48,812
+tout ce que vous avez écouté depuis ce matin --
+
+71
+00:04:48,812 --> 00:04:54,812
+Il est toujours mis à l'essai en premier dans les meilleures écoles, les meilleures écoles en milieu urbain,
+
+72
+00:04:54,812 --> 00:04:57,812
+et, selon moi, il en résulte un biais.
+
+73
+00:04:57,812 --> 00:05:01,812
+La littérature - une partie de celle-ci, la littérature scientifique,
+
+74
+00:05:01,812 --> 00:05:06,812
+reproche constamment la Technologie Educationnelle (ET) d'être surfaite et sous-performante.
+
+75
+00:05:06,812 --> 00:05:12,812
+Les enseignants disent toujours, eh bien, c'est beau, mais c'est trop coûteux pour peu.
+
+76
+00:05:12,812 --> 00:05:15,812
+Parce qu'il est à l'essai dans une école où les élèves font déjà,
+
+77
+00:05:15,812 --> 00:05:18,812
+disons, 80 pour cent de tout ce qu'ils pouvaient faire.
+
+78
+00:05:18,812 --> 00:05:22,812
+Vous avez mis dans cette super nouvelle technologie, et maintenant ils sont à 83 pour cent.
+
+79
+00:05:22,812 --> 00:05:24,812
+Ainsi, le directeur regarde et dit:
+
+80
+00:05:24,812 --> 00:05:27,812
+3 pour cent pour 300.000 dollars? Oubliez ça.
+
+81
+00:05:27,812 --> 00:05:32,812
+Si vous aviez pris la même technologie et l'aviez mis à l'essai dans une de ces écoles éloignées
+
+82
+00:05:32,812 --> 00:05:37,812
+où le score était de 30 pour cent, et, disons, porté le score à 40 pour cent,
+
+83
+00:05:37,812 --> 00:05:39,812
+ce sera une chose complètement différente.
+
+84
+00:05:39,812 --> 00:05:43,812
+Ainsi, l'effet relatif qu'aurait l'ET, la technologie éducative,
+
+85
+00:05:43,812 --> 00:05:46,812
+serait beaucoup plus grand au bas de la pyramide que par le haut,
+
+86
+00:05:46,812 --> 00:05:49,812
+mais il semble que nous faisons les choses à l'envers.
+
+87
+00:05:49,812 --> 00:05:52,812
+Alors je suis venu à cette conclusion que l'ET devrait atteindre
+
+88
+00:05:52,812 --> 00:05:55,812
+les défavorisés d'abord, et non pas le contraire.
+
+89
+00:05:55,812 --> 00:05:58,812
+Et vint la question de, comment lutter contre la perception des enseignants?
+
+90
+00:05:58,812 --> 00:06:00,812
+Chaque fois que vous rencontrez un enseignant et vous leur montrez des techniques
+
+91
+00:06:00,812 --> 00:06:02,812
+la première réaction de l'enseignant est,
+
+92
+00:06:02,812 --> 00:06:08,812
+vous ne pouvez pas remplacer un enseignant par une machine - c'est impossible.
+
+93
+00:06:08,812 --> 00:06:10,812
+Je ne sais pas pourquoi c'est impossible, mais, même pour un instant,
+
+94
+00:06:10,812 --> 00:06:15,812
+si vous supposez que c'est impossible - J'ai une citation de Sir Arthur C. Clarke,
+
+95
+00:06:15,812 --> 00:06:19,812
+l'écrivain de science-fiction que j'ai rencontré à Colombo,
+
+96
+00:06:19,812 --> 00:06:23,812
+et il a dit quelque chose qui résout complètement ce problème.
+
+97
+00:06:23,812 --> 00:06:29,812
+Il a dit qu'un professeur qui peut être remplacé par une machine devrait l'être.
+
+98
+00:06:29,812 --> 00:06:35,812
+Donc, vous le savez, il met l'enseignant dans une impasse difficile, vous devez penser.
+
+99
+00:06:35,812 --> 00:06:38,812
+Quoi qu'il en soit, alors je propose qu'un enseignement primaire alternatif,
+
+100
+00:06:38,812 --> 00:06:43,812
+quelle que soit l'alternative désirée, est nécessaire, là où les écoles n'existent pas,
+
+101
+00:06:43,812 --> 00:06:46,812
+où les écoles ne sont pas assez bonnes, où les enseignants ne sont pas disponibles
+
+102
+00:06:46,812 --> 00:06:49,812
+ou lorsque les enseignants ne sont pas assez bons, pour une raison quelconque.
+
+103
+00:06:49,812 --> 00:06:53,812
+Si vous vivez dans une partie du monde où rien de tout cela s'applique,
+
+104
+00:06:53,812 --> 00:06:55,812
+alors vous n'avez pas besoin d'un enseignement alternatif.
+
+105
+00:06:55,812 --> 00:07:01,812
+Jusqu'ici, je n'ai pas rencontré de telle zone, sauf un cas. Je ne mentionnerai pas l'endroit,
+
+106
+00:07:01,812 --> 00:07:04,812
+mais quelque part dans le monde des gens ont dit, nous n'avons pas ce problème,
+
+107
+00:07:04,812 --> 00:07:08,812
+parce que nous avons des enseignants parfaits et des écoles parfaites .
+
+108
+00:07:08,812 --> 00:07:14,812
+Il y a des endroits comme celui-là, mais - de toute façon, je n'avais jamais entendu ça nulle part ailleurs.
+
+109
+00:07:14,812 --> 00:07:17,812
+Je vais parler des enfants et d'auto-organisation,
+
+110
+00:07:17,812 --> 00:07:21,812
+et d'une série d'expériences qui en quelque sorte ont conduit à cette idée
+
+111
+00:07:21,812 --> 00:07:25,812
+de ce qui pourrait être un enseignement alternatif.
+
+112
+00:07:25,812 --> 00:07:27,812
+On les appelle les expériences trou-dans-le-mur.
+
+113
+00:07:27,812 --> 00:07:32,812
+Je vais devoir vraiment faire vite. C'est une série d'expériences.
+
+114
+00:07:32,812 --> 00:07:38,812
+La première a été faite à New Delhi en 1999.
+
+115
+00:07:38,812 --> 00:07:42,812
+Et ce que nous faisions là-bas a été très simple.
+
+116
+00:07:42,812 --> 00:07:46,812
+J'avais un bureau à l'époque à côté d'un bidonville, un bidonville urbain,
+
+117
+00:07:46,812 --> 00:07:50,812
+donc il y avait un mur de séparation entre notre bureau et ce bidonville.
+
+118
+00:07:50,812 --> 00:07:52,812
+Ils ont fait un trou dans le mur -
+
+119
+00:07:52,812 --> 00:07:54,812
+et c'est comme ça qu'on l'a appelé expérience trou-dans-le-mur -
+
+120
+00:07:54,812 --> 00:07:59,812
+et ils ont mis un PC assez puissant dans ce trou, en gros incorporé dans le mur
+
+121
+00:07:59,812 --> 00:08:02,812
+de sorte que son moniteur sortait de  l'autre côté,
+
+122
+00:08:02,812 --> 00:08:05,812
+un pavé tactile intégré de même dans le mur,
+
+123
+00:08:05,812 --> 00:08:11,812
+connecté à Internet haut débit, avec Internet Explorer,
+
+124
+00:08:11,812 --> 00:08:14,812
+avec Altavista.com - à l'époque - et juste laissé là.
+
+125
+00:08:14,812 --> 00:08:19,812
+Et voilà ce que nous avons vu.
+
+126
+00:08:19,812 --> 00:08:28,812
+<i>C'était donc mon bureau TIC . Voici le trou dans le mur.</i>
+
+127
+00:08:28,812 --> 00:08:34,812
+Environ huit heures plus tard nous avons trouvé ce gamin.
+
+128
+00:08:34,812 --> 00:08:39,812
+À droite, cet enfant de huit ans qui -
+
+129
+00:08:39,812 --> 00:08:44,812
+et à sa gauche se trouve une fillette de six ans qui n'est pas très grande.
+
+130
+00:08:44,812 --> 00:08:48,812
+Et en fait il lui apprenait à naviguer.
+
+131
+00:08:48,812 --> 00:08:53,812
+Cela soulevait plus de questions que ça n'apportait de réponses.
+
+132
+00:08:53,812 --> 00:08:55,812
+Est-ce vrai? Le langage a-t-il une importance,
+
+133
+00:08:55,812 --> 00:08:57,812
+parce qu'il n'est pas censé connaître l'anglais?
+
+134
+00:08:57,812 --> 00:09:00,812
+Est-ce que l'ordinateur va durer, ou vont-ils le casser et le voler,
+
+135
+00:09:00,812 --> 00:09:02,812
+- Et est-ce que quelqu'un leur a enseigné?
+
+136
+00:09:02,812 --> 00:09:04,812
+La dernière question est ce que tout le monde dit, mais vous voyez,
+
+137
+00:09:04,812 --> 00:09:06,812
+je veux dire, ils doivent avoir passé leur tête au-dessus du mur
+
+138
+00:09:06,812 --> 00:09:08,812
+et demandé aux gens de votre bureau
+
+139
+00:09:08,812 --> 00:09:11,812
+pouvez-vous me montrer comment faire, et puis quelqu'un lui a appris.
+
+140
+00:09:11,812 --> 00:09:14,812
+J'ai donc sorti l'expérience de Delhi et l'ai répétée,
+
+141
+00:09:14,812 --> 00:09:20,812
+cette fois dans une ville appelée Chifpuri dans le centre de l'Inde,
+
+142
+00:09:20,812 --> 00:09:25,812
+où on m'a assuré que personne n'avait jamais rien appris à personne.
+
+143
+00:09:25,812 --> 00:09:29,812
+(Rires)
+
+144
+00:09:29,812 --> 00:09:34,812
+C'était donc une journée chaude, et le trou-dans-le-mur
+
+145
+00:09:34,812 --> 00:09:39,812
+était sur ce bâtiment décrépit. C'est le premier enfant qui est venu là;
+
+146
+00:09:39,812 --> 00:09:41,812
+plus tard il s'est avéré qu'il avait décroché du système scolaire à 13 ans.
+
+147
+00:09:41,812 --> 00:09:47,812
+Il est venu là et il a commencé à bricoler avec le pavé tactile.
+
+148
+00:09:47,812 --> 00:09:50,812
+Très vite, il a remarqué que quand il déplace son doigt sur le pavé tactile,
+
+149
+00:09:50,812 --> 00:09:51,812
+quelque chose bouge à l'écran -
+
+150
+00:09:51,812 --> 00:09:54,812
+et plus tard il m'a dit, je n'ai jamais vu une télévision
+
+151
+00:09:54,812 --> 00:09:55,812
+où on peut faire quelque chose.
+
+152
+00:09:55,812 --> 00:09:58,812
+Donc, il a compris. Il lui a fallu plus de deux minutes
+
+153
+00:09:58,812 --> 00:10:01,812
+pour comprendre qu'il faisait des choses à la télévision.
+
+154
+00:10:01,812 --> 00:10:04,812
+Et puis, comme il faisait cela, il a fait un clic accidentel
+
+155
+00:10:04,812 --> 00:10:11,812
+en appuyant sur le pavé tactile - vous allez le voir faire.
+
+156
+00:10:11,812 --> 00:10:17,812
+Il a fait cela, et Internet Explorer a changé de page.
+
+157
+00:10:17,812 --> 00:10:21,812
+Huit minutes plus tard, il regardait de sa main vers l'écran,
+
+158
+00:10:21,812 --> 00:10:25,812
+et il naviguait: il faisait des aller-retour.
+
+159
+00:10:25,812 --> 00:10:30,812
+Quand c'est arrivé, il a commencé à appeler tous les enfants du quartier,
+
+160
+00:10:30,812 --> 00:10:37,812
+et les enfants venaient voir ce qui se passait là-bas.
+
+161
+00:10:37,812 --> 00:10:41,812
+Et au soir de ce jour-là, 70 enfants naviguaient.
+
+162
+00:10:41,812 --> 00:10:45,812
+Ainsi, huit minutes et un ordinateur incorporé
+
+163
+00:10:45,812 --> 00:10:49,812
+semblent être tout ce dont nous avions besoin là-bas.
+
+164
+00:10:49,812 --> 00:10:52,812
+Nous avons donc pensé que ce qui se passait était ceci:
+
+165
+00:10:52,812 --> 00:10:55,812
+que les enfants dans les groupes peuvent s'auto-apprendre par eux-mêmes
+
+166
+00:10:55,812 --> 00:11:03,812
+à utiliser un ordinateur et l'Internet. Mais dans quelles circonstances?
+
+167
+00:11:03,812 --> 00:11:09,812
+A ce moment, il y avait une - la question principale portait sur l'anglais.
+
+168
+00:11:09,812 --> 00:11:13,812
+On disait, vous savez, vous devriez vraiment avoir cela dans les langues indiennes,
+
+169
+00:11:13,812 --> 00:11:16,812
+alors j'ai dit, comment, dois-je traduire l'Internet
+
+170
+00:11:16,812 --> 00:11:19,812
+dans une langue indienne? Ce n'est pas possible.
+
+171
+00:11:19,812 --> 00:11:21,812
+Ainsi, il doit y avoir une autre solution.
+
+172
+00:11:21,812 --> 00:11:25,812
+Mais voyons, comment les enfants abordent-ils la langue anglaise?
+
+173
+00:11:25,812 --> 00:11:28,812
+J'ai emmené l'expérience vers le nord-est de l'Inde,
+
+174
+00:11:28,812 --> 00:11:30,812
+dans un village appelé Madantusi
+
+175
+00:11:30,812 --> 00:11:34,812
+où, pour une raison quelconque, il n'y avait pas professeur d'anglais,
+
+176
+00:11:34,812 --> 00:11:37,812
+et donc les enfants n'avaient pas appris l'anglais du tout.
+
+177
+00:11:37,812 --> 00:11:41,812
+Et j'ai construit un trou dans le mur similaire .
+
+178
+00:11:41,812 --> 00:11:43,812
+Une grande différence dans les villages, par rapport aux bidonvilles en milieu urbain:
+
+179
+00:11:43,812 --> 00:11:47,812
+il y avait plus de filles que de garçons qui venaient au kiosque.
+
+180
+00:11:47,812 --> 00:11:51,812
+Dans les bidonvilles, les filles ont tendance à rester à l'écart.
+
+181
+00:11:51,812 --> 00:11:56,812
+J'ai laissé l'ordinateur là avec beaucoup de CDs - Je n'avais pas d'Internet -
+
+182
+00:11:56,812 --> 00:12:00,812
+et je suis revenu trois mois plus tard.
+
+183
+00:12:00,812 --> 00:12:04,812
+Donc quand je suis arrivé là-bas, j'ai trouvé ces deux enfants,
+
+184
+00:12:04,812 --> 00:12:08,812
+huit et 12 ans, qui jouaient à un jeu sur l'ordinateur.
+
+185
+00:12:08,812 --> 00:12:12,812
+Et dès qu'ils m'ont vu ils ont dit,
+
+186
+00:12:12,812 --> 00:12:15,812
+nous avons besoin d'un processeur plus rapide et d'une meilleure souris.
+
+187
+00:12:15,812 --> 00:12:19,812
+(Rires)
+
+188
+00:12:19,812 --> 00:12:21,812
+J'ai donc été réellement surpris.
+
+189
+00:12:21,812 --> 00:12:24,812
+Vous voyez, comment diable savaient-ils tout cela?
+
+190
+00:12:24,812 --> 00:12:26,812
+Et ils ont dit, eh bien, nous avons trouvé ça dans les CD.
+
+191
+00:12:26,812 --> 00:12:29,812
+Alors j'ai dit, mais comment avez-vous compris ce qui se passe là-bas?
+
+192
+00:12:29,812 --> 00:12:31,812
+Alors ils ont dit, eh bien, vous avez laissé cette machine
+
+193
+00:12:31,812 --> 00:12:34,812
+qui parle uniquement en anglais, donc nous avons dû apprendre l'anglais.
+
+194
+00:12:34,812 --> 00:12:38,812
+Alors j'ai mesuré, et ils utilisaient 200 mots anglais les uns avec les autres
+
+195
+00:12:38,812 --> 00:12:41,812
+- mal prononcés, mais correctement utilisés -
+
+196
+00:12:41,812 --> 00:12:47,812
+des mots comme sortie, stop, rechercher, enregistrer, ce genre de choses,
+
+197
+00:12:47,812 --> 00:12:50,812
+non seulement pour utiliser l'ordinateur, mais dans leurs conversations quotidiennes.
+
+198
+00:12:50,812 --> 00:12:54,812
+Ainsi, Madantusi semblait montrer que le langage n'est pas un obstacle;
+
+199
+00:12:54,812 --> 00:12:56,812
+en fait, ils peuvent être capables d'enseigner eux-mêmes la langue
+
+200
+00:12:56,812 --> 00:12:59,812
+s'ils le voulaient vraiment.
+
+201
+00:12:59,812 --> 00:13:04,812
+Enfin, j'ai obtenu un financement pour tenter cette expérience
+
+202
+00:13:04,812 --> 00:13:08,812
+pour voir si ces résultats sont reproductibles; si ils se produisent partout ailleurs.
+
+203
+00:13:08,812 --> 00:13:11,812
+L'Inde est un bon endroit pour faire une telle expérience
+
+204
+00:13:11,812 --> 00:13:14,812
+parce que nous avons toutes les diversités ethniques, toute la - vous voyez,
+
+205
+00:13:14,812 --> 00:13:17,812
+la diversité génétique, toutes les diversités raciales,
+
+206
+00:13:17,812 --> 00:13:19,812
+et aussi toutes les diversités socio-économiques.
+
+207
+00:13:19,812 --> 00:13:24,812
+Donc, je pouvais choisir des échantillons afin de couvrir une section transversale
+
+208
+00:13:24,812 --> 00:13:28,812
+qui couvrirait pratiquement tout le monde.
+
+209
+00:13:28,812 --> 00:13:32,812
+J'ai donc fait cela pendant près de cinq ans, et cette expérience
+
+210
+00:13:32,812 --> 00:13:35,812
+nous a vraiment emmené dans toute l'Inde de long en large.
+
+211
+00:13:35,812 --> 00:13:38,812
+C'est l'Himalaya. Dans le Nord, très froid.
+
+212
+00:13:38,812 --> 00:13:41,812
+J'ai également eu à vérifier ou à inventer une conception technique
+
+213
+00:13:41,812 --> 00:13:45,812
+qui survive à l'extérieur, et j'utilisais des PC normaux et classiques,
+
+214
+00:13:45,812 --> 00:13:48,812
+j'avais donc besoin de climats différents, ce en quoi l'Inde est également très pratique
+
+215
+00:13:48,812 --> 00:13:51,812
+parce que nous avons très froid, très chaud, et ainsi de suite.
+
+216
+00:13:51,812 --> 00:14:03,812
+C'est le désert à l'ouest, près de la frontière pakistanaise.
+
+217
+00:14:03,812 --> 00:14:07,812
+Et vous voyez ici un petit clip de - l'un de ces villages -
+
+218
+00:14:07,812 --> 00:14:10,812
+la première chose que ces enfants ont fait a été de trouver un site Web
+
+219
+00:14:10,812 --> 00:14:14,812
+pour apprendre par eux-mêmes l'alphabet anglais.
+
+220
+00:14:14,812 --> 00:14:18,812
+Ensuite, au centre de l'Inde - des villages de pêcheurs très chauds, humides,
+
+221
+00:14:18,812 --> 00:14:22,812
+où l'humidité est un très grand tueur d'électronique.
+
+222
+00:14:22,812 --> 00:14:25,812
+Donc, nous devions résoudre tous ces problèmes
+
+223
+00:14:25,812 --> 00:14:27,812
+sans air conditionné et avec très peu d'énergie,
+
+224
+00:14:27,812 --> 00:14:32,812
+donc la plupart des solutions qu'on a trouvé utilisaient de l'air pulsé
+
+225
+00:14:32,812 --> 00:14:35,812
+mis aux bons endroits pour faire fonctionner les machines.
+
+226
+00:14:35,812 --> 00:14:40,812
+Je veux juste couper court. Nous l'avons fait maintes et maintes fois.
+
+227
+00:14:40,812 --> 00:14:44,812
+Cette séquence est également bien. Il s'agit d'un petit enfant, un enfant de six ans,
+
+228
+00:14:44,812 --> 00:14:46,812
+qui dit à sa sœur aînée ce qu'il faut faire.
+
+229
+00:14:46,812 --> 00:14:48,812
+Et cela arrive très souvent avec ces ordinateurs,
+
+230
+00:14:48,812 --> 00:14:54,812
+que les enfants plus jeunes se retrouvent à enseigner aux plus âgés.
+
+231
+00:14:54,812 --> 00:14:59,812
+Qu'avons-nous trouvé? Nous avons constaté que des enfants de six à 13 ans peuvent s'auto-instruire
+
+232
+00:14:59,812 --> 00:15:01,812
+dans un environnement connecté,
+
+233
+00:15:01,812 --> 00:15:06,812
+indépendamment de tout ce que nous pourrions mesurer.
+
+234
+00:15:06,812 --> 00:15:11,812
+Donc, si ils ont accès à l'ordinateur, ils s'enseignent eux-mêmes, y compris l'intelligence.
+
+235
+00:15:11,812 --> 00:15:16,812
+Je ne pouvais pas trouver une seule corrélation avec quoi que ce soit, mais il fallait que ça se passe en groupes.
+
+236
+00:15:16,812 --> 00:15:20,812
+Et c'est peut-être d'un grand intérêt pour ce groupe
+
+237
+00:15:20,812 --> 00:15:22,812
+car vous parlez tous de groupes.
+
+238
+00:15:22,812 --> 00:15:26,812
+Donc, ici, c'est la puissance de ce que ce groupe d'enfants peut faire
+
+239
+00:15:26,812 --> 00:15:29,812
+si vous supprimez l'intervention d'un adulte.
+
+240
+00:15:29,812 --> 00:15:33,812
+Juste une idée rapide des mesures.
+
+241
+00:15:33,812 --> 00:15:37,812
+Nous avons utilisé des techniques statistiques standard, donc je n'en parlerai pas.
+
+242
+00:15:37,812 --> 00:15:40,812
+Mais nous avons obtenu une courbe d'apprentissage nette,
+
+243
+00:15:40,812 --> 00:15:43,812
+presque exactement la même que ce que vous pourriez obtenir dans une école.
+
+244
+00:15:43,812 --> 00:15:45,812
+Je vais en rester là,
+
+245
+00:15:45,812 --> 00:15:48,812
+parce que, ça veut tout dire, non?
+
+246
+00:15:48,812 --> 00:15:50,812
+Que pouvaient-ils apprendre à faire?
+
+247
+00:15:50,812 --> 00:15:55,812
+Les fonctions de base de Windows, la navigation, la peinture, le chat et le courrier électronique,
+
+248
+00:15:55,812 --> 00:15:58,812
+les jeux et les ressources éducatives, télécharger de la musique, lire de la vidéo.
+
+249
+00:15:58,812 --> 00:16:00,812
+En bref, ce que nous faisons tous.
+
+250
+00:16:00,812 --> 00:16:04,812
+Et plus de 300 enfants seront compétents en informatique
+
+251
+00:16:04,812 --> 00:16:09,812
+et capable de faire toutes ces choses en six mois avec un ordinateur.
+
+252
+00:16:09,812 --> 00:16:10,812
+Alors, comment font-ils cela?
+
+253
+00:16:10,812 --> 00:16:12,812
+Si vous calculiez le temps réel de l'accès,
+
+254
+00:16:12,812 --> 00:16:14,812
+ça reviendrait à quelques minutes par jour,
+
+255
+00:16:14,812 --> 00:16:16,812
+Ce n'est donc pas comme ça que ça se passe.
+
+256
+00:16:16,812 --> 00:16:21,812
+Ce que vous avez, en fait, c'est qu'il y a un enfant qui manipule l'ordinateur.
+
+257
+00:16:21,812 --> 00:16:23,812
+Et généralement trois autres enfants l'entourent,
+
+258
+00:16:23,812 --> 00:16:27,812
+qui le conseillent sur ce qu'ils doivent faire.
+
+259
+00:16:27,812 --> 00:16:31,812
+Si vous les testez, tous les quatre obtiendront les mêmes scores à tout ce que vous leur demanderez.
+
+260
+00:16:31,812 --> 00:16:35,812
+Autour de ces quatre il y a généralement un groupe d'environ 16 enfants
+
+261
+00:16:35,812 --> 00:16:38,812
+qui donnent aussi des conseils, souvent à tort,
+
+262
+00:16:38,812 --> 00:16:41,812
+sur tout ce qui se passe sur l'ordinateur.
+
+263
+00:16:41,812 --> 00:16:46,812
+Et ils réussiront tous un test donné sur ce sujet.
+
+264
+00:16:46,812 --> 00:16:50,812
+Ils apprennent donc tout ça autant en regardant qu'en faisant.
+
+265
+00:16:50,812 --> 00:16:53,812
+Il semble contre-intuitif pour l'apprentissage des adultes,
+
+266
+00:16:53,812 --> 00:16:55,812
+mais souvenez-vous, les enfants de huit ans vivent dans une société
+
+267
+00:16:55,812 --> 00:16:59,812
+où la plupart du temps on leur dit, ne fais pas ça,
+
+268
+00:16:59,812 --> 00:17:01,812
+vous voyez, ne touche pas la bouteille de whisky.
+
+269
+00:17:01,812 --> 00:17:03,812
+Alors que fait un enfant de huit ans?
+
+270
+00:17:03,812 --> 00:17:07,812
+Il observe très attentivement la façon dont on doit toucher une bouteille de whisky.
+
+271
+00:17:07,812 --> 00:17:08,812
+Et si vous le testiez,
+
+272
+00:17:08,812 --> 00:17:10,812
+il répondrait à toutes les questions correctement sur ce sujet.
+
+273
+00:17:10,812 --> 00:17:16,812
+Donc, ils semblent être en mesure d'acquérir très rapidement.
+
+274
+00:17:16,812 --> 00:17:19,812
+Et quelle a été la conclusion de ces six années de travail?
+
+275
+00:17:19,812 --> 00:17:23,812
+Elle a été que l'enseignement primaire peut se faire de lui-même,
+
+276
+00:17:23,812 --> 00:17:25,812
+ou en partie de lui-même.
+
+277
+00:17:25,812 --> 00:17:29,812
+Il n'est pas nécessaire de l'imposer d'en haut.
+
+278
+00:17:29,812 --> 00:17:35,812
+Ce pourrait peut-être un système d'auto-organisation, comme ça l'a été -
+
+279
+00:17:35,812 --> 00:17:37,812
+et la seconde chose que je voulais vous dire,
+
+280
+00:17:37,812 --> 00:17:41,812
+c'est que les enfants peuvent s'auto-organiser et atteindre un objectif éducatif.
+
+281
+00:17:41,812 --> 00:17:47,812
+La troisième chose concerne les valeurs, et de nouveau, pour faire court,
+
+282
+00:17:47,812 --> 00:17:51,812
+j'ai effectué un test sur plus de 500 enfants répartis dans toute l'Inde.
+
+283
+00:17:51,812 --> 00:17:54,812
+et leur ai demandé - je leur ai donné environ 68 différentes
+
+284
+00:17:54,812 --> 00:17:58,812
+questions axées sur les valeurs et leur ai simplement demandé leur avis.
+
+285
+00:17:58,812 --> 00:18:02,812
+Nous avons eu toutes sortes d'opinions. Oui, Non ou Je ne sais pas.
+
+286
+00:18:02,812 --> 00:18:08,812
+J'ai simplement pris les questions où j'ai eu 50% de oui et 50% de non,
+
+287
+00:18:08,812 --> 00:18:12,812
+j'ai donc été en mesure d'obtenir une collection de 16 déclarations.
+
+288
+00:18:12,812 --> 00:18:16,812
+Ce sont les zones où les enfants étaient manifestement confus,
+
+289
+00:18:16,812 --> 00:18:18,812
+parce que la moitié ont dit oui et la moitié ont dit non.
+
+290
+00:18:18,812 --> 00:18:22,812
+Un exemple typique étant, il est parfois nécessaire de dire des mensonges.
+
+291
+00:18:22,812 --> 00:18:27,812
+Ils n'ont pas de façon de déterminer de quelle manière répondre à cette question;
+
+292
+00:18:27,812 --> 00:18:30,812
+peut-être aucun d'entre nous n'en a non plus.
+
+293
+00:18:30,812 --> 00:18:32,812
+Donc, je vous laisse avec cette troisième question.
+
+294
+00:18:32,812 --> 00:18:36,812
+La technologie peut-elle changer l'acquisition de valeurs?
+
+295
+00:18:36,812 --> 00:18:38,812
+Enfin, les systèmes d'auto-organisation,
+
+296
+00:18:38,812 --> 00:18:40,812
+sur lesquels encore une fois je ne dirai pas trop
+
+297
+00:18:40,812 --> 00:18:44,812
+parce que vous avez entendu tout cela.
+
+298
+00:18:44,812 --> 00:18:46,812
+Les systèmes naturels sont tous d'auto-organisation:
+
+299
+00:18:46,812 --> 00:18:49,812
+galaxies, molécules, cellules, organismes, sociétés -
+
+300
+00:18:49,812 --> 00:18:51,812
+sauf pour le débat sur un concepteur intelligent.
+
+301
+00:18:51,812 --> 00:18:54,812
+Mais à ce moment-là, autant que la science va,
+
+302
+00:18:54,812 --> 00:18:56,812
+c'est l'auto-organisation.
+
+303
+00:18:56,812 --> 00:18:59,812
+Mais d'autres exemples sont les embouteillages, la bourse, la société
+
+304
+00:18:59,812 --> 00:19:05,812
+et la reprise après sinistre, le terrorisme et l'insurrection.
+
+305
+00:19:05,812 --> 00:19:09,812
+Et vous connaissez les systèmes d'auto-organisation basés sur Internet.
+
+306
+00:19:09,812 --> 00:19:11,812
+Alors voici mes quatre phrases.
+
+307
+00:19:11,812 --> 00:19:15,812
+L'éloignement affecte la qualité de l'enseignement.
+
+308
+00:19:15,812 --> 00:19:21,812
+La technologie de l'enseignement devrait être introduite dans les zones éloignées d'abord
+
+309
+00:19:21,812 --> 00:19:24,812
+et dans d'autres zones plus tard.
+
+310
+00:19:24,812 --> 00:19:30,812
+Les valeurs sont acquises; la doctrine et le dogme sont imposés -
+
+311
+00:19:30,812 --> 00:19:32,812
+les deux mécanismes opposés.
+
+312
+00:19:32,812 --> 00:19:37,812
+Et l'apprentissage est probablement un système d'auto-organisation.
+
+313
+00:19:37,812 --> 00:19:42,812
+Si vous mettez tous les quatre ensemble, cela donne - selon moi -
+
+314
+00:19:42,812 --> 00:19:46,812
+Cela nous donne un but, une vision, pour la technologie éducative.
+
+315
+00:19:46,812 --> 00:19:52,812
+Et la technologie éducative et la pédagogie qui est numérique, automatique,
+
+316
+00:19:52,812 --> 00:19:58,812
+à tolérance de panne, peu invasive, connectée et auto-organisée.
+
+317
+00:19:58,812 --> 00:20:02,812
+Comme éducateurs, nous n'avons jamais demandé de la technologie, nous l'empruntons.
+
+318
+00:20:02,812 --> 00:20:06,812
+PowerPoint est censé être considéré comme une technologie de pointe pour l'enseignement,
+
+319
+00:20:06,812 --> 00:20:10,812
+mais il n'a pas été conçu pour l'enseignement, il a été conçu pour faire des présentations dans les salles de réunion.
+
+320
+00:20:10,812 --> 00:20:14,812
+Nous l'avons emprunté. La vidéoconférence. L'ordinateur personnel lui-même.
+
+321
+00:20:14,812 --> 00:20:17,812
+Je pense qu'il est temps que les éducateurs créent leurs propres spécifications,
+
+322
+00:20:17,812 --> 00:20:21,812
+et j'ai un ensemble de spécifications de ce type. En voici un bref aperçu.
+
+323
+00:20:21,812 --> 00:20:25,812
+Et un tel un ensemble de spécifications devrait produire la technologie
+
+324
+00:20:25,812 --> 00:20:28,812
+qui permettra de s'occuper de l'éloignement, des valeurs et de la violence.
+
+325
+00:20:28,812 --> 00:20:34,812
+Alors j'ai pensé lui donner un nom - pourquoi ne pas l'appeler "exdoctrination".
+
+326
+00:20:34,812 --> 00:20:39,812
+Et cela pourrait être un objectif pour la technologie éducative dans l'avenir
+
+327
+00:20:39,812 --> 00:20:42,812
+alors je veux vous laisser y réfléchir.
+
+328
+00:20:42,812 --> 00:20:43,812
+Merci.
+
+329
+00:20:43,812 --> 00:20:49,812
+(Applaudissements)
+

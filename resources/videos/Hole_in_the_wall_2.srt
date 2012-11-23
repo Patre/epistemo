@@ -1,0 +1,1496 @@
+﻿1
+00:00:17,809 --> 00:00:19,809
+Et bien, voilà une déclaration plutôt évidente qui s'affiche.
+
+2
+00:00:19,809 --> 00:00:22,809
+J'ai commencé avec cette déclaration il y a 12 ans,
+
+3
+00:00:22,809 --> 00:00:25,809
+et j'ai commencé dans le contexte
+
+4
+00:00:25,809 --> 00:00:27,809
+de pays en développement
+
+5
+00:00:27,809 --> 00:00:30,809
+mais vous êtes assis là et venez de tous les coins du monde.
+
+6
+00:00:30,809 --> 00:00:33,809
+Alors si vous pensez à une carte de votre pays,
+
+7
+00:00:33,809 --> 00:00:35,809
+je pense que vous vous rendrez compte
+
+8
+00:00:35,809 --> 00:00:37,809
+que pour chaque pays sur terre,
+
+9
+00:00:37,809 --> 00:00:39,809
+on pourrait dessiner des petits cercles pour dire,
+
+10
+00:00:39,809 --> 00:00:42,809
+"Voici les endroits où les bons enseignants n'iront pas."
+
+11
+00:00:43,809 --> 00:00:45,809
+En plus de cela,
+
+12
+00:00:45,809 --> 00:00:48,809
+ce sont les endroits d'où viennent les problèmes.
+
+13
+00:00:48,809 --> 00:00:50,809
+Nous avons donc un problème ironique.
+
+14
+00:00:50,809 --> 00:00:52,809
+Les bons enseignants ne veulent pas aller
+
+15
+00:00:52,809 --> 00:00:55,809
+précisément dans ces endroits où on a le plus besoin d'eux.
+
+16
+00:00:55,809 --> 00:00:58,809
+J'ai commencé en 1999
+
+17
+00:00:58,809 --> 00:01:01,809
+à essayer de résoudre ce problème avec une expérimentation,
+
+18
+00:01:01,809 --> 00:01:04,809
+qui était une expérience très simple à New Delhi.
+
+19
+00:01:06,809 --> 00:01:09,809
+En gros, j'ai encastré un ordinateur
+
+20
+00:01:09,809 --> 00:01:12,809
+dans le mur d'un bidonville à New Delhi.
+
+21
+00:01:13,809 --> 00:01:16,809
+Les enfants allaient très peu à l'école. Il ne connaissaient pas l'anglais.
+
+22
+00:01:16,809 --> 00:01:18,809
+Ils n'avaient jamais vu un ordinateur,
+
+23
+00:01:18,809 --> 00:01:21,809
+et il ne savaient pas ce qu'était internet.
+
+24
+00:01:21,809 --> 00:01:24,809
+J'ai mis une connexion haut débit sur l'ordinateur -- il est à environ un mètre du sol --
+
+25
+00:01:24,809 --> 00:01:26,809
+je l'ai allumé et je l'ai laissé là.
+
+26
+00:01:26,809 --> 00:01:28,809
+Après ça,
+
+27
+00:01:28,809 --> 00:01:31,809
+nous avons remarqué deux ou trois choses intéressantes, que vous allez voir.
+
+28
+00:01:31,809 --> 00:01:34,809
+Mais j'ai répété cette expérience dans  toute l'Inde
+
+29
+00:01:34,809 --> 00:01:36,809
+et puis dans
+
+30
+00:01:36,809 --> 00:01:38,809
+une grande partie du monde
+
+31
+00:01:38,809 --> 00:01:40,809
+et j'ai remarqué
+
+32
+00:01:40,809 --> 00:01:42,809
+que les enfants apprennent à faire
+
+33
+00:01:42,809 --> 00:01:45,809
+ceux qu'ils veulent apprendre à faire.
+
+34
+00:01:45,809 --> 00:01:47,809
+Voici la première expérience que nous avons faite --
+
+35
+00:01:47,809 --> 00:01:49,809
+un garçon de huit ans à votre droite
+
+36
+00:01:49,809 --> 00:01:52,809
+qui apprend à son élève, une fille de six ans,
+
+37
+00:01:52,809 --> 00:01:55,809
+et il lui apprenait à surfer.
+
+38
+00:01:56,809 --> 00:01:59,809
+Ce garçon ici en plein dans le centre de l'Inde --
+
+39
+00:02:00,809 --> 00:02:02,809
+c'est un village du Rajasthan,
+
+40
+00:02:02,809 --> 00:02:05,809
+où les enfants enregistraient leur propre musique
+
+41
+00:02:05,809 --> 00:02:08,809
+et se la jouaient les uns aux autres,
+
+42
+00:02:08,809 --> 00:02:10,809
+et en faisant ça,
+
+43
+00:02:10,809 --> 00:02:12,809
+il s'amusaient beaucoup.
+
+44
+00:02:12,809 --> 00:02:14,809
+Ils ont fait tout ça dans les quatre heures
+
+45
+00:02:14,809 --> 00:02:17,809
+après avoir découvert l'ordinateur pour la première fois.
+
+46
+00:02:17,809 --> 00:02:20,809
+Dans un autre village du sud de l'Inde,
+
+47
+00:02:20,809 --> 00:02:22,809
+ces garçons ici
+
+48
+00:02:22,809 --> 00:02:24,809
+avaient assemblé un caméscope
+
+49
+00:02:24,809 --> 00:02:26,809
+et essayaient de photographier un bourdon.
+
+50
+00:02:26,809 --> 00:02:28,809
+Ils l'ont téléchargé depuis Disney.com,
+
+51
+00:02:28,809 --> 00:02:30,809
+ou un site similaire,
+
+52
+00:02:30,809 --> 00:02:33,809
+14 jours après qu'on ait mis l'ordinateur dans leur village.
+
+53
+00:02:36,809 --> 00:02:38,809
+Donc, à la fin de l'expérience,
+
+54
+00:02:38,809 --> 00:02:40,809
+nous avons conclu que des groupes d'enfants
+
+55
+00:02:40,809 --> 00:02:43,809
+peuvent apprendre à utiliser des ordinateurs et internet seuls,
+
+56
+00:02:43,809 --> 00:02:45,809
+peu importe qui ils étaient
+
+57
+00:02:45,809 --> 00:02:48,809
+et où ils étaient.
+
+58
+00:02:48,809 --> 00:02:51,809
+A ce stade, je suis devenu un peu plus ambitieux
+
+59
+00:02:51,809 --> 00:02:54,809
+et j'ai décidé de voir
+
+60
+00:02:54,809 --> 00:02:57,809
+ce que des enfants pouvaient faire d'autre avec un ordinateur.
+
+61
+00:02:57,809 --> 00:03:00,809
+Nous avons commencé par une expérience à Hyderabad, en Inde,
+
+62
+00:03:00,809 --> 00:03:03,809
+où nous avons donné à un groupe d'enfants --
+
+63
+00:03:03,809 --> 00:03:06,809
+ils parlaient anglais avec un fort accent Telugu.
+
+64
+00:03:06,809 --> 00:03:08,809
+Je leur ai donné un ordinateur
+
+65
+00:03:08,809 --> 00:03:10,809
+avec une interface de synthèse vocale,
+
+66
+00:03:10,809 --> 00:03:13,809
+qui est maintenant livrée gratuitement avec Windows,
+
+67
+00:03:13,809 --> 00:03:15,809
+et je leur ai demandé de lui parler.
+
+68
+00:03:15,809 --> 00:03:17,809
+Et quand ils lui parlaient,
+
+69
+00:03:17,809 --> 00:03:19,809
+l'ordinateur tapait du charabia,
+
+70
+00:03:19,809 --> 00:03:21,809
+alors ils ont dit, "Bon, il ne comprend rien de ce qu'on lui dit."
+
+71
+00:03:21,809 --> 00:03:23,809
+Et j'ai répondu, "Oui, je vais le laisser ici pendant deux mois.
+
+72
+00:03:23,809 --> 00:03:25,809
+Faites-vous comprendre
+
+73
+00:03:25,809 --> 00:03:27,809
+de l'ordinateur."
+
+74
+00:03:27,809 --> 00:03:29,809
+Alors les enfants ont dit, "Comment on fait ça?"
+
+75
+00:03:29,809 --> 00:03:31,809
+et j'ai répondu,
+
+76
+00:03:31,809 --> 00:03:33,809
+"Je ne sais pas, en fait."
+
+77
+00:03:33,809 --> 00:03:35,809
+(Rires)
+
+78
+00:03:35,809 --> 00:03:37,809
+et je suis parti.
+
+79
+00:03:37,809 --> 00:03:39,809
+(Rires)
+
+80
+00:03:40,809 --> 00:03:42,809
+Deux mois plus tard --
+
+81
+00:03:42,809 --> 00:03:44,809
+et c'est maintenant documenté
+
+82
+00:03:44,809 --> 00:03:46,809
+dans la revue Information Technology
+
+83
+00:03:46,809 --> 00:03:48,809
+for International Development --
+
+84
+00:03:48,809 --> 00:03:50,809
+que les accents avaient changé
+
+85
+00:03:50,809 --> 00:03:53,809
+et étaient remarquablement proches de l'accent britannique neutre
+
+86
+00:03:53,809 --> 00:03:56,809
+auquel j'avais entraîné la synthèse vocale.
+
+87
+00:03:56,809 --> 00:03:59,809
+En d'autres termes, ils parlaient tous comme James Tooley.
+
+88
+00:03:59,809 --> 00:04:01,809
+(Rires)
+
+89
+00:04:01,809 --> 00:04:03,809
+Et donc ils pouvaient faire ça tout seuls.
+
+90
+00:04:03,809 --> 00:04:05,809
+Après ça, j'ai commencé l'expérience
+
+91
+00:04:05,809 --> 00:04:07,809
+avec différentes choses
+
+92
+00:04:07,809 --> 00:04:09,809
+qu'ils pourraient apprendre à faire tout seuls.
+
+93
+00:04:09,809 --> 00:04:12,809
+J'ai reçu un coup de fil intéressant un jour de Columbo,
+
+94
+00:04:12,809 --> 00:04:14,809
+de feu Arthur C. Clarke,
+
+95
+00:04:14,809 --> 00:04:16,809
+qui m'a dit, " Je veux voir ce qui se passe."
+
+96
+00:04:16,809 --> 00:04:19,809
+Et il ne pouvait pas se déplacer, alors j'y suis allé.
+
+97
+00:04:19,809 --> 00:04:21,809
+Il a dit deux choses intéressantes,
+
+98
+00:04:21,809 --> 00:04:26,809
+"Un enseignant qui peut être remplacé par une machine devrait l'être."
+
+99
+00:04:26,809 --> 00:04:28,809
+(Rires)
+
+100
+00:04:28,809 --> 00:04:30,809
+La deuxième chose qu'il a dite était que,
+
+101
+00:04:30,809 --> 00:04:32,809
+"Si les enfants sont intéressés,
+
+102
+00:04:32,809 --> 00:04:35,809
+alors l'éducation se produit,"
+
+103
+00:04:35,809 --> 00:04:37,809
+Et je faisais ça sur le terrain,
+
+104
+00:04:37,809 --> 00:04:39,809
+et chaque fois j'observais et je pensais à lui.
+
+105
+00:04:39,809 --> 00:04:42,809
+(Video) Arthur C. Clarke : Et ils peuvent effectivement
+
+106
+00:04:42,809 --> 00:04:44,809
+aider les gens,
+
+107
+00:04:44,809 --> 00:04:46,809
+parce que les enfants apprennent vite à naviguer
+
+108
+00:04:46,809 --> 00:04:49,809
+et vont trouver les choses qui les intéressent.
+
+109
+00:04:49,809 --> 00:04:52,809
+Et quand vous avez l'intérêt, vous avez l'éducation.
+
+110
+00:04:52,809 --> 00:04:55,809
+Sugata Mitra : J'ai porté l'expérience en Afrique du Sud.
+
+111
+00:04:55,809 --> 00:04:57,809
+Voici un garçon de 15 ans.
+
+112
+00:04:57,809 --> 00:05:00,809
+(Video) Garçon : ...pour dire, je joue à des jeux
+
+113
+00:05:00,809 --> 00:05:03,809
+comme les animaux,
+
+114
+00:05:03,809 --> 00:05:06,809
+et j'écoute de la musique.
+
+115
+00:05:06,809 --> 00:05:08,809
+SM : Et je lui ai demandé, "Tu envoies des emails?"
+
+116
+00:05:08,809 --> 00:05:11,809
+et il a dit, "Oui, et ils traversent l'océan."
+
+117
+00:05:12,809 --> 00:05:14,809
+C'est au Cambodge,
+
+118
+00:05:14,809 --> 00:05:17,809
+dans la campagne cambodgienne --
+
+119
+00:05:17,809 --> 00:05:20,809
+un jeu arithmétique plutôt simple,
+
+120
+00:05:20,809 --> 00:05:22,809
+auquel pas un enfant ne jouerait en classe ou à la maison.
+
+121
+00:05:22,809 --> 00:05:24,809
+Ils vous le rejetteraient.
+
+122
+00:05:24,809 --> 00:05:26,809
+Ils diraient, "C'est très ennuyeux."
+
+123
+00:05:26,809 --> 00:05:28,809
+Si vous le laissez sur le trottoir,
+
+124
+00:05:28,809 --> 00:05:30,809
+et si les adultes s'en vont,
+
+125
+00:05:30,809 --> 00:05:32,809
+et ils vont frimer les uns avec les autres
+
+126
+00:05:32,809 --> 00:05:34,809
+à propos de ce qu'ils peuvent faire.
+
+127
+00:05:34,809 --> 00:05:36,809
+C'est ce que ces enfants sont en train de faire.
+
+128
+00:05:36,809 --> 00:05:39,809
+Ils essaient de faire des multiplications, je crois.
+
+129
+00:05:39,809 --> 00:05:41,809
+Et dans toute l'Inde,
+
+130
+00:05:41,809 --> 00:05:43,809
+au bout de deux ans environ,
+
+131
+00:05:43,809 --> 00:05:46,809
+des enfants commençaient à utiliser Google pour faire leurs devoirs.
+
+132
+00:05:46,809 --> 00:05:48,809
+Et le résultat c'est que les enseignants ont rapporté
+
+133
+00:05:48,809 --> 00:05:50,809
+des améliorations énormes dans leur anglais --
+
+134
+00:05:50,809 --> 00:05:54,809
+(rires)
+
+135
+00:05:54,809 --> 00:05:56,809
+des progrès rapides et toutes sortes de choses.
+
+136
+00:05:56,809 --> 00:05:59,809
+Ils disaient, "Ils sont devenus de vrais penseurs etc.
+
+137
+00:05:59,809 --> 00:06:02,809
+(Rires)
+
+138
+00:06:02,809 --> 00:06:04,809
+Et c'était bien vrai.
+
+139
+00:06:04,809 --> 00:06:06,809
+Je veux dire, s'il y a des choses sur Google,
+
+140
+00:06:06,809 --> 00:06:09,809
+pourquoi auriez-vous besoin de les bourrer dans votre tête?
+
+141
+00:06:10,809 --> 00:06:12,809
+Donc au bout des quatre années suivantes,
+
+142
+00:06:12,809 --> 00:06:15,809
+j'ai décidé que des groupes d'enfants peuvent naviguer sur internet
+
+143
+00:06:15,809 --> 00:06:18,809
+pour atteindre des objectifs éducatifs tout seuls.
+
+144
+00:06:18,809 --> 00:06:20,809
+A l'époque, une grosse somme d'argent
+
+145
+00:06:20,809 --> 00:06:22,809
+avait été donnée par l'Université de Newcastle
+
+146
+00:06:22,809 --> 00:06:25,809
+pour améliorer la scolarité en Inde.
+
+147
+00:06:25,809 --> 00:06:28,809
+Alors Newcastle m'a appelé. J'ai dit, "Je le ferai depuis Delhi."
+
+148
+00:06:28,809 --> 00:06:30,809
+Ils ont dit, "Il n'est pas question que vous gériez
+
+149
+00:06:30,809 --> 00:06:33,809
+un million de livres de subvention universitaire
+
+150
+00:06:33,809 --> 00:06:35,809
+en restant à Delhi."
+
+151
+00:06:35,809 --> 00:06:37,809
+Donc en 2006,
+
+152
+00:06:37,809 --> 00:06:39,809
+je me suis acheté un pardessus bien épais
+
+153
+00:06:39,809 --> 00:06:41,809
+et j'ai déménagé à Newcastle
+
+154
+00:06:42,809 --> 00:06:44,809
+Je voulais tester les limites
+
+155
+00:06:44,809 --> 00:06:46,809
+du système.
+
+156
+00:06:46,809 --> 00:06:48,809
+La première expérience que j'ai faite depuis Newcastle
+
+157
+00:06:48,809 --> 00:06:50,809
+s'est en fait déroulée en Inde.
+
+158
+00:06:50,809 --> 00:06:53,809
+Et je me suis fixé un objectif impossible :
+
+159
+00:06:53,809 --> 00:06:56,809
+est-ce que des enfants de 12 ans
+
+160
+00:06:56,809 --> 00:06:58,809
+qui parlent tamoul
+
+161
+00:06:58,809 --> 00:07:01,809
+dans un village du sud de l'Inde
+
+162
+00:07:01,809 --> 00:07:03,809
+peuvent apprendre seuls la biotechnologie
+
+163
+00:07:03,809 --> 00:07:05,809
+en anglais?
+
+164
+00:07:05,809 --> 00:07:08,809
+Et je me suis dit, je vais les tester. Ils auront un zéro.
+
+165
+00:07:08,809 --> 00:07:10,809
+je vais fournir le matériel, je reviendrai les tester.
+
+166
+00:07:10,809 --> 00:07:12,809
+Ils auront un autre zéro.
+
+167
+00:07:12,809 --> 00:07:16,809
+Je reviendrai et je dirai, "Oui, nous avons besoin d'enseignants pour certaines choses."
+
+168
+00:07:16,809 --> 00:07:18,809
+J'ai fait venir 26 enfants.
+
+169
+00:07:18,809 --> 00:07:20,809
+Ils sont venus et je leur ai dit
+
+170
+00:07:20,809 --> 00:07:22,809
+qu'il y avait des trucs vraiment difficiles sur cet ordinateur.
+
+171
+00:07:22,809 --> 00:07:25,809
+Je ne serai pas surpris si vous ne comprenez rien.
+
+172
+00:07:25,809 --> 00:07:28,809
+C'est tout en anglais, et je m'en vais.
+
+173
+00:07:28,809 --> 00:07:30,809
+(Rires)
+
+174
+00:07:30,809 --> 00:07:32,809
+Et je les ai laissés là.
+
+175
+00:07:32,809 --> 00:07:34,809
+je suis revenu deux mois plus tard,
+
+176
+00:07:34,809 --> 00:07:36,809
+et les 26 enfants sont entrés et avaient l'air très très calmes,
+
+177
+00:07:36,809 --> 00:07:39,809
+j'ai dit," Et bien, avez-vous regardé ces trucs?"
+
+178
+00:07:39,809 --> 00:07:41,809
+Ils ont dit, "Oui."
+
+179
+00:07:41,809 --> 00:07:44,809
+"Vous avez compris quelque chose?" "Non, rien."
+
+180
+00:07:44,809 --> 00:07:46,809
+Alors j'ai dit,
+
+181
+00:07:46,809 --> 00:07:48,809
+"Et bien combien de temps avez-vous passé à vous entraîner
+
+182
+00:07:48,809 --> 00:07:50,809
+avant de décider que vous n'aviez rien compris?"
+
+183
+00:07:50,809 --> 00:07:53,809
+Ils ont dit," On le regarde tous les jours."
+
+184
+00:07:53,809 --> 00:07:55,809
+Alors j'ai dit, " Depuis deux mois, vous avez regardé des trucs que vous ne compreniez pas?"
+
+185
+00:07:55,809 --> 00:07:57,809
+Alors une fille de 12 ans a levé la main et a dit,
+
+186
+00:07:57,809 --> 00:07:59,809
+littéralement,
+
+187
+00:08:00,809 --> 00:08:03,809
+"A part le fait qu'une mauvaise réplication de l'a molécule d'ADN
+
+188
+00:08:03,809 --> 00:08:05,809
+provoque des maladies génétiques,
+
+189
+00:08:05,809 --> 00:08:07,809
+nous n'avons rien compris."
+
+190
+00:08:07,809 --> 00:08:09,809
+(Rires)
+
+191
+00:08:09,809 --> 00:08:16,809
+(Applaudissements)
+
+192
+00:08:16,809 --> 00:08:19,809
+(Rires)
+
+193
+00:08:19,809 --> 00:08:21,809
+Il m'a fallu trois ans pour publier ça.
+
+194
+00:08:21,809 --> 00:08:24,809
+Le British journal of Education Technology vient juste de le publier.
+
+195
+00:08:24,809 --> 00:08:27,809
+Un des arbitres qui a arbitré la publication a dit,
+
+196
+00:08:27,809 --> 00:08:30,809
+"C'est trop beau pour être vrai,"
+
+197
+00:08:30,809 --> 00:08:32,809
+ce qui n'était pas très gentil.
+
+198
+00:08:32,809 --> 00:08:34,809
+Et bien une des filles avait appris toute seule
+
+199
+00:08:34,809 --> 00:08:36,809
+à devenir l'enseignant.
+
+200
+00:08:36,809 --> 00:08:38,809
+Et puis c'est elle là-bas.
+
+201
+00:08:46,809 --> 00:08:48,809
+Rappelez-vous, ils n'étudient pas l'anglais.
+
+202
+00:09:01,809 --> 00:09:04,809
+J'ai coupé au montage le dernier passage quand j'ai dit, "Où est le neurone?"
+
+203
+00:09:04,809 --> 00:09:06,809
+et elle dit, "Le neurone? Le neurone?"
+
+204
+00:09:06,809 --> 00:09:09,809
+Et ensuite elle a regardé et fait ça.
+
+205
+00:09:09,809 --> 00:09:12,809
+Quelle que soit l'expression, ce n'était pas très sympa.
+
+206
+00:09:12,809 --> 00:09:15,809
+Donc leurs scores étaient passés de zéro à 30 %,
+
+207
+00:09:15,809 --> 00:09:18,809
+ce qui est impossible du point de vue éducatif avec ces circonstances.
+
+208
+00:09:18,809 --> 00:09:21,809
+Mais 30 % n'est pas la moyenne.
+
+209
+00:09:21,809 --> 00:09:23,809
+Alors j'ai trouvé qu'ils avaient une amie,
+
+210
+00:09:23,809 --> 00:09:25,809
+un comptable local, une jeune fille,
+
+211
+00:09:25,809 --> 00:09:27,809
+et ils jouaient au football avec elle.
+
+212
+00:09:27,809 --> 00:09:29,809
+J'ai demandé à cette fille, "Voudriez-vous leur apprendre
+
+213
+00:09:29,809 --> 00:09:31,809
+assez de biotechnologie pour qu'ils aient la moyenne?"
+
+214
+00:09:31,809 --> 00:09:33,809
+Et elle a dit, "Comment ferais-je ça? je ne connais pas le sujet."
+
+215
+00:09:33,809 --> 00:09:35,809
+J'ai dit, "Non, utilisez la méthode de la grand-mère."
+
+216
+00:09:35,809 --> 00:09:37,809
+Elle a dit, "Qu'est-ce que c'est?"
+
+217
+00:09:37,809 --> 00:09:39,809
+J'ai dit, "Et bien, ce que vous devez faire
+
+218
+00:09:39,809 --> 00:09:41,809
+c'est de rester derrière eux
+
+219
+00:09:41,809 --> 00:09:44,809
+et admirez-les tout le temps.
+
+220
+00:09:44,809 --> 00:09:46,809
+Dites-leur simplement, "C'est bien, c'est fantastique.
+
+221
+00:09:46,809 --> 00:09:49,809
+Qu'est-ce que c'est? Peux-tu le refaire? Peux-tu m'en montrer plus?"
+
+222
+00:09:49,809 --> 00:09:51,809
+Elle a fait ça pendant deux mois.
+
+223
+00:09:51,809 --> 00:09:53,809
+Les scores sont montés jusqu'à 50 %,
+
+224
+00:09:53,809 --> 00:09:55,809
+ce qui est ce que les écoles chic de Delhi,
+
+225
+00:09:55,809 --> 00:09:58,809
+obtenaient avec un professeur de biotechnologie qualifié.
+
+226
+00:09:58,809 --> 00:10:00,809
+Alors je suis retourné à Newcastle
+
+227
+00:10:00,809 --> 00:10:02,809
+avec ces résultats
+
+228
+00:10:02,809 --> 00:10:04,809
+et j'ai décidé
+
+229
+00:10:04,809 --> 00:10:06,809
+que quelque chose se passait ici
+
+230
+00:10:06,809 --> 00:10:09,809
+qui devenait vraiment très sérieux.
+
+231
+00:10:10,809 --> 00:10:13,809
+Et donc, après avoir expérimenté dans tous les types d'endroits reculés,
+
+232
+00:10:13,809 --> 00:10:16,809
+je suis arrivé dans l'endroit le plus reculé que je pouvais imaginer.
+
+233
+00:10:16,809 --> 00:10:18,809
+(Rires)
+
+234
+00:10:19,809 --> 00:10:22,809
+A environ 7500 kilomètres de Delhi
+
+235
+00:10:22,809 --> 00:10:24,809
+se trouve la petite ville de Gateshead.
+
+236
+00:10:24,809 --> 00:10:27,809
+A Gateshead, j'ai pris 32 enfants,
+
+237
+00:10:27,809 --> 00:10:30,809
+et j'ai commencé à affiner la méthode.
+
+238
+00:10:30,809 --> 00:10:33,809
+Je les ai mis par groupe de quatre.
+
+239
+00:10:33,809 --> 00:10:35,809
+J'ai dit, "Faites vos propres groupes de quatre.
+
+240
+00:10:35,809 --> 00:10:38,809
+Chaque groupe de quatre peut utiliser un ordinateur et pas quatre ordinateurs."
+
+241
+00:10:38,809 --> 00:10:41,809
+Souvenez-vous, dans l'expérience "hole in the Wall".
+
+242
+00:10:41,809 --> 00:10:43,809
+"Vous pouvez changer les groupes.
+
+243
+00:10:43,809 --> 00:10:45,809
+Vous pouvez aller dan un autre groupe,
+
+244
+00:10:45,809 --> 00:10:47,809
+si vous n'aimez pas votre groupe, etc.
+
+245
+00:10:47,809 --> 00:10:50,809
+Vous pouvez aller dans un autre groupe, regarder par dessus leur épaule, voir ce qu'ils font,
+
+246
+00:10:50,809 --> 00:10:53,809
+revenir dans votre propre groupe et dire que c'est votre travail."
+
+247
+00:10:53,809 --> 00:10:55,809
+Et je leur ai expliqué
+
+248
+00:10:55,809 --> 00:10:58,809
+que beaucoup de recherches scientifiques se font selon cette méthode.
+
+249
+00:10:58,809 --> 00:11:00,809
+(Rires)
+
+250
+00:11:00,809 --> 00:11:05,809
+(Applaudissements)
+
+251
+00:11:07,809 --> 00:11:09,809
+Les enfants m'ont suivi avec enthousiasme et ont dit,
+
+252
+00:11:09,809 --> 00:11:11,809
+"Maintenant, qu'attendez-vous de nous?"
+
+253
+00:11:11,809 --> 00:11:14,809
+Je leur ai posé 6 questions d'examen (GCSE).
+
+254
+00:11:14,809 --> 00:11:16,809
+Le premier groupe, le meilleur,
+
+255
+00:11:16,809 --> 00:11:18,809
+a trouvé la solution en 20 minutes.
+
+256
+00:11:18,809 --> 00:11:21,809
+Le pire, en 45.
+
+257
+00:11:21,809 --> 00:11:23,809
+Ils se sont servis de tout ce qu'ils connaissaient --
+
+258
+00:11:23,809 --> 00:11:25,809
+des news groups, Google, Wikipedia,
+
+259
+00:11:25,809 --> 00:11:27,809
+Ask Jeeves, etc.
+
+260
+00:11:27,809 --> 00:11:30,809
+Les professeurs ont dit, "Est-ce de l'apprentissage profond?"
+
+261
+00:11:30,809 --> 00:11:32,809
+J'ai dit, " Et bien essayons."
+
+262
+00:11:32,809 --> 00:11:34,809
+Je reviendrais dans deux mois.
+
+263
+00:11:34,809 --> 00:11:36,809
+Nous leur donnerons un contrôle --
+
+264
+00:11:36,809 --> 00:11:38,809
+pas d'ordinateur, pas d'échange verbal, etc."
+
+265
+00:11:38,809 --> 00:11:40,809
+Le score moyen quand je l'avais fait avec les ordinateurs et les groupes
+
+266
+00:11:40,809 --> 00:11:42,809
+était de 76%.
+
+267
+00:11:42,809 --> 00:11:44,809
+Quand j'ai fait l'expérience, quand j'ai fait le contrôle,
+
+268
+00:11:44,809 --> 00:11:47,809
+deux mois plus tard, le score
+
+269
+00:11:47,809 --> 00:11:50,809
+était de 76%.
+
+270
+00:11:50,809 --> 00:11:52,809
+Les enfants avaient une mémoire
+
+271
+00:11:52,809 --> 00:11:54,809
+photographique.
+
+272
+00:11:54,809 --> 00:11:57,809
+Je le présume parce qu'ils discutent entre eux.
+
+273
+00:11:57,809 --> 00:11:59,809
+Un seul enfant devant un seul ordinateur
+
+274
+00:11:59,809 --> 00:12:01,809
+ne fera pas ça.
+
+275
+00:12:01,809 --> 00:12:03,809
+J'ai plus de résultats,
+
+276
+00:12:03,809 --> 00:12:05,809
+qui sont presque incroyables,
+
+277
+00:12:05,809 --> 00:12:07,809
+de scores qui augmentent dans le temps.
+
+278
+00:12:07,809 --> 00:12:09,809
+Parce que leurs professeurs disent
+
+279
+00:12:09,809 --> 00:12:11,809
+que quand la séance est terminée,
+
+280
+00:12:11,809 --> 00:12:14,809
+les enfants continuent à chercher sur Google.
+
+281
+00:12:14,809 --> 00:12:16,809
+Ici en Grande-Bretagne, j'ai fait appel
+
+282
+00:12:16,809 --> 00:12:18,809
+à des grand-mères britanniques,
+
+283
+00:12:18,809 --> 00:12:20,809
+après mon expérience.
+
+284
+00:12:20,809 --> 00:12:22,809
+Et bien, vous savez,
+
+285
+00:12:22,809 --> 00:12:24,809
+ce sont des personnes très vigoureuses, les grand-mères britanniques.
+
+286
+00:12:24,809 --> 00:12:26,809
+200 d'entre elles se sont immédiatement portées volontaires.
+
+287
+00:12:26,809 --> 00:12:28,809
+(Rires)
+
+288
+00:12:28,809 --> 00:12:31,809
+L'accord était qu'elles me donneraient
+
+289
+00:12:31,809 --> 00:12:33,809
+une heure de leur temps de bande passante,
+
+290
+00:12:33,809 --> 00:12:35,809
+assises chez elles,
+
+291
+00:12:35,809 --> 00:12:37,809
+un jour par semaine,
+
+292
+00:12:37,809 --> 00:12:39,809
+Et elles l'ont fait.
+
+293
+00:12:39,809 --> 00:12:41,809
+Et pendant ces deux dernières années,
+
+294
+00:12:41,809 --> 00:12:43,809
+plus de 600 heures d'instruction
+
+295
+00:12:43,809 --> 00:12:45,809
+ont eu lieu par le biais de Skype,
+
+296
+00:12:45,809 --> 00:12:48,809
+en se servant de ce que mes élèves appellent le nuage de mamies.
+
+297
+00:12:48,809 --> 00:12:51,809
+Le nuage de mamies se trouve là.
+
+298
+00:12:51,809 --> 00:12:54,809
+Je peux les téléporter dans n'importe quelle école de mon choix.
+
+299
+00:13:00,809 --> 00:13:02,809
+(Vidéo) Professeur : Vous ne pouvez pas m'attraper.
+
+300
+00:13:02,809 --> 00:13:05,809
+Répétez.
+
+301
+00:13:05,809 --> 00:13:08,809
+Vous ne pouvez pas m'attraper.
+
+302
+00:13:08,809 --> 00:13:11,809
+Les enfants : Vous ne pouvez pas m'attrapper.
+
+303
+00:13:11,809 --> 00:13:14,809
+Professeur : Je suis le bonhomme en pain d'épice.
+
+304
+00:13:14,809 --> 00:13:16,809
+Les enfants : Je suis le bonhomme en pain d'épice
+
+305
+00:13:16,809 --> 00:13:18,809
+Professeur : Bravo, très bien.
+
+306
+00:13:24,809 --> 00:13:26,809
+SM : De retour à Gateshead,
+
+307
+00:13:26,809 --> 00:13:28,809
+Une fille de 10 ans va au coeur de l'Hindouisme
+
+308
+00:13:28,809 --> 00:13:30,809
+en 15 minutes.
+
+309
+00:13:30,809 --> 00:13:33,809
+Vous savez, ces trucs dont je ne sais rien.
+
+310
+00:13:36,809 --> 00:13:38,809
+Deux enfants ont regardé une conférence TED.
+
+311
+00:13:38,809 --> 00:13:40,809
+Ils voulaient être footballeurs avant.
+
+312
+00:13:40,809 --> 00:13:42,809
+Après avoir regardé 8 conférences TED,
+
+313
+00:13:42,809 --> 00:13:45,809
+il veut devenir Leonard de Vinci.
+
+314
+00:13:45,809 --> 00:13:48,809
+(Rires)
+
+315
+00:13:48,809 --> 00:13:51,809
+(Applaudissements)
+
+316
+00:13:51,809 --> 00:13:53,809
+C'est très simple.
+
+317
+00:13:53,809 --> 00:13:55,809
+C'est ce que je suis en train de construire.
+
+318
+00:13:55,809 --> 00:13:58,809
+Ca s'appelle SOLEs : Environnements d'Auto-apprentissage.
+
+319
+00:13:58,809 --> 00:14:00,809
+Le mobilier est conçu
+
+320
+00:14:00,809 --> 00:14:03,809
+pour que les enfants puissent s'asseoir devant de grands écrans puissants,
+
+321
+00:14:03,809 --> 00:14:06,809
+avec des connexions haut-débit, mais en groupe.
+
+322
+00:14:06,809 --> 00:14:09,809
+Si ils le veulent, ils peuvent appeler le nuage de mamies.
+
+323
+00:14:09,809 --> 00:14:11,809
+Voici un SOLE à Newcastle.
+
+324
+00:14:11,809 --> 00:14:13,809
+Le médiateur est de [confus] en Inde.
+
+325
+00:14:13,809 --> 00:14:16,809
+Jusqu'où pouvons-nous aller? Encore un petit peu et je m'arrête.
+
+326
+00:14:16,809 --> 00:14:19,809
+Je suis allé à Turin en mai.
+
+327
+00:14:20,809 --> 00:14:23,809
+J'ai renvoyé tous les enseignants de mon groupe d'élèves de 10 ans
+
+328
+00:14:24,809 --> 00:14:27,809
+Je ne parle qu'anglais, ils ne parlent qu'italien,
+
+329
+00:14:27,809 --> 00:14:29,809
+nous n'avions donc aucun moyen de communiquer.
+
+330
+00:14:29,809 --> 00:14:32,809
+J'ai commencé à écrire en anglais des questions au tableau.
+
+331
+00:14:33,809 --> 00:14:35,809
+Les enfants ont regardé et ont dit, "Quoi?"
+
+332
+00:14:35,809 --> 00:14:37,809
+J'ai dit, " Et bien faites-le."
+
+333
+00:14:37,809 --> 00:14:40,809
+Ils ont tapé dans Google, l'ont traduit en italien,
+
+334
+00:14:40,809 --> 00:14:42,809
+sont retournés dans le Google italien
+
+335
+00:14:42,809 --> 00:14:45,809
+et 15 minutes plus tard ...
+
+336
+00:14:52,809 --> 00:14:55,809
+Question suivante : Où est Calcutta?
+
+337
+00:14:57,809 --> 00:15:00,809
+Celle-là, il leur a fallu seulement 10 minutes.
+
+338
+00:15:04,809 --> 00:15:07,809
+J'ai essayé avec une question difficile.
+
+339
+00:15:07,809 --> 00:15:10,809
+Qui était Pythagore, et qu'est-ce qu'il a fait?
+
+340
+00:15:12,809 --> 00:15:14,809
+Il y a eu un moment de silence,
+
+341
+00:15:14,809 --> 00:15:16,809
+et ils ont dit, "Vous l'avez mal écrit.
+
+342
+00:15:16,809 --> 00:15:19,809
+C'est Pitagora."
+
+343
+00:15:23,809 --> 00:15:25,809
+Et alors,
+
+344
+00:15:25,809 --> 00:15:27,809
+en 20 minutes,
+
+345
+00:15:27,809 --> 00:15:29,809
+les triangles isocèles ont commencé à apparaitre sur les écrans.
+
+346
+00:15:29,809 --> 00:15:32,809
+Ca m'a donné des frissons.
+
+347
+00:15:32,809 --> 00:15:34,809
+Ce sont des enfants de 10 ans.
+
+348
+00:15:47,809 --> 00:15:50,809
+Texte : Dans 30 minutes, ils arriveront à la théorie de la relativité. Et ensuite?
+
+349
+00:15:50,809 --> 00:15:52,809
+(Rires)
+
+350
+00:15:52,809 --> 00:16:01,809
+(Applaudissements)
+
+351
+00:16:01,809 --> 00:16:03,809
+SM : Alors vous savez ce qui s'est passé?
+
+352
+00:16:03,809 --> 00:16:05,809
+Je crois que nous sommes tombés sur
+
+353
+00:16:05,809 --> 00:16:07,809
+un système auto-organisé.
+
+354
+00:16:07,809 --> 00:16:09,809
+Un système auto-organisé
+
+355
+00:16:09,809 --> 00:16:11,809
+est un système où une structure apparait
+
+356
+00:16:11,809 --> 00:16:14,809
+sans intervention explicite de l'extérieur.
+
+357
+00:16:14,809 --> 00:16:17,809
+Les systèmes qui s'auto-organisent montrent toujours de l'émergence
+
+358
+00:16:17,809 --> 00:16:19,809
+c'est-à-dire que le système commence à faire des choses,
+
+359
+00:16:19,809 --> 00:16:21,809
+pour lesquelles il n'a jamais été conçu.
+
+360
+00:16:21,809 --> 00:16:23,809
+C'est pour ça que vous réagissez comme vous le faites,
+
+361
+00:16:23,809 --> 00:16:26,809
+parce que ça semble impossible.
+
+362
+00:16:26,809 --> 00:16:29,809
+Je pense que je peux présumer à présent,
+
+363
+00:16:29,809 --> 00:16:31,809
+que l'éducation est un système qui s'auto-organise,
+
+364
+00:16:31,809 --> 00:16:33,809
+dans lequel l'apprentissage est un phénomène émergent.
+
+365
+00:16:33,809 --> 00:16:35,809
+Il faudra quelques années pour le prouver par l'expérimentation
+
+366
+00:16:35,809 --> 00:16:37,809
+mais je vais essayer.
+
+367
+00:16:37,809 --> 00:16:40,809
+Mais pendant ce temps, la méthode est disponible.
+
+368
+00:16:40,809 --> 00:16:43,809
+Un milliards d'enfants, nous avons besoin de 100 millions de médiateurs --
+
+369
+00:16:43,809 --> 00:16:45,809
+il y en a bien plus que ça sur la planète --
+
+370
+00:16:45,809 --> 00:16:47,809
+10 millions de SOLEs,
+
+371
+00:16:47,809 --> 00:16:50,809
+180 milliards de dollars et 10 ans.
+
+372
+00:16:51,809 --> 00:16:53,809
+Nous pourrions tout changer.
+
+373
+00:16:53,809 --> 00:16:55,809
+Merci.
+
+374
+00:16:55,809 --> 00:17:06,809
+(Applaudissements)
+
