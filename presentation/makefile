@@ -5,12 +5,12 @@ presentation.pdf: apprentissage.tex
 
 
 all:
-	make presentation.pdf
-	bibtex	presentation.aux
-	@touch presentation.tex
-	make presentation.pdf
-	@touch presentation.tex
-	make presentation.pdf
+	make apprentissage.pdf
+	bibtex	apprentissage.aux
+	@touch apprentissage.tex
+	make apprentissage.pdf
+	@touch apprentissage.tex
+	make apprentissage.pdf
 
 
 clean:
