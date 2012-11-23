@@ -24,7 +24,7 @@
 
 \defbeamertemplate*{footline extra}{default}
 {
-	\begin{beamercolorbox}[wd=.41\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fill,rightskip=.3cm]{author in head/foot}%
+	\begin{beamercolorbox}[wd=.375\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fill,rightskip=.3cm]{author in head/foot}%
 	\insertfootlineextra
 	\end{beamercolorbox}
 }
@@ -32,12 +32,10 @@
 \setbeamertemplate{footline}
 {
 	\leavevmode
-	\begin{beamercolorbox}[wd=.59\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+	\begin{beamercolorbox}[wd=.615\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
 		\usebeamerfont{title in head/foot}\insertframenumber/\inserttotalframenumber~ \inserttitle
 	\end{beamercolorbox}
 	\setbox\footlineextrabox=\vbox{\usebeamertemplate*{footline extra}}
-	%\vskip -\ht\footlineextrabox
-	%\vskip -\dp\footlineextrabox
 	\box\footlineextrabox%
 }
 
