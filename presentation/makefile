@@ -1,6 +1,6 @@
 tex_cmd=pdflatex
 
-presentation.pdf: apprentissage.tex
+apprentissage.pdf: apprentissage.tex
 	${tex_cmd} apprentissage.tex
 
 
