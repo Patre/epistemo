@@ -11,3 +11,4 @@
 * [hiw_3.jpg](http://www.openideo.com/open/how-might-we-increase-the-availability-of-affordable-learning-tools-educational-for-children-in-the-developing-world/inspiration/stick-the-internet-into-walls-everywhere)
 * [hiw_4.jpg](http://socialter.fr/the-hole-in-the-wall/)
 * [soles.jpg](https://visibleprocrastinations.wordpress.com/2010/09/09/ted-sugata-mitra-the-child-driven-education/)
+* [nicholasnegroponte.jpg](https://www.facebook.com/LearningTechnologiesEvent)
