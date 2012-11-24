@@ -32,6 +32,15 @@
     \end{columns}
 }
 
+\newcommand\includegraphicsabsolute[4]
+{
+\begin{tikzpicture}[remember picture,overlay]
+	\node[anchor=north west,inner sep=0pt] at ($(current page.north west)+(#3,-#4)$) {
+		\includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=#2]{#1}
+	};
+\end{tikzpicture}
+}
+
 \usetikzlibrary{calc}
 \tikzstyle{item}=[rectangle,rounded corners=3pt,thick, dashed, color=beamer@blendedred, fill=gray!20]
 % Romain
