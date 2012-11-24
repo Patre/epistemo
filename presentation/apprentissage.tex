@@ -18,6 +18,20 @@
 
 \renewenvironment{quote}{\vspace{0.2cm}\itshape\og}{\fg\vspace{0.2cm}}
 
+\newcommand\personality[3]
+{
+  {\hspace{-0.5cm}\Large #1}
+
+    \begin{columns}[T]      
+      \begin{column}{0.2\textwidth}
+        \includegraphics[width=\textwidth]{#2}
+      \end{column}
+      \begin{column}{0.8\textwidth}
+        #3
+      \end{column}
+    \end{columns}
+}
+
 \usetikzlibrary{calc}
 \tikzstyle{item}=[rectangle,rounded corners=3pt,thick, dashed, color=beamer@blendedred, fill=gray!20]
 % Romain
