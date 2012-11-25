@@ -25,4 +25,4 @@
 * [facebook_blackmail.jpg](http://www.europe1.fr/France/Chantage-Facebook-la-piste-internationale-1293685/)
 * [public_education.png] (http://www.ted.com/talks/ken_robinson_changing_education_paradigms.html)
 * [ADHD.png] (http://www.ted.com/talks/ken_robinson_changing_education_paradigms.html)
-* [give_one_get_one.jpg] (http://www.thibautmarmin.fr)
+* [give_one_get_one.png] (http://www.thibautmarmin.fr)
