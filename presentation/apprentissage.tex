@@ -77,13 +77,22 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \setbeamercolor{date}{fg=beamer@blendedgreen}
 
 
+\AtBeginSection[]
+{
+	{
+	\setbeamertemplate{headline}{\vbox{\usebeamertemplate*{headlinesom}}}
+	\begin{frame}
+		\tableofcontents[currentsection]
+	\end{frame} 
+	}
+}
+
 \AtBeginSubsection[]
 {
 	{
 	\setbeamertemplate{headline}{\vbox{\usebeamertemplate*{headlinesom}}}
 	\begin{frame}
-		\frametitle{Sommaire}
-		\tableofcontents[currentsubsection]
+		\tableofcontents[currentsection,currentsubsection]
 	\end{frame} 
 	}
 }
@@ -102,35 +111,6 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 	}
 }
 
-
-\begin{frame}{Révolution française}
-
-idée d'une instruction publique
-
-
-En avril 1792 :
-« tant qu'il y aura des hommes qui n'obéiront pas à leur raison seule, 
-qui recevront leurs opinions d'une opinion étrangère, en vain toutes 
-les chaînes auraient été brisées, en vain ces opinions de commandes 
-seraient d'utiles vérités ; le genre humain n'en resterait pas moins 
-partagé entre deux classes : celle des hommes qui raisonnent, et celle 
-des hommes qui croient. Celle des maîtres et celle des esclaves »
-Condorcet
-
-\footlineextra{\cite{condorcet_92}}
-\end{frame}
-
-\begin{frame}{1881 Bataillon scolaire}
-\includegraphicsabsolute{../resources/illustrations/Le-bataillon-scolaire}{.5\textwidth}{1cm}{2cm}
-\includegraphicsabsolute{../resources/illustrations/theorie_militaire_zoom}{.4\textwidth}{7cm}{2cm}
-\end{frame}
-
-\begin{frame}{test}
-  \begin{itemize}
-  \item 1890 - Questions pédagogiques, Brouard et Defondon
-  \item 1923 - Constructivisme, Piaget
-  \end{itemize}
-\end{frame}
 
 {
 \setbeamertemplate{headline}{\vbox{\usebeamertemplate*{headlinesom}}}
