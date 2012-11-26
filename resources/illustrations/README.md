@@ -26,3 +26,6 @@
 * [public_education.png] (http://www.ted.com/talks/ken_robinson_changing_education_paradigms.html)
 * [ADHD.png] (http://www.ted.com/talks/ken_robinson_changing_education_paradigms.html)
 * [give_one_get_one.png] (http://www.thibautmarmin.fr)
+* [theorie_militaire.jpg](http://www2.ac-lille.fr/patrimoine-caac/sport/elans/les_bataillons.htm)
+* [fusil_scolaire.jpg](http://www2.ac-lille.fr/patrimoine-caac/sport/elans/les_bataillons.htm)
+* [Le-bataillon-scolaire.jpg](http://allauch.blogspace.fr/5892185/Le-bataillon-scolaire/)
