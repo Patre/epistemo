@@ -14,16 +14,21 @@ all:
 
 
 clean:
-	@rm *.aux
-	@rm *.glg
-	@rm *.glo
-	@rm *.gls
-	@rm *.ist
-	@rm *.log
-	@rm *.maf
-	@rm *.mtc*
-	@rm *.out
-	@rm *.toc
+	@rm -f *.aux
+	@rm -f *.glg
+	@rm -f *.glo
+	@rm -f *.gls
+	@rm -f *.ist
+	@rm -f *.log
+	@rm -f *.maf
+	@rm -f *.mtc*
+	@rm -f *.out
+	@rm -f *.toc
+	@rm -f *.bbl
+	@rm -f *.blg
+	@rm -f *.brf
+	@rm -f *.nav
+	@rm -f *.snm
 
 mrproper:
 	make clean
