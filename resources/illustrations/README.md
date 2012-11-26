@@ -29,3 +29,5 @@
 * [theorie_militaire.jpg](http://www2.ac-lille.fr/patrimoine-caac/sport/elans/les_bataillons.htm)
 * [fusil_scolaire.jpg](http://www2.ac-lille.fr/patrimoine-caac/sport/elans/les_bataillons.htm)
 * [Le-bataillon-scolaire.jpg](http://allauch.blogspace.fr/5892185/Le-bataillon-scolaire/)
+* [piaget.jpg](http://www.psy-luxeuil.fr/article-jean-piaget-et-le-constructivisme-109631520.html)
+* [behaviorisme_vs_constructivisme.png](http://kijkoplleren.wikispaces.com/Constructivisme)
