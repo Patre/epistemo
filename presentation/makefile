@@ -1,6 +1,6 @@
 tex_cmd=pdflatex
 
-apprentissage.pdf: apprentissage.tex
+apprentissage.pdf: apprentissage.tex includes/*.tex
 	${tex_cmd} apprentissage.tex
 
 
