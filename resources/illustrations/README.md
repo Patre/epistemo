@@ -31,3 +31,5 @@
 * [Le-bataillon-scolaire.jpg](http://allauch.blogspace.fr/5892185/Le-bataillon-scolaire/)
 * [piaget.jpg](http://www.psy-luxeuil.fr/article-jean-piaget-et-le-constructivisme-109631520.html)
 * [behaviorisme_vs_constructivisme.png](http://kijkoplleren.wikispaces.com/Constructivisme)
+* [behaviorisme_constructivisme.pdf](https://louiseroy.wordpress.com/2009/10/04/behaviorisme-cognitivisme-et-constructivisme/)
+* [papert.jpg](http://web.media.mit.edu/~papert/)
