@@ -23,22 +23,30 @@
 	\end{itemize}
 	\end{column}
 \end{columns}
-\footlineextra{\cite{DRH_criteres,formation_recrutement}}
+\footlineextra{\cite{DRH_criteres}\cite{formation_recrutement}}
 \end{frame}
 
 \begin{frame}{Chômage des jeunes}
-	\includegraphicsabsolute{../resources/illustrations/chom}{.6\textwidth}{0cm}{3cm}
-	\includegraphicsabsolute{../resources/illustrations/chom_jeunes}{.6\textwidth}{6.5cm}{3cm}
-	\footlineextra{\cite{chom,chom_jeunes}}
+	\includegraphicsabsolute{../resources/illustrations/chom}{.58\textwidth}{0.1cm}{3cm}
+	\includegraphicsabsolute{../resources/illustrations/chom_jeunes}{.58\textwidth}{6.4cm}{3cm}
+	\footlineextra{\cite{chom}\cite{chom_jeunes}}
 \end{frame}
 
 \begin{frame}{Difficulté des entreprises à recruter}
 	\begin{tikzpicture}[remember picture,overlay]
-		\node[anchor=north west,inner sep=0pt] at ($(current page.north west)+(0.5cm,-3cm)$) {
+		\node[anchor=north west,inner sep=0pt] at ($(current page.north west)+(0.5cm,-4cm)$) {
 			\includegraphics[trim=7cm 0cm 0cm 0cm, clip=true, width=0.5\textwidth]{../resources/illustrations/diff_recrut}
 		};
+		\node[anchor=north west,inner sep=0pt,] at ($(current page.north west)+(0.7cm,-8cm)$) {
+			{\tiny \it \color{black!30} Difficultés à recruter en 2012 en Midi-Pyrénées}
+		};
+		\node[anchor=north west,inner sep=0pt] at ($(current page.north west)+(6.5cm,-3cm)$) {
+			\includegraphics[width=0.5\textwidth]{../resources/illustrations/embauches}
+		};
+		\node[anchor=north west,inner sep=0pt,] at ($(current page.north west)+(6.5cm,-8cm)$) {
+			{\tiny \it \color{black!30} Intentions d'embauche en 2012 en Midi-Pyrénées}
+		};
 	\end{tikzpicture}
-	\includegraphicsabsolute{../resources/illustrations/embauches}{.5\textwidth}{6.5cm}{3cm}
 	\footlineextra{\cite{recrutement_midi_pyr}}
 \end{frame}
 
@@ -46,15 +54,22 @@
 \subsection{Communication}
 
 \begin{frame}{Embauches et internet}
-	\includegraphicsabsolute{../resources/illustrations/recrutement-enquete}{.6\textwidth}{0.2cm}{1.7cm}
-	\includegraphicsabsolute{../resources/illustrations/online_recrut}{.6\textwidth}{6cm}{3.5cm}
-	\footlineextra{\cite{recrutement_internet, recrut_social_network,social_recrut}}
+	\begin{tikzpicture}[remember picture,overlay]
+		\node[anchor=north west,inner sep=0pt] at ($(current page.north west)+(0.2cm,-1.7cm)$) {
+			\includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=.6\textwidth]{../resources/illustrations/recrutement-enquete}
+		};
+		\node[anchor=north west,inner sep=0pt] at ($(current page.north west)+(6cm,-3.5cm)$) {
+			\includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=.6\textwidth]{../resources/illustrations/online_recrut}
+		};
+	\end{tikzpicture}
+	
+	\footlineextra{\cite{recrutement_internet}\cite{recrut_social_network}\cite{social_recrut}}
 \end{frame}
 
 \begin{frame}{Réseaux sociaux et chantage}
 	\includegraphicsabsolute{../resources/illustrations/Amanda_Todd}{.6\textwidth}{0.2cm}{1.7cm}
 	\includegraphicsabsolute{../resources/illustrations/facebook_blackmail}{.6\textwidth}{6cm}{4.7cm}
-	\footlineextra{\cite{chantage_facebook, harcel_facebook}}
+	\footlineextra{\cite{chantage_facebook}\cite{harcel_facebook}}
 \end{frame}
 
 \subsection{Décrochages et échecs scolaires}
