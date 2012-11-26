@@ -7,6 +7,7 @@
 \usepackage{fancybox}
 \usepackage{tikz}
 \usepackage{algorithm,algorithmic}
+\usepackage{xparse}
 
 
 \usetheme{Amsterdam}
@@ -14,7 +15,20 @@
 \setbeamertemplate{bibliography item}[text]
 \setbeamertemplate{navigation symbols}{}
 
-\renewenvironment{quote}{\vspace{0.2cm}\itshape\og}{\fg\vspace{0.2cm}}
+\NewDocumentEnvironment{coolquote}{O{}}{%
+\vspace{0.2cm}
+\itshape
+\raisebox{-.05\linewidth}{\includegraphics[width=.1\linewidth]{guillemet}}%
+\hspace{0.1cm}
+\begin{minipage}[t]{.85\linewidth}
+}{
+\end{minipage}
+\begin{minipage}[t]{\linewidth}
+\vspace{0.2cm}
+\hfill\normalfont\scriptsize #1
+\end{minipage}
+\vspace{0.2cm}
+}
 
 \newcommand\personality[3]
 {
