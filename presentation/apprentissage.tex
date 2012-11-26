@@ -1,13 +1,11 @@
 
 \PassOptionsToPackage{table}{xcolor}
 \documentclass[utf8,hyperref={pagebackref}]{beamer}
-%bookmarks,bookmarksnumbered,colorlinks=false,linktocpage
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel}
 \usepackage{listings}
 \usepackage{fancybox}
 \usepackage{tikz}
-%\usepackage{bibentry}
 \usepackage{algorithm,algorithmic}
 
 
@@ -125,6 +123,15 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \include{includes/2-pourquoi}
 \include{includes/3-comment}
 \include{includes/4-ccl}
+
+
+\section*{Bibliographie}
+\bibliographystyle{apalike}
+
+\begin{frame}[allowframebreaks]
+\frametitle{Bibliographie}
+\bibliography{../Bib.bib}
+\end{frame}
 
 \end{document}
 
