@@ -33,3 +33,5 @@
 * [behaviorisme_vs_constructivisme.png](http://kijkoplleren.wikispaces.com/Constructivisme)
 * [behaviorisme_constructivisme.pdf](https://louiseroy.wordpress.com/2009/10/04/behaviorisme-cognitivisme-et-constructivisme/)
 * [papert.jpg](http://web.media.mit.edu/~papert/)
+* [seymour_skinner.jpg](http://www.papeisdeparede.info/Wallpapers-Desenhos-Animados/Papel-de-Parede-The-Simpsons/Fundos-Ecra-seymour-skinner/wallpaper-seymour-skinner-castigado-pais.htm)
+* [seymour_skinner_2.jpg](http://frasier-and-niles.deviantart.com/art/Seymour-Skinner-01-Simpsons-196269212)
