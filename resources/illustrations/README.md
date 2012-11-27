@@ -45,3 +45,5 @@
 * [lunar-distance.jpg](https://en.wikipedia.org/wiki/Lunar_distance_(navigation))
 * [lecture.jpg](https://en.wikipedia.org/wiki/Rhetoric)
 * [histories-fragment.jpg](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29)
+* [cours_magistral.jpg](http://sauvonslarecherche.fr/spip.php?article1791)
+* [mindmap.jpg](http://www.google.fr/imgres?imgurl=http://www.mindtools.com/media/Diagrams/mindmap.jpg&imgrefurl=http://www.mindtools.com/pages/article/newISS_01.htm&h=1754&w=2249&sz=1169&tbnid=QCr_IF3rsNFTMM:&tbnh=81&tbnw=104&zoom=1&usg=__IRimeVvL6k2x9gnP5DWeojIqsKo=&docid=XQid2vPAC945zM&sa=X&ei=rre0UL2xN8OBhQezpoHACg&ved=0CF0Q9QEwBA&dur=6430)
