@@ -4,25 +4,18 @@
 \subsection{Besoins des entreprises}
 
 \begin{frame}{Des formations inadéquates avec les besoins des entreprises}
-\begin{columns}
-	\begin{column}{0.48\linewidth}
-	Besoin des entreprises :
-	\begin{itemize}
-	\item expérimentés
-	\item formés aux TIC
-	\item spécialisation
-	\item multilingues
-	\end{itemize}
-	\end{column}
+\begin{tikzpicture}
+	\node[draw=none] at(-2.5,-1) {Besoin des entreprises};
+	\node[draw=none] at(2.5,-1) {Formation des candidats};
+	\newcommand{\A}{(0,0) ++(125:3.5) circle (3.5)}	\newcommand{\B}{(0,0) ++(55:3.5) circle (3.5)}
+	\fill[opacity=0.5,color=Turquoise] \A;
+	\node[draw=none] at(-3,4.5) {expérimentés};
+	\node[draw=none] at(-3,3) {formés aux TIC};
+	\node[draw=none] at(-3,1.5) {spécialisation};	\fill[opacity=0.5,color=RubineRed] \B;
+	\node[draw=none] at(3.5,4) {apprentissage formel};
+	\node[draw=none,text width=3.5cm] at(3.5,2) {restitution écrite des connaissances};
 	
-	\begin{column}{0.48\linewidth}
-	Formation des candidats :
-	\begin{itemize}
-	\item apprentissage formel
-	\item restitution écrite des connaissances
-	\end{itemize}
-	\end{column}
-\end{columns}
+	\node[draw=none] at(0,3) {multilingues};\end{tikzpicture}
 \footlineextra{\cite{DRH_criteres}\cite{formation_recrutement}}
 \end{frame}
 
