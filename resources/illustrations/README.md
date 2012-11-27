@@ -36,6 +36,8 @@
 * [seymour_skinner.jpg](http://www.papeisdeparede.info/Wallpapers-Desenhos-Animados/Papel-de-Parede-The-Simpsons/Fundos-Ecra-seymour-skinner/wallpaper-seymour-skinner-castigado-pais.htm)
 * [seymour_skinner_2.jpg](http://frasier-and-niles.deviantart.com/art/Seymour-Skinner-01-Simpsons-196269212)
 * [c2i.jpg](http://sti.ac-montpellier.fr/spip.php?rubrique1068)
+* [usage_portables.jpg] (http://www.cndp.fr/ecolenumerique/tous-les-numeros/collecticites/article/article/les-usages-realites-et-disparites.html)
+* [impact_iicd.png] (http://www.iicd.org/files/Education-impactstudy-French.pdf/)
 * [bloom.png](https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom)
 * [calculator.jpg](https://es.wikipedia.org/wiki/Calculadora)
 * [harrison.jpg](http://blogs.rmg.co.uk/rog/2009/03/11/harrisons_first_timekeeper_h1/)

@@ -4,29 +4,29 @@
 \subsection{Pouvoirs publics}
 
 \begin{frame}{Prise en main de l'outil informatique}
-%	\begin{tikzpicture}%[remember picture,overlay]
-%	  	\node (image) {\includegraphics[width=\linewidth]{../resources/illustrations/c2i}};
-%		\node[draw=none,below of = image, node distance=3.5cm] {
-%			{\tiny \it \color{black!30} \url{http://sti.ac-montpellier.fr/spip.php?rubrique1068}}
-%		};
-%	\end{tikzpicture}
+
+	\begin{tikzpicture}
+	  	\node (image) {\includegraphics[width=\linewidth]{../resources/illustrations/c2i}};
+		\node[draw=none,below of = image, node distance=3.5cm] {
+			{\tiny \it \color{black!30} \url{http://sti.ac-montpellier.fr/spip.php?rubrique1068}}
+		};
+	\end{tikzpicture}
 	  \footlineextra{\cite{b2i_c2i}}
 \end{frame}
 
 \begin{frame}{Opérations portables}
-	  \begin{itemize}
-	  \item Ille-et-Vilaine
-	  \item Landes
-	  \end{itemize}
+	\includegraphics[width=\linewidth]{../resources/illustrations/usage_portables}
 	  \footlineextra{\cite{portables35}\cite{portables40}\cite{portables60}}
 \end{frame}
 
 \begin{frame}{Organisations et colloques internationaux}
-	  \begin{itemize}
-	  \item Forum mondial de l'éducation
-	  \item Institut international pour la communication et le développement
-	  \end{itemize}
-	  \footlineextra{\cite{educ_forum}\cite{tics}\cite{peixoto2006regard}}
+	\begin{tikzpicture}
+	  	\node (image) {\includegraphics[width=\linewidth]{../resources/illustrations/impact_iicd}};
+		\node[draw=none,below of = image, node distance=3.5cm] {
+			{\tiny \it \color{black!30} Impact des projets en éducation soutenus par l'IICD sur les utilisateurs finaux 2003-2007.}
+		};
+	\end{tikzpicture}
+	\footlineextra{\cite{educ_forum}\cite{tics}\cite{peixoto2006regard}}
 \end{frame}
 
 \begin{frame}{Refondons l'école de la république}
@@ -423,6 +423,7 @@ Revoir les méthodes d'apprentissages afin de profiter pleinement des TIC dans n
 
 \begin{frame}{Constructionnisme}
   \emph{\centering\huge Constructionnisme $\neq$ Instructionnisme}
+  \footlineextra{\cite{book_seymour_papert}}
 \end{frame}
 
 \begin{frame}{Constructionnisme}
@@ -484,6 +485,88 @@ Revoir les méthodes d'apprentissages afin de profiter pleinement des TIC dans n
 \end{column}
 \end{columns}
     \footlineextra{\cite{interview_papert,book_seymour_papert}}
+\end{frame}
+
+\begin{frame}{LOGO (1967)}
+  \og Lisp sans parenthèses \fg{}
+  \begin{description}
+    \item $\rightarrow$ NetLogo
+    \item $\rightarrow$ Smalltalk
+    \item $\rightarrow$ Scratch
+  \end{description}
+  \begin{block}{Applications}
+    \begin{itemize}
+      \item Dessin à l'écran
+      \item Contrôle de la tortue
+      \item Musique
+    \end{itemize}
+  \end{block}
+  \footlineextra{\cite{wikipedia_papert}}
+\end{frame}
+
+\begin{frame}{LOGO}
+  \begin{center}
+    \only<1>{\includegraphics[width=\textwidth]{../resources/illustrations/logo_screen}}
+    \only<2>{\includegraphics[height=\textheight]{../resources/illustrations/logo_turtle_1}}
+    \only<3>{\includegraphics[width=.8\textwidth]{../resources/illustrations/logo_turtle_2}}
+    \only<4>{\includegraphics[width=\textwidth]{../resources/illustrations/logo_turtle_3}}
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \begin{center}
+    \vspace{.4cm}
+    \emph{\huge L'informatique}
+    \vspace{-.4cm}
+  \end{center}
+  \begin{columns}[T]
+    \begin{column}[l]{.5\textwidth}
+      \begin{block}{\og Information Technology \fg{}}
+        Accès à l'information.
+        
+        $\Rightarrow$ Aspect \emph{informationnel}
+      \end{block}
+    \end{column}
+    \begin{column}[l]{.5\textwidth}
+      \begin{block}{\og Computer Science\fg{}}
+        Manipulation de données
+        
+        $\Rightarrow$ Aspect \emph{constructionnel}
+      \end{block}
+    \end{column}
+  \end{columns}
+  \pause  
+  \begin{center}
+    \vspace{.4cm}
+    \emph{\huge L'éducation}
+    \vspace{-.4cm}
+  \end{center}
+  \begin{columns}[T]
+    \begin{column}[l]{.5\textwidth}
+      \begin{block}{Acquisition d'informations}
+        Délivrer de l'information. Ex :
+        \begin{itemize}
+          \item Histoire
+          \item Géographie
+          \item \ldots
+        \end{itemize}
+        $\Rightarrow$ Aspect \emph{informationnel}
+      \end{block}
+    \end{column}
+    \begin{column}[l]{.5\textwidth}
+      \begin{block}{Art / Technique / Créatif}
+        Construction d'une entité. Ex :
+        \begin{itemize}
+          \item Raisonnement / Concepts
+          \item Musique / Dessin
+          \item \ldots
+        \end{itemize}
+      $\Rightarrow$ Aspect \emph{constructionnel}
+      \end{block}
+    \end{column}
+  \end{columns}
+  
+  \footlineextra{\cite{interview_papert}}  
 \end{frame}
 
 \begin{frame}{Méthodes d'apprentissage}
