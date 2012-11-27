@@ -43,3 +43,4 @@
 * [lunar-distance.jpg](https://en.wikipedia.org/wiki/Lunar_distance_(navigation))
 * [lecture.jpg](https://en.wikipedia.org/wiki/Rhetoric)
 * [histories-fragment.jpg](https://en.wikipedia.org/wiki/Histories_%28Herodotus%29)
+* [cours_magistral.jpg](http://sauvonslarecherche.fr/spip.php?article1791)
