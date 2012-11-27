@@ -138,19 +138,44 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \include{includes/3-comment}
 \include{includes/4-ccl}
 
+\begin{frame}
+\Huge
+\begin{center}
+	Merci pour votre attention !
+	
+	Avez-vous des questions ?
+	\includegraphicsabsolute{../resources/illustrations/seymour_skinner_2}{4cm}{.3cm}{6cm}
+\end{center}
+\end{frame}
+
+\appendix
+\newcounter{finalframe}
+\setcounter{finalframe}{\value{framenumber}}
 
 \section*{Bibliographie}
 \bibliographystyle{apalike}
 
-\begin{frame}[allowframebreaks]
-\tiny
-\frametitle{Bibliographie}
-\bibliography{../Bib.bib}
-\end{frame}
+{
+	\setbeamertemplate{headline}{\vbox{\usebeamertemplate*{headlinesom}}}
+	\setbeamertemplate{footline}{}
+	\begin{frame}[allowframebreaks]
+		\tiny
+		\frametitle{Bibliographie}
+		\bibliography{../Bib.bib}
+	\end{frame}
+}
 
-\begin{frame}
-  \includegraphicsabsolute{../resources/illustrations/seymour_skinner}{13cm}{-0.01cm}{.67cm}
-\end{frame}
+
+\setcounter{framenumber}{\value{finalframe}}
+
+{
+	\setbeamertemplate{headline}{\vbox{\usebeamertemplate*{headlinesom}}}
+	\setbeamertemplate{footline}{}
+	\begin{frame}
+		\includegraphicsabsolute{../resources/illustrations/seymour_skinner}{13cm}{-0.01cm}{.67cm}
+	\end{frame}
+}
+
 \end{document}
 
 
