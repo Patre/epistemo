@@ -138,6 +138,19 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \include{includes/3-comment}
 \include{includes/4-ccl}
 
+\appendix
+\newcounter{finalframe}
+\setcounter{finalframe}{\value{framenumber}}
+
+\begin{frame}
+\Huge
+\begin{center}
+	Merci pour votre attention !
+	
+	Avez-vous des questions ?
+	\includegraphicsabsolute{../resources/illustrations/seymour_skinner_2}{4cm}{.3cm}{6cm}
+\end{center}
+\end{frame}
 
 \section*{Bibliographie}
 \bibliographystyle{apalike}
@@ -147,6 +160,8 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \frametitle{Bibliographie}
 \bibliography{../Bib.bib}
 \end{frame}
+
+\setcounter{framenumber}{\value{finalframe}}
 
 \begin{frame}
   \includegraphicsabsolute{../resources/illustrations/seymour_skinner}{13cm}{-0.01cm}{.67cm}
