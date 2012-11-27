@@ -74,13 +74,23 @@ pédagogiques du numérique
 \subsection{Autres acteurs}
 
 \begin{frame}{E-Learning}
-\begin{itemize}
-\item Khan Academy
-\item Udacity (ai-class.com)
-\item Coursera (ml-class.org)
-\item \url{http://www.youtube.com/education}
-\item Moodle
-\end{itemize}
+%\begin{itemize}
+%\item Khan Academy (http://www.khanacademy.org)
+%\item Udacity (ai-class.com)
+%\item Coursera (ml-class.org)
+%\item \url{http://www.youtube.com/education}
+%\item Moodle
+%\end{itemize}
+\begin{tikzpicture}[overlay, remember picture]
+	  	\node[anchor=north west,inner sep=0pt] (image) at ($(current page.north west)+(-0.5cm,-2.5cm)$) {\includegraphics[width=0.5\paperwidth]{../resources/illustrations/ai_class}};
+		\node[draw=none,below of = image, node distance=2.2cm] {{\tiny \it \color{black!30} Udacity (\href{http://ai-class.com}{ai-class.com})}};
+		
+		\node[anchor=north east,inner sep=0pt] (image) at ($(current page.north east)+(-0.5cm,-1.0cm)$) {\includegraphics[width=0.45\paperwidth]{../resources/illustrations/moodle_rentree_2012}};
+		\node[draw=none,below of = image, node distance=2.1cm] {{\tiny \it \color{black!30} Moodle (\href{http://moodle.com}{moodle.com})}};
+		
+		\node[anchor=south west,inner sep=0pt] (image) at ($(current page.south west)+(5.5cm,0.7cm)$) {\includegraphics[width=0.53\paperwidth]{../resources/illustrations/khan_academy}};
+		\node[draw=none,below of = image, node distance=1.9cm] {{\tiny \it \color{black!30} Khan Academy (\href{http://www.khanacademy.org}{www.khanacademy.org})}};
+	\end{tikzpicture}
 \end{frame}
 
 \begin{frame}
