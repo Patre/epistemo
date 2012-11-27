@@ -113,10 +113,10 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \begin{document}
 
 {
-	\usebackgroundtemplate{
+	\usebackgroundtemplate{%
 		\pgfsetfillopacity{0.3}%
-		    \includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=\paperwidth]%
-		      {../resources/illustrations/kidxmascard}\pgfsetfillopacity{1}
+		    \vbox to \paperheight{\vfil\hbox to \paperwidth{\hfil\includegraphics[trim=0cm 0cm 0cm 0cm, clip=true, width=\paperwidth]%
+		      {../resources/illustrations/kidxmascard}\hfil}\vfil}\pgfsetfillopacity{1}
 	}
 	\frame[plain]
 	{
@@ -143,6 +143,7 @@ morekeywords={*,subsection,make title,tableofcontents,include graphics}
 \bibliographystyle{apalike}
 
 \begin{frame}[allowframebreaks]
+\tiny
 \frametitle{Bibliographie}
 \bibliography{../Bib.bib}
 \end{frame}
