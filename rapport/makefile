@@ -1,6 +1,6 @@
 tex_cmd=pdflatex
 
-rapport.pdf: rapport.tex
+rapport.pdf: rapport.tex quoi.tex pourquoi.tex comment.tex 
 	${tex_cmd} rapport.tex
 
 rapport.glo: rapport.tex
