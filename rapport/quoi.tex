@@ -11,12 +11,12 @@ Les expressions \og{}science informatique\fg{}, \og{}informatique fondamentale\f
 \end{quote}
 Ici nous utiliserons \og{}technologies de l'information\fg{} pour décrire toute technique permettant de stoquer, de traiter ou de transférer l'information. Cette définition couvre évidemment les algorithmes, structure données et protocoles de communication, mais aussi les langages naturels, l'écriture, et tout outil de réflexion logico-mathématique\ldots
 
-\section{La naissance du langage}
+\section{Le langage~: protocole de communication}
 Avec l'apparition du langage l'Être humain s'est doté d'un outil capable d'exprimer des informations de plus en plus complexes. Environ 6000 langues sont parlés aujourd'hui et nous n'avons jamais découvert une civilisation démunie d'un langage complexe\cite{linguistics-pinker}. Il est difficile de dater l'appararition du langage. En effet l'homme essaye depuis des milliers d'années de trouver un \og{}proto-language\fg{}, origine de toute autre, sans succès. Dans \og{}L'Enquête\fg{}, l'historien Grecque Hérodote fait référence à une expérience de \og{}privation de langage\fg{} du pharaon Psammétique~I visant à déterminer le langage \og{}par défaut\fg{} de l'Homme\cite{herodote-privation}. De tels expériences furènt répétés au fil de l'histoire, notamment par l'empereur Frédéric~II de Hohenstaufen, pour qui le résultat fut la mort de ses \og{}cobayes\fg{}\cite{ggcoulton-francis-to-dante}. Les exemples plus modernes d'enfants \og{}sauvages\fg{} ont conduits à l'hypothèse de la \og{}période critique\fg{} d'Eric Lenneberg\cite{lenneberg-crit-period}~: un enfant privé de vocalisations pendant les première années de sa vie sera incapable de bien assimiler le langage par la suite.
 
 Peu importe son ou ses origines, le langage est une technologie de l'information primordiale. Il permet un transfert d'informations entre membres d'une société mais aussi, par le bias des traditions orales, un stockage de l'information pendant une durée théoriquement infini. Chez les peuples alettrés une deuxième invention, la structure d'épopée, est souvent utilisé pour faciliter partage et mémorisation des récits sous form de poésies rythmés \cite{havelock-preface-plato}. Notons d'ailleurs que la poésie est toujours utilisé aujourd'hui comme exercise de mémorisation (à l'école) et moyen mnémotechnique (dans la publicité).
 
-\section{L'écriture}
+\section{L'écriture~: mémoire externe}
 Si le langage peut être vu comme un instinct plutôt qu'une technologie, ce n'est pas le cas de l'écriture. L'écriture idéographique n'est apparu, il y environ 5000 ans, chez un nombre limité de civilisations. L'écriture alphabétique d'ailleurs semble n'être apparu qu'une seule fois, chez les Cananéens, il y a 3700 ans\cite{linguistics-pinker}. Toute autre écriture alphabétique se serait donc dérivé de celle-ci.
 %\gls{Écriture alphabétique~: écriture où chaque symbole correspond à un son vocal.}
 
@@ -31,15 +31,15 @@ Il ne faut pas oublier, cependant, que Platon était un professeur dont la péda
 
 Celà étant, les critiques de Platon sont d'autant plus pertinents aujourd'hui~: la consultation d'informations est maintenant tellement facile que la mémorisation semble suranné, mais il y une distinction importante à faire entre éfleurer un propos et l'assimiler. Quand nous nous approprions vraiment d'un propos c'est bien plus qu'une copie supplémentaire redondant.
 
-\section{L'imprimerie}
+\section{L'imprimerie~: reproduction des données}
 
 
-\section{Les mathématiques}
+\section{L'horloge maritime~: calcul automatique}
 Nous pourrions remplir un rapport tout entier s'il était question d'énumérer les apports de l'outil logico-mathématique, donc nous nous limiterons à l'exemple pertinente des tables de logarithmes. Les logarithmes de Napier, introduits en 1614 dans son oeuvre \og{}Mirifici Logarithmorum Canonis Descriptio\fg{}, furent un outil abstrait visant à simplifier des calculs complexes. Les tables de logarithmes sont très vite devenus indispensables pour tout mathématicien, ingénieur, navigateur ou scientifique. D'après Pierre-Simon Laplace cette invention est\cite{history-of-astronomy}~:
 \begin{quote}
 Un artifice admirable qui, en réduisant à quelques jours un travail de plusieurs mois, double la durée de vie de l'astronome, et lui épargne les erreurs et le dégoût : plaies inséparables des longs calculs.
 \end{quote}
-L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe{}uvre de 1617 d'Henri Briggs. Muni d'une telle table, la multiplication de deux nombre, par exemple, devient triviale~:
+L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe{}uvre de 1617 d'Henri Briggs. Muni d'une telle table la multiplication de deux nombre, par exemple, devient triviale~:
 \begin{eqnarray}
                     &x            &= 2.16\times{8.13}              \nonumber \\
         \implies{}  &\log{x}      &= \log{2.16}+\log{8.13}         \nonumber \\
@@ -49,19 +49,15 @@ L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe
 \end{eqnarray}
 La table nous donne directement $\log{2.16}$ et $\log{8.13}$, et nous pouvoir également lire que le logarithme le plus proche est $log{17.56} = 1.2445245$. Nous en déduisons donc en quelques instants $2.16\times{8.13} \approx{17.56}$, ce qui n'est pas loin de de la vraie valeur $2.16\times{8.13}={17.5608}$.
 
-Laplace parle de l'astronome, car il s'agit de l'époque des grandes découvertes~: pour naviger on ne peut s'en passer des almanachs astrales et de algorithmes de navigation astronomique qui se reposaient dessus. Le calcul de la longitude est particulièrement importante 
+Laplace parle de l'astronome, car il s'agit de l'époque des grandes découvertes~: pour naviger on ne peut s'en passer des almanachs astrales et des algorithmes de navigation astronomique qui se reposaient dessus. Cependant si la latitude peut se calculer grace à l'hauteur perçu du soleil, la longitude est déterminé à partir de la conaissance de l'heure exacte en un endroit précis~: $4$ minutes de décalage correspond à une différence de longitude de $1^{\circ}$.  
 
+En 1714, alors que la flotte Anglaise vient de perdre 1,400 hommes et 4 navire suite à un mauvais calcul de position, le parlement offre un prix de \pounds{20,000} à celui qui saura déterminer, avec une erreur maximum de 56 km, la longitude d'un navire en mer\cite{longitude}. Entre en jeu le charpentier John Harrison, qui construit 1736 la première horloge capable de fonctionner en voyage maritime, suivi d'autres toujours plus compactes et toujours plus précises. Cette invention fut cependant rejeté par l'orthodoxie académique de l'époque, qui voulaient surtout une solution algorithmique tel la méthode des distances lunaires, introduite en Angleterre en 1674 et perfectionnée par Nevil Maskelyne en 1767\cite{history-longitude}. Harrison aura besoin d'attendre 1773 pour recevoir une prime réduite de \pounds{8,750}, et ne sera pas officiellement reconnu comme gagnant.
 
+Pourqui ce rejet? Il s'agit d'un Homme ayant conçu un \og{}oracle\fg{} capable de résoudre le problème pour lui et non pas, distinction importante, une méthode lui permettant de le résoudre lui-même. L'informaticien devient alors prêtre d'un Dieu-machine plutôt que mathématicien-philosophe~: proposition controverse. Ce débat, entre ingénierie et science, trouve son écho aujourd'hui autour de l'apprentissage automatique~: nous pouvons concevoir des machines capable de reconaître des visages, sans comprendre pour autant comment fonctionne cette reconaissance. 
 
+Notons également que de nos jours les algorithmes de calcul à base de tables logarithmiques ne sont même pas introduites à l'école~: la popularisation de calculatrices électroniques aux année 1970 leur ont rendus désuets, de même que l'écriture rend inutile l'épopée. Si des machines à calculer tels le Boulier existent depuis environ 4000 ans, ceux-ci ne sont véritablement que des supports mémoires~: c'est l'étudiant qui applique l'algorithme permettant de calculer le résultat désiré. 
 
-
-\cite{longitude}
-
-Pourtant de nos jours les algorithmes de calcul à base de tables logarithmiques ne sont même pas introduites à l'école~: la popularisation de calculatrices électroniques aux année 1970 leur ont rendus désuets, de même que l'écriture rend inutile l'épopée. D'ailleurs une critique analogue se tient face à la calculatrice. Pour ne donner qu'un exemple, d'après Diane Hunsaker, professeur de mathématiques au Californie\cite{eduworld}~:
-\begin{quote}
-Les étudiants qui ne font pas la longue-division, qui sortent leur calculatrice pour compléter la réponse, ne comprènent pas le principe soujascente de la division [\ldots] Les calculatrices empêchent les étudiants de voir la structure sousjascente et donc la beauté des mathématiques.
-\end{quote}
-Si des machines à calculer tels le Boulier existent depuis environ 4000 ans, ceux-ci ne sont véritablement que des supports mémoires~: c'est l'étudiant qui applique l'algorithme permettant de calculer le résultat désiré, ce qui n'est pas le cas pour les machines à calcule mécaniques (tels la Pascaline) ou éléctroniques.
+Nous pouvions nous dire que le calcul mentale n'a peu d'importance maintenant que les machines à calcul sont omniprésent, mais la foi en une machine n'est pas moins dangereux que la foi en générale, s'il est sans mesure. 
 
 
 \section{Les technologies du \og{}Broadcast\fg{}~: presse, radio, télévision, internet, \ldots}
