@@ -50,3 +50,5 @@
 * [Kelvin-Doe.jpg](http://hackedgadgets.com/2012/11/22/15-year-old-kelvin-doe-from-sierra-leone-visits-mit/)
 * [modern_lecture.jpg] (https://www.math.lsu.edu/ugrad)
 * [ai_class.jpg](https://chrome.google.com/webstore/detail/ai-class-questions/monhlnpmmijealhaapfbpbgcpaapjemb)
+* [steinbuch.jpg](http://www.etit.kit.edu/1076.php)
+* [penfield.jpg](https://en.wikipedia.org/wiki/Wilder_Penfield)
