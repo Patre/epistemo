@@ -1,21 +1,26 @@
-% !TEX encoding = UTF-8 Unicode
-
-\documentclass[a4paper]{report}
-\usepackage[francais]{babel}
-\usepackage[T1]{fontenc}
+\documentclass[a4paper,french,oneside,10pt]{book}
 \usepackage[utf8]{inputenc}
-\usepackage{geometry}
-\usepackage{graphicx}
+\usepackage[french]{babel}
 \usepackage[colorlinks=true]{hyperref}
 \hypersetup{urlcolor=blue,linkcolor=red,colorlinks=false} 
-\usepackage{algorithm,algorithmic}
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage[french]{minitoc}
+\usepackage{multirow}
+\usepackage{placeins}
 \usepackage{listings}
-\usepackage{amssymb}
-\usepackage{setspace}
-\usepackage{listings}
-\usepackage{lscape}
+\usepackage{color}
+\usepackage{float}
+\usepackage{tabularx}
 \usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[french]{varioref}
+%\usepackage[bookmarks=true]{hyperref}
+\usepackage{lscape}
 \usepackage[xindy,toc,acronym]{glossaries}
+\usepackage{setspace}
+\usepackage{algorithm,algorithmic}
 
 \usepackage{tikz}
 \usetikzlibrary{trees}
@@ -24,10 +29,6 @@
 \usepackage[normalsize]{subfigure}
 \usepackage{verbatim}
 
-\pagestyle{headings}
-\thispagestyle{empty}
-\geometry{a4paper,twoside,left=2.5cm,right=2.5cm,marginparwidth=1.2cm,marginparsep=3mm,top=2.5cm,bottom=2.5cm}
-\lstset{language=C, showstringspaces=false, numbers=left, numberstyle=\tiny, tabsize=4}
 \tikzstyle{vertex}=[circle,fill=black!25,minimum size=20pt,inner sep=0pt]
 \tikzstyle{edge} = [draw,thick,-]
 \tikzstyle{tree edge} = [draw, thick,->,red!75]
@@ -43,48 +44,98 @@
 % Siècle %
 \newcommand{\siecle}[1]{\cRM{#1}\textsuperscript{e}~siècle}
 
+\hypersetup{pdfborder={0 0 0}}
+\pagestyle{fancy}
+\setlength{\parskip}{1.5ex plus .4ex minus .4ex}
+\renewcommand{\labelitemi}{\textbullet}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+\include{def}
+
+\pagestyle{fancy}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+
+\fancyhf{}
+
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[LO]{\leftmark}
+\fancyhead[RE]{\doctitle}
+
+\fancypagestyle{corps}{ 
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[LO]{\rightmark}
+\fancyhead[RE]{\leftmark}
+}
+
+\renewcommand{\footrulewidth}{0pt} % pas de filet en bas
+\fancypagestyle{plain}{ % pages de tetes de chapitre
+\fancyhead{}
+% supprime l’entete
+\renewcommand{\headrulewidth}{0pt} % et le filet
+}
+\newcommand{\clearemptydoublepage}{%
+	\newpage{\pagestyle{empty}\cleardoublepage}}
+
+
+%Modification des marges
+%\\oddsidemargin}{-2,5cm}
+%\addtolength{\textwidth}{5cm}
+%\addtolength{\topmargin}{-2,5cm}
+%\addtolength{\textheight}{4cm}
+
+%definition des fonctions de la page de garde
+\input{garde/gardedef}
+
 \makeglossaries
-\input{glossary.tex}
+\input{glossary}
 
 \begin{document}
 
-\large
-\setlength{\parskip}{5mm plus2mm minus2mm}
 
+\dominitoc
 
-\begin{titlepage} 
-{\setlength{\parindent}{0cm}
-Chloé DESDOUITS \hfill M2 Informatique 2012\\
-William DYCE \\
-Thibaut MARMIN \\
-Clément SIPIETER 
-}
-\vfill
-{\centering \Huge \bfseries L'intégration des technologies de l'information dans l'éducation\par}
-\vfill
-Université Montpellier 2 \hfill  Épistémologie de l'informatique
-\end{titlepage} 
+\input{garde/garde}
+\clearemptydoublepage
+
+\input{garde/licence}
+\clearemptydoublepage
+
+\input{intro}
+\clearemptydoublepage
+
+\input{abstract}
+\clearemptydoublepage
 
 \tableofcontents
-\thispagestyle{empty}
-\pagenumbering{arabic}
+\clearemptydoublepage
 
+\input{quoi}
+\clearemptydoublepage
+\input{pourquoi}
+\clearemptydoublepage
+\input{comment}
+\clearemptydoublepage
+\input{conclu}
+\clearemptydoublepage
 
-\input{intro.tex}
-\input{quoi.tex}
-\input{pourquoi.tex}
-\input{comment.tex}
-\input{conclu.tex}
-
-
-\bibliographystyle{plain}
-\bibliography{../Bib}
-
-\printglossaries
+\pagebreak
 
 \vfill
 {\raggedleft Réalisé avec \LaTeX{} \par}
 
+\addcontentsline{toc}{chapter}{Bibliographie}
+\bibliographystyle{plain}
+\bibliography{../Bib}
+\pagebreak
+ 
+\addcontentsline{toc}{chapter}{Glossaire}
+\printglossaries
+\pagebreak
+ 
+\addcontentsline{toc}{chapter}{Table des figures}
+\listoffigures
+
 \end{document}
 
-%TODO the empire's new mind & shadows of the mind & Sir Rogers Penrose
