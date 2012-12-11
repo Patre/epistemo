@@ -21,6 +21,7 @@
 \usepackage[xindy,toc,acronym]{glossaries}
 \usepackage{setspace}
 \usepackage{algorithm,algorithmic}
+\usepackage{xparse}
 
 \usepackage{tikz}
 \usetikzlibrary{trees}
@@ -36,6 +37,21 @@
 \tikzstyle{cross} = [path picture={ \draw[black](path picture bounding box.south east) -- (path picture bounding box.north west) (path picture bounding box.south west) -- (path picture bounding box.north east);}]
 \pgfdeclarelayer{background}
 \pgfsetlayers{background,main}
+
+\NewDocumentEnvironment{coolquote}{O{}}{%
+\vspace{0.2cm}
+\itshape
+\raisebox{-.05\linewidth}{\includegraphics[width=.1\linewidth]{guillemet}}%
+\hspace{0.1cm}
+\begin{minipage}[t]{.85\linewidth}
+}{
+\end{minipage}
+\begin{minipage}[t]{\linewidth}
+\vspace{0.2cm}
+\hfill\normalfont\scriptsize #1
+\end{minipage}
+\vspace{0.2cm}
+}
 
 % Romain
 \newcommand{\cRM}[1]{\MakeUppercase{\romannumeral #1}}  % Capital
