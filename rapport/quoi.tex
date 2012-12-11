@@ -16,12 +16,13 @@
 Le mot \og{}informatique\fg{} est une concatenation d'\og{}information\fg{} et \og{}automatique\fg{} fait en 1957 par Karl Steinbuch\cite{steinbuch-2005} pour décrire le traitement automatique de l'information.
 
 Depuis le terme a été adopté pour décrire une gamme tellement vaste de sciences, de technologies et de services qu'il a besoin d'être qualifié pour avoir un sens précis.
+\vspace{1cm}
 \end{minipage}
 
-D'après Wikipedia\cite{wiki-informatique}~:
-\begin{quote}
+\begin{coolquote}[Wikipedia\cite{wiki-informatique}]
 Les expressions \og{}science informatique\fg{}, \og{}informatique fondamentale\fg{} ou \og{}informatique théorique\fg{} sont utilisées pour désigner sans ambiguïté la science, tandis que \og{}technologies de l'information\fg{} ou \og{}technologies de l'information et de la communication\fg{} désignent le secteur industriel et ses produits.
-\end{quote}
+\end{coolquote}
+
 Ici nous utiliserons \og{}technologies de l'information\fg{} pour décrire toute technique permettant de stoquer, de traiter ou de transférer l'information. Cette définition couvre évidemment les algorithmes, structure données et protocoles de communication, mais aussi les langages naturels, l'écriture, et tout outil de réflexion logico-mathématique\ldots
 
 \chapter{Le langage~: protocole de communication}
@@ -55,10 +56,12 @@ Si le langage peut être vu comme un instinct plutôt qu'une technologie, ce n'e
 
 En tout cas l'invention de l'écriture est une véritable épiphanie informatique. Elle permet à un support mort de stoquer un ensemble de données codés sous forme de symboles, donc de repousser d'avantage la frontière de l'espace et du temps.
 Cette avancé rend assez redondants les techniques de mémorisation lyriques mentionnées ci-dessus. La réaction de ceux qui se sont investies dedans est donc peu surprenant~:
-\begin{quote}
+
+\begin{coolquote}[Platon\cite{plato-phaedrus}]
 Elle ne peut produire dans les âmes, en effet, que l’oubli de ce qu’elles  savent en leur faisant négliger la mémoire. Parce qu’ils auront foi dans  l’écriture, c’est par le dehors, par des empreintes étrangères, et non plus du dedans et du fond d’eux-mêmes, que les hommes chercheront à se ressouvenir. Tu as trouvé le moyen, non point d’enrichir la mémoire, mais de conserver les souvenirs qu’elle a. Tu donnes à tes disciples la présomption qu’ils ont la science, non la science elle-même. Quand ils auront, en effet, beaucoup appris sans maître, ils s’imagineront devenus très savants, et ils ne seront pour la plupart que des ignorants de commerce incommode, des savants imaginaires au lieu de vrais savants.
-\end{quote}
-Cette critique fait par Platon\cite{plato-phaedrus}, à travers un dialogue entre Socrates et Phaedrus, suggère que l'écriture, en plus de nuire à la mémoire, limite son lecteur à ce que la taxonomie de Bloom\cite{tax-bloom} appelerait \og{}connaître\fg{} à la différence de \og{}comprendre\fg{}, \og{}appliquer\fg{} et cetera. Pour Platon une conaissance ne peut être transféré correctement sans être assimilé, or le papier, si bien soit-il capable de stoquer des propos, est incapable de les comprendre ou de les défendre. 
+\end{coolquote}
+
+Cette critique fait à travers un dialogue entre Socrates et Phaedrus, suggère que l'écriture, en plus de nuire à la mémoire, limite son lecteur à ce que la taxonomie de Bloom\cite{tax-bloom} appelerait \og{}connaître\fg{} à la différence de \og{}comprendre\fg{}, \og{}appliquer\fg{} et cetera. Pour Platon une conaissance ne peut être transféré correctement sans être assimilé, or le papier, si bien soit-il capable de stoquer des propos, est incapable de les comprendre ou de les défendre. 
 
 Il ne faut pas oublier, cependant, que Platon était un professeur dont la pédagogie se repossait sur le dialogue et non la lecture. Il n'est donc pas un interlocuteur très objective. Notons également avec ironie que si nous connaissons Platon c'est grâce à l'écriture, et si nous confondons Socrates avec lui c'est que ce dernier n'a laissé aucune trace écrite.
 
@@ -68,11 +71,14 @@ Celà étant, les critiques de Platon sont d'autant plus pertinents aujourd'hui~
 
 
 \chapter{L'horloge maritime~: calcul automatique}
-Nous pourrions remplir un rapport tout entier s'il était question d'énumérer les apports de l'outil logico-mathématique, donc nous nous limiterons à l'exemple pertinente des tables de logarithmes. Les logarithmes de Napier, introduits en 1614 dans son oeuvre \og{}Mirifici Logarithmorum Canonis Descriptio\fg{}, furent un outil abstrait visant à simplifier des calculs complexes. Les tables de logarithmes sont très vite devenus indispensables pour tout mathématicien, ingénieur, navigateur ou scientifique. D'après Pierre-Simon Laplace cette invention est\cite{history-of-astronomy}~:
-\begin{quote}
-Un artifice admirable qui, en réduisant à quelques jours un travail de plusieurs mois, double la durée de vie de l'astronome, et lui épargne les erreurs et le dégoût : plaies inséparables des longs calculs.
-\end{quote}
+Nous pourrions remplir un rapport tout entier s'il était question d'énumérer les apports de l'outil logico-mathématique, donc nous nous limiterons à l'exemple pertinente des tables de logarithmes. Les logarithmes de Napier, introduits en 1614 dans son oeuvre \og{}Mirifici Logarithmorum Canonis Descriptio\fg{}, furent un outil abstrait visant à simplifier des calculs complexes. Les tables de logarithmes sont très vite devenus indispensables pour tout mathématicien, ingénieur, navigateur ou scientifique.
+
+\begin{coolquote}[Pierre-Simon Laplace\cite{history-of-astronomy}]
+[Les logarithmes sont] un artifice admirable qui, en réduisant à quelques jours un travail de plusieurs mois, double la durée de vie de l'astronome, et lui épargne les erreurs et le dégoût : plaies inséparables des longs calculs.
+\end{coolquote}
+
 L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe{}uvre de 1617 d'Henri Briggs. Muni d'une telle table la multiplication de deux nombre, par exemple, devient triviale~:
+
 \begin{eqnarray}
                     &x            &= 2.16\times{8.13}              \nonumber \\
         \implies{}  &\log{x}      &= \log{2.16}+\log{8.13}         \nonumber \\
@@ -80,6 +86,7 @@ L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe
                     &             &= 1.2445443                     \nonumber \\
         \implies{}  &x            &\approx{17.56}                   \nonumber \\
 \end{eqnarray}
+
 La table nous donne directement $\log{2.16}$ et $\log{8.13}$, et nous pouvoir également lire que le logarithme le plus proche est $log{17.56} = 1.2445245$. Nous en déduisons donc en quelques instants $2.16\times{8.13} \approx{17.56}$, ce qui n'est pas loin de de la vraie valeur $2.16\times{8.13}={17.5608}$.
 
 Laplace parle de l'astronome, car il s'agit de l'époque des grandes découvertes~: pour naviger on ne peut s'en passer des almanachs astrales et des algorithmes de navigation astronomique qui se reposaient dessus. Cependant si la latitude peut se calculer grace à l'hauteur perçu du soleil, la longitude est déterminé à partir de la conaissance de l'heure exacte en un endroit précis~: $4$ minutes de décalage correspond à une différence de longitude de $1^{\circ}$.  
