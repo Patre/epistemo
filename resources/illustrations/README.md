@@ -52,3 +52,6 @@
 * [ai_class.jpg](https://chrome.google.com/webstore/detail/ai-class-questions/monhlnpmmijealhaapfbpbgcpaapjemb)
 * [steinbuch.jpg](http://www.etit.kit.edu/1076.php)
 * [penfield.jpg](https://en.wikipedia.org/wiki/Wilder_Penfield)
+* [herodote.jpg](https://en.wikipedia.org/wiki/Herodotus)
+* [psamtik-I.jpg](https://en.wikipedia.org/wiki/Psamtik_I)
+* [fred-II.jpg](https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor)
