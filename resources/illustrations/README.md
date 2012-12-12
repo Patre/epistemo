@@ -58,3 +58,8 @@
 * [plato2.jpg](https://en.wikipedia.org/wiki/Plato)
 * [socrates.jpg](https://de.wikipedia.org/wiki/Sokrates)
 * [bloom_face.png](http://projects.coe.uga.edu/epltt/index.php?title=Bloom%27s_Taxonomy)
+* [napier.jpg](https://en.wikipedia.org/wiki/John_Napier)
+* [laplace.jpg](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
+* [scilly1707.jpg](https://en.wikipedia.org/wiki/Scilly_naval_disaster_of_1707)
+* [jharrison.jpg](https://fr.wikipedia.org/wiki/John_Harrison_%28horloger%29)
+* [maskelyne.jpg]()

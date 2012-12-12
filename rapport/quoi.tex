@@ -133,7 +133,21 @@ Nous pourrions remplir un rapport tout entier s'il était question d'énumérer 
 [Les logarithmes sont] un artifice admirable qui, en réduisant à quelques jours un travail de plusieurs mois, double la durée de vie de l'astronome, et lui épargne les erreurs et le dégoût : plaies inséparables des longs calculs.
 \end{coolquote}
 
-L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe{}uvre de 1617 d'Henri Briggs. Muni d'une telle table la multiplication de deux nombre, par exemple, devient triviale~:
+\begin{minipage}[H]{0.49\linewidth}
+  \begin{figure}[H]
+  \centering
+  \includegraphics[height=0.15\paperheight]{../resources/illustrations/napier}
+  \caption{John Napier}
+  \end{figure}
+\end{minipage}
+\begin{minipage}[H]{0.49\linewidth}
+  \begin{figure}[H]
+  \centering
+  \includegraphics[height=0.15\paperheight]{../resources/illustrations/laplace}
+  \caption{Pierre-Simon Laplace}
+  \end{figure}
+\end{minipage}
+L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe{}uvre de 1617 d'Henri Briggs. Muni d'une telle table la multiplication de deux nombres, par exemple, devient triviale~:
 
 \begin{eqnarray}
                     &x            &= 2.16\times{8.13}              \nonumber \\
@@ -143,11 +157,40 @@ L'utilisation des logarithmes se repose sur des tables de précalcule tels l'\oe
         \implies{}  &x            &\approx{17.56}                   \nonumber \\
 \end{eqnarray}
 
-La table nous donne directement $\log{2.16}$ et $\log{8.13}$, et nous pouvoir également lire que le logarithme le plus proche est $log{17.56} = 1.2445245$. Nous en déduisons donc en quelques instants $2.16\times{8.13} \approx{17.56}$, ce qui n'est pas loin de de la vraie valeur $2.16\times{8.13}={17.5608}$.
+La table nous donne directement $\log{2.16}$ et $\log{8.13}$, et nous pouvoir également lire que le logarithme le plus proche est $log{17.56} = 1.2445245$. Nous en déduisons donc en quelques instants $2.16\times{8.13} \approx{17.56}$, ce qui n'est pas loin de de la vraie valeur $2.16\times{8.13}={17.5608}$. Il s'agit en somme d'un algorithme approximatif à base de tables de pré-calcule~: notons que de tels algorithmes existent depuis les Babyloniens\cite{robson-math}.
 
 Laplace parle de l'astronome, car il s'agit de l'époque des grandes découvertes~: pour naviger on ne peut s'en passer des almanachs astrales et des algorithmes de navigation astronomique qui se reposaient dessus. Cependant si la latitude peut se calculer grace à l'hauteur perçu du soleil, la longitude est déterminé à partir de la conaissance de l'heure exacte en un endroit précis~: $4$ minutes de décalage correspond à une différence de longitude de $1^{\circ}$.  
 
-En 1714, alors que la flotte Anglaise vient de perdre 1,400 hommes et 4 navire suite à un mauvais calcul de position, le parlement offre un prix de \pounds{20,000} à celui qui saura déterminer, avec une erreur maximum de 56 km, la longitude d'un navire en mer\cite{longitude}. Entre en jeu le charpentier John Harrison, qui construit 1736 la première horloge capable de fonctionner en voyage maritime, suivi d'autres toujours plus compactes et toujours plus précises. Cette invention fut cependant rejeté par l'orthodoxie académique de l'époque, qui voulaient surtout une solution algorithmique tel la méthode des distances lunaires, introduite en Angleterre en 1674 et perfectionnée par Nevil Maskelyne en 1767\cite{history-longitude}. Harrison aura besoin d'attendre 1773 pour recevoir une prime réduite de \pounds{8,750}, et ne sera pas officiellement reconnu comme gagnant.
+\begin{minipage}[H]{0.59\linewidth}
+  \begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{../resources/illustrations/scilly1707}
+  \caption{Désastre naval de Sorlingues}
+  \end{figure}
+\end{minipage}
+\begin{minipage}[H]{0.39\linewidth}
+En 1714, après la perte en 1707 de 1,400 hommes et 4 navires à Sorlingues suite à un mauvais calcul de position, le parlement Britannique offre un prix de \pounds{20,000} à celui qui saura déterminer, avec une erreur maximum de 56 km, la longitude d'un navire en mer\cite{longitude}. 
+%\vspace{1cm}
+\end{minipage}
+
+Entre en jeu le charpentier John Harrison, horlogier autodidacte qui construit 1736 la première horloge capable de fonctionner en voyage maritime, suivi d'autres toujours plus compactes et toujours plus précises. Cette invention fut cependant rejeté par l'orthodoxie académique de l'époque, qui voulaient impérativement une solution algorithmique-astrologique tel la méthode des distances lunaires, introduite en Angleterre en 1674 et perfectionnée par Nevil Maskelyne en 1767\cite{history-longitude}.
+
+\begin{minipage}[H]{0.49\linewidth}
+  \begin{figure}[H]
+  \centering
+  \includegraphics[height=0.15\paperheight]{../resources/illustrations/jharrison}
+  \caption{John Harrison}
+  \end{figure}
+\end{minipage}
+\begin{minipage}[H]{0.49\linewidth}
+  \begin{figure}[H]
+  \centering
+  \includegraphics[height=0.15\paperheight]{../resources/illustrations/maskelyne}
+  \caption{Nevil Maskelyne}
+  \end{figure}
+\end{minipage}
+
+Harrison aura besoin d'attendre 1773 pour recevoir une prime réduite de \pounds{8,750}, et ne sera pas officiellement reconnu comme gagnant.
 
 Pourqui ce rejet? Il s'agit d'un Homme ayant conçu un \og{}oracle\fg{} capable de résoudre le problème pour lui et non pas, distinction importante, une méthode lui permettant de le résoudre lui-même. L'informaticien devient alors prêtre d'un Dieu-machine plutôt que mathématicien-philosophe~: proposition controverse. Ce débat, entre ingénierie et science, trouve son écho aujourd'hui autour de l'apprentissage automatique~: nous pouvons concevoir des machines capable de reconaître des visages, sans comprendre pour autant comment fonctionne cette reconaissance. 
 
