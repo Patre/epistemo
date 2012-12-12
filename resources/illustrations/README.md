@@ -55,3 +55,6 @@
 * [herodote.jpg](https://en.wikipedia.org/wiki/Herodotus)
 * [psamtik-I.jpg](https://en.wikipedia.org/wiki/Psamtik_I)
 * [fred-II.jpg](https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor)
+* [plato2.jpg](https://en.wikipedia.org/wiki/Plato)
+* [socrates.jpg](https://de.wikipedia.org/wiki/Sokrates)
+* [bloom_face.png](http://projects.coe.uga.edu/epltt/index.php?title=Bloom%27s_Taxonomy)
