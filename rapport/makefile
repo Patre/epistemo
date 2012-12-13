@@ -31,3 +31,6 @@ clean:
 mrproper:
 	make clean
 	@rm *.pdf
+
+mrclean:
+	make mrproper

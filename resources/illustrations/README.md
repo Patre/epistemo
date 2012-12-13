@@ -62,4 +62,7 @@
 * [laplace.jpg](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 * [scilly1707.jpg](https://en.wikipedia.org/wiki/Scilly_naval_disaster_of_1707)
 * [jharrison.jpg](https://fr.wikipedia.org/wiki/John_Harrison_%28horloger%29)
-* [maskelyne.jpg]()
+* [maskelyne.jpg](https://en.wikipedia.org/wiki/Nevil_Maskelyne)
+* [trithemius.jpg](https://fr.wikipedia.org/wiki/Johannes_Trithemius)
+* [meergeren.jpg](https://en.wikipedia.org/wiki/Han_van_Meegeren)
+* [gutenberg.jpg](https://en.wikipedia.org/wiki/Johannes_Gutenberg)
