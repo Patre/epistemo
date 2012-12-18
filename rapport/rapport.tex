@@ -18,10 +18,11 @@
 \usepackage[french]{varioref}
 %\usepackage[bookmarks=true]{hyperref}
 \usepackage{lscape}
-\usepackage[xindy,toc,acronym]{glossaries}
 \usepackage{setspace}
 \usepackage{algorithm,algorithmic}
 \usepackage{xparse}
+%\usepackage[xindy,toc,acronym]{glossaries}
+\usepackage[nonumberlist,seeautonumberlist,toc,style=altlist]{glossaries}
 
 \usepackage{tikz}
 \usetikzlibrary{trees}
@@ -106,6 +107,18 @@
 
 \makeglossaries
 \input{glossary}
+
+\newglossaryentry{cli}
+{
+  name={Command Line Interface (CLI)},
+  first={command line interface (CLI)},
+  text={CLI},
+  description={an application that doesn't have a graphical user
+  interface. That is, an application that doesn't have any windows,
+  buttons or menus and can be run in a command
+  prompt or terminal (see
+  \url{http://www.dickimaw-books.com/latex/novices/html/terminal.html})}
+}
 
 \begin{document}
 
